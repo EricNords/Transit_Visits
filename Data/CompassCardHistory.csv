@@ -1,0 +1,51 @@
+DateTime,Transaction,Product,LineItem,Amount,BalanceDetails,JourneyId,LocationDisplay,TransactonTime,OrderDate,Payment,OrderNumber,AuthCode,Total
+Dec-15-2024 04:35 PM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$0.15,2024-12-16T00:18:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",04:35 PM,,,,,
+Dec-15-2024 04:27 PM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$0.15,2024-12-16T00:18:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",04:27 PM,,,,,
+Dec-15-2024 04:18 PM,Tap in at Waterfront Stn,3 Zone UPass (N),,$0.00,$0.15,2024-12-16T00:18:00.0000000Z,"Tap in at Waterfront Stn
+3 Zone UPass (N)",04:18 PM,,,,,
+Dec-15-2024 11:39 AM,Transfer at Bus Stop 50030,3 Zone UPass (N),,$0.00,$0.15,2024-12-15T18:29:00.0000000Z,"Transfer at Bus Stop 50030
+3 Zone UPass (N)",11:39 AM,,,,,
+Dec-15-2024 10:29 AM,Tap in at Bus Stop 61701,3 Zone UPass (N),,$0.00,$0.15,2024-12-15T18:29:00.0000000Z,"Tap in at Bus Stop 61701
+3 Zone UPass (N)",10:29 AM,,,,,
+Dec-08-2024 03:35 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$0.15,2024-12-08T23:35:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",03:35 PM,,,,,
+Dec-08-2024 06:39 AM,Tap in at Bus Stop 61701,3 Zone UPass (N),,$0.00,$0.15,2024-12-08T14:39:00.0000000Z,"Tap in at Bus Stop 61701
+3 Zone UPass (N)",06:39 AM,,,,,
+Dec-07-2024 11:27 AM,Transfer at Bus Stop 61580,3 Zone UPass (N),,$0.00,$0.15,2024-12-07T19:01:00.0000000Z,"Transfer at Bus Stop 61580
+3 Zone UPass (N)",11:27 AM,,,,,
+Dec-07-2024 11:01 AM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$0.15,2024-12-07T19:01:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",11:01 AM,,,,,
+Dec-01-2024 01:43 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$0.15,2024-12-01T21:26:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",01:43 PM,,,,,
+Dec-01-2024 01:26 PM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$0.15,2024-12-01T21:26:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",01:26 PM,,,,,
+Dec-01-2024 07:34 AM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$0.15,2024-12-01T15:34:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",07:34 AM,,,,,
+Nov-26-2024 01:33 PM,Transfer at Bus Stop 50913,3 Zone UPass (N),,$0.00,$0.15,2024-11-26T20:29:00.0000000Z,"Transfer at Bus Stop 50913
+3 Zone UPass (N)",01:33 PM,,,,,
+Nov-26-2024 01:28 PM,Tap out at Commercial Drive Stn,3 Zone UPass (N),,$0.00,$0.15,2024-11-26T20:29:00.0000000Z,"Tap out at Commercial Drive Stn
+3 Zone UPass (N)",01:28 PM,,,,,
+Nov-26-2024 01:01 PM,Transfer at Lougheed Stn,3 Zone UPass (N),,$0.00,$0.15,2024-11-26T20:29:00.0000000Z,"Transfer at Lougheed Stn
+3 Zone UPass (N)",01:01 PM,,,,,
+Nov-26-2024 12:29 PM,Tap in at Bus Stop 61717,3 Zone UPass (N),,$0.00,$0.15,2024-11-26T20:29:00.0000000Z,"Tap in at Bus Stop 61717
+3 Zone UPass (N)",12:29 PM,,,,,
+Nov-26-2024 10:29 AM,Tap in at Bus Stop 58432,3 Zone UPass (N),,$0.00,$0.15,2024-11-26T18:29:00.0000000Z,"Tap in at Bus Stop 58432
+3 Zone UPass (N)",10:29 AM,,,,,
+Nov-26-2024 10:00 AM,Tap out at Lougheed Stn,3 Zone UPass (N),,$0.00,$0.15,2024-11-26T16:55:00.0000000Z,"Tap out at Lougheed Stn
+3 Zone UPass (N)",10:00 AM,,,,,
+Nov-26-2024 09:34 AM,Transfer at Commercial Drive Stn,3 Zone UPass (N),,$0.00,$0.15,2024-11-26T16:55:00.0000000Z,"Transfer at Commercial Drive Stn
+3 Zone UPass (N)",09:34 AM,,,,,
+Nov-26-2024 09:34 AM,Loaded at Commercial Drive Stn,3 Zone UPass (N),,$0.00,$0.15,,"Loaded at Commercial Drive Stn
+3 Zone UPass (N)",09:34 AM,,,,,
+Nov-26-2024 08:55 AM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$0.15,2024-11-26T16:55:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",08:55 AM,,,,,
+Nov-24-2024 12:43 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$0.15,2024-11-24T20:43:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",12:43 PM,,,,,
+Nov-24-2024 07:34 AM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$0.15,2024-11-24T15:34:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",07:34 AM,,,,,
+Nov-20-2024 10:57 AM,Transfer at Bus Stop 61580,3 Zone UPass (N),,$0.00,$0.15,2024-11-20T18:05:00.0000000Z,"Transfer at Bus Stop 61580
+3 Zone UPass (N)",10:57 AM,,,,,
+Nov-20-2024 10:05 AM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$0.15,2024-11-20T18:05:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",10:05 AM,,,,,
