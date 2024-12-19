@@ -99,7 +99,7 @@
 59494,Eastbound Murray St @ Hugh St,49.278797,-122.847702,BUS ZN
 58374,Northbound Sperling Ave @ Union St,49.278015,-122.964558,BUS ZN
 59043,Eastbound Greenmount Ave @ Wellington St,49.284281,-122.760387,BUS ZN
-59767,VCC-Clark Station @ Unloading Only,49.266014,-123.080036,BUS ZN
+59767,VCC-Clark Stn @ Unloading Only,49.266014,-123.080036,BUS ZN
 59616,Eastbound Mall Access Rd @ Meadowtown Centre,49.220613,-122.672576,BUS ZN
 59605,Southbound 200 St @ 64 Ave,49.118495,-122.668744,BUS ZN
 51011,Northbound Angus Dr @ W 64 Ave,49.21358,-123.148376,BUS ZN
@@ -218,16 +218,16 @@
 59751,Westbound W 6th Ave @ Alder Crossing,49.266199,-123.132576,BUS ZN
 59754,Eastbound W 6th Ave @ Heather St,49.265832,-123.120144,BUS ZN
 51027,Northbound Arbutus St @ W 33 Ave,49.242436,-123.153359,BUS ZN
-61039,Olympic Village Station @ Bay 2,49.266425,-123.114936,BUS ZN
+61039,Olympic Village Stn @ Bay 2,49.266425,-123.114936,BUS ZN
 59758,Eastbound W 2nd Ave @ Columbia St,49.269029,-123.109733,BUS ZN
 59760,Eastbound E 2nd Ave @ Ontario St,49.269125,-123.104153,BUS ZN
 59763,Eastbound Great Northern Way @ Brunswick St,49.266743,-123.095812,BUS ZN
 59766,Eastbound Great Northern Way @ Foley St,49.266021,-123.086122,BUS ZN
-59646,Northbound West St @ Maple Meadows Station,49.216888,-122.664763,BUS ZN
+59646,Northbound West St @ Maple Meadows Stn,49.216888,-122.664763,BUS ZN
 51028,Northbound Arbutus St @ Valley Dr,49.245478,-123.153186,BUS ZN
 59783,Northbound Boundary Rd @ E Kent Ave North,49.203898,-123.023178,BUS ZN
-60825,VCC-Clark Station @ Platform 2,49.265799,-123.079054,ZN 1
-60824,VCC-Clark Station @ Platform 1,49.265873,-123.079049,ZN 1
+60825,VCC-Clark Stn @ Platform 2,49.265799,-123.079054,ZN 1
+60824,VCC-Clark Stn @ Platform 1,49.265873,-123.079049,ZN 1
 59780,Southbound Patterson Ave @ Clinton St,49.212629,-123.012493,BUS ZN
 59649,Westbound Hammond Rd @ 20200 Block,49.213596,-122.660143,BUS ZN
 59775,Southbound 228 St @ Dewdney Trunk Rd,49.220113,-122.590426,BUS ZN
@@ -258,11 +258,11 @@
 59883,Eastbound Lansdowne Rd @ Kwantlen St,49.173705,-123.128278,BUS ZN
 59851,Westbound 20 Ave @ Rotary Way,49.038515,-122.818687,BUS ZN
 59852,South Delta Exchange @ Bay 3,49.03611,-123.066984,BUS ZN
-59868,Edmonds Station @ Bay 7,49.212044,-122.958701,BUS ZN
+59868,Edmonds Stn @ Bay 7,49.212044,-122.958701,BUS ZN
 51034,Northbound Arbutus St @ W 15 Ave,49.258543,-123.152972,BUS ZN
 59930,Southbound Hudson St @ SW Marine Dr,49.202765,-123.134919,BUS ZN
 59940,Westbound Stadium Rd @ West Mall,49.25498,-123.24893,BUS ZN
-59929,Main Street-Science World Station @ Bay 3,49.273162,-123.098684,BUS ZN
+59929,Main Street-Science World Stn @ Bay 3,49.273162,-123.098684,BUS ZN
 59931,South Surrey Park & Ride @ Bay 4,49.07214,-122.822421,BUS ZN
 58762,Southbound Fraser St @ SE Marine Dr,49.211303,-123.091221,BUS ZN
 53515,Eastbound Brunette Ave @ Blue Mountain St,49.236125,-122.873272,BUS ZN
@@ -280,7 +280,7 @@
 59916,Eastbound Pacific Blvd @ Boathouse Mews,49.27421,-123.117633,BUS ZN
 59924,Southbound Quebec St @ Keefer St,49.279008,-123.102218,BUS ZN
 59918,Eastbound Pacific Blvd @ Marinaside Cres,49.274212,-123.114446,BUS ZN
-50016,Yaletown-Roundhouse Station @ Bay 4,49.274036,-123.120842,BUS ZN
+50016,Yaletown-Roundhouse Stn @ Bay 4,49.274036,-123.120842,BUS ZN
 51038,Southbound Renfrew St @ E Georgia St,49.277967,-123.044227,BUS ZN
 58169,Eastbound Keefer Place @ Taylor St,49.279326,-123.105758,BUS ZN
 59914,Westbound Pacific Blvd @ Cambie St,49.274606,-123.119683,BUS ZN
@@ -320,7 +320,7 @@
 59983,Westbound Fraser Hwy @ 222 St,49.091951,-122.608976,BUS ZN
 59708,Eastbound Brown Ave @ 224 St,49.221507,-122.600945,BUS ZN
 52226,Westbound Miller Rd @ Templeton St,49.192217,-123.149384,BUS ZN
-58084,Braid Station @ Bay 4,49.233381,-122.882642,BUS ZN
+58084,Braid Stn @ Bay 4,49.233381,-122.882642,BUS ZN
 53663,Westbound United Blvd @ Schooner St,49.228187,-122.840174,BUS ZN
 59911,Eastbound Mary Hill Bypass @ Broadway St,49.241462,-122.76024,BUS ZN
 59912,Westbound Mary Hill Bypass @ Kingsway Ave,49.246142,-122.750353,BUS ZN
@@ -378,7 +378,7 @@
 57141,Westbound Fraser Hwy @ 184 St,49.129092,-122.71329,BUS ZN
 57091,Eastbound Fraser Hwy @ 184 St,49.128198,-122.711511,BUS ZN
 60716,Westbound Fraser Hwy @ 18900 Block,49.121576,-122.696744,BUS ZN
-51056,29th Avenue Station @ Bay 3,49.244134,-123.044757,BUS ZN
+51056,29th Avenue Stn @ Bay 3,49.244134,-123.044757,BUS ZN
 60726,Eastbound W Broadway @ Blenheim St,49.264155,-123.17742,BUS ZN
 60727,Eastbound W Broadway St @ Balaclava St,49.264095,-123.173572,BUS ZN
 60728,Eastbound W Broadway @ Bayswater St,49.264061,-123.170799,BUS ZN
@@ -428,7 +428,7 @@
 60740,Eastbound 115 Ave @ Bridgeview Dr,49.21115,-122.86105,BUS ZN
 60741,Southbound 132 St @ 115 Ave,49.210982,-122.856425,BUS ZN
 60796,Eastbound 64 Ave @ 181A St,49.118669,-122.719315,BUS ZN
-59645,Southbound West St @ Maple Meadows Station,49.216815,-122.664953,BUS ZN
+59645,Southbound West St @ Maple Meadows Stn,49.216815,-122.664953,BUS ZN
 60723,Southbound 200 St @ Maple Meadows Way,49.2198,-122.665955,BUS ZN
 60861,Northbound 201A St @ Michaud Cres,49.102443,-122.664137,BUS ZN
 60866,Westbound 56 Ave @ 213A St,49.104567,-122.631667,BUS ZN
@@ -436,7 +436,7 @@
 60867,Eastbound 56 Ave @ 213A St,49.104374,-122.631454,BUS ZN
 60882,Westbound Bus Access Rd @ Burns Dr,49.091147,-122.965068,BUS ZN
 60868,Northbound Ferry Rd @ Commodore Dr,49.106195,-123.078934,BUS ZN
-51967,Langara-49th Station @ Bay 3,49.226003,-123.11584,BUS ZN
+51967,Langara-49th Stn @ Bay 3,49.226003,-123.11584,BUS ZN
 60865,Westbound 56 Ave @ 203 St,49.104386,-122.66168,BUS ZN
 60864,Southbound 203 St @ 56 Ave,49.103695,-122.660498,BUS ZN
 51066,Southbound Clarendon St @ E 40 Ave,49.233499,-123.055616,BUS ZN
@@ -465,7 +465,7 @@
 60872,Eastbound Admiral Way @ 5300 Block,49.112105,-123.074987,BUS ZN
 60873,Southbound Admiral Blvd @ Cove Inlet Rd,49.110769,-123.072289,BUS ZN
 60874,Southbound Admiral Blvd @ Cove Link Rd,49.108765,-123.073358,BUS ZN
-50475,King Edward Station @ Bay 2,49.249415,-123.115245,BUS ZN
+50475,King Edward Stn @ Bay 2,49.249415,-123.115245,BUS ZN
 51071,Eastbound Kingsway @ Wales St,49.238656,-123.051416,BUS ZN
 59684,Eastbound Rumble St @ Gray Ave,49.214781,-122.999097,BUS ZN
 50421,Southbound Cambie St @ W 31 Ave,49.242949,-123.118428,BUS ZN
@@ -514,7 +514,7 @@
 61014,Eastbound 24 Ave @ 156 St,49.045489,-122.789656,BUS ZN
 50992,Northbound Cambie St @ W 64 Ave,49.212634,-123.116832,BUS ZN
 51077,Northbound Boyd Diversion @ E 22 Ave,49.250252,-123.043622,BUS ZN
-58945,Moody Centre Station @ Bay 1 Unloading Only,49.277676,-122.84529,BUS ZN
+58945,Moody Centre Stn @ Bay 1 Unloading Only,49.277676,-122.84529,BUS ZN
 50994,Northbound Cambie St @ W 61 Ave,49.215412,-123.116683,BUS ZN
 50996,Northbound Cambie St @ W 57 Ave,49.219328,-123.116528,BUS ZN
 60204,Westbound Oxford Connector @ 1900 Block,49.265203,-122.771539,BUS ZN
@@ -529,10 +529,10 @@
 61029,Westbound Churchill St @ 7900 Block,49.082328,-123.004148,BUS ZN
 54003,Lynn Valley @ Bay 4,49.336386,-123.038189,BUS ZN
 51079,Northbound Renfrew St @ E 17 Ave,49.254646,-123.044228,BUS ZN
-61035,Surrey Central Station @ Bay 12,49.189699,-122.847774,BUS ZN
-61036,Surrey Central Station @ Bay 13,49.189684,-122.847558,BUS ZN
+61035,Surrey Central Stn @ Bay 12,49.189699,-122.847774,BUS ZN
+61036,Surrey Central Stn @ Bay 13,49.189684,-122.847558,BUS ZN
 59526,Lynn Valley @ Bay 1,49.336608,-123.038743,BUS ZN
-58124,Gateway Station @ Bay 2,49.199,-122.849243,BUS ZN
+58124,Gateway Stn @ Bay 2,49.199,-122.849243,BUS ZN
 61064,Haney Place @ Bay 1,49.219454,-122.597616,BUS ZN
 61063,Haney Place @ Bay 2,49.219451,-122.59727,BUS ZN
 61062,Haney Place @ Bay 3,49.21945,-122.596908,BUS ZN
@@ -553,21 +553,21 @@
 56338,Southbound Cranley Dr @ Suffolk Rd,49.041661,-122.781829,BUS ZN
 56337,Eastbound Cranley Dr @ 157A St,49.044326,-122.785455,BUS ZN
 56339,Southbound Cranley Dr @ Cumbria Dr,49.04026,-122.780259,BUS ZN
-51082,Renfrew Station @ Bay 3,49.259567,-123.044122,BUS ZN
-58150,Scott Road Station @ Bay 3,49.204438,-122.874861,BUS ZN
+51082,Renfrew Stn @ Bay 3,49.259567,-123.044122,BUS ZN
+58150,Scott Road Stn @ Bay 3,49.204438,-122.874861,BUS ZN
 58175,Guildford Exchange @ Bay 3,49.191357,-122.804448,BUS ZN
 58253,Eastbound Anderson Rd @ Buswell St,49.163406,-123.134015,BUS ZN
 61052,Eastbound Grace Rd @ 10200 Block,49.188663,-122.895558,BUS ZN
 51083,Northbound Renfrew St @ E Broadway,49.262253,-123.044105,BUS ZN
-59664,Joyce Station @ Bay 7,49.238723,-123.031266,BUS ZN
-59803,VCC-Clark Station @ Bay 1,49.265986,-123.079816,BUS ZN
+59664,Joyce Stn @ Bay 7,49.238723,-123.031266,BUS ZN
+59803,VCC-Clark Stn @ Bay 1,49.265986,-123.079816,BUS ZN
 60859,Westbound Moscrop St @ Willingdon Ave,49.243038,-123.00393,BUS ZN
-58322,22nd Street Station @ Unloading Only,49.199857,-122.949711,BUS ZN
+58322,22nd Street Stn @ Unloading Only,49.199857,-122.949711,BUS ZN
 51084,Northbound Renfrew St @ E 7th Ave,49.264174,-123.04414,BUS ZN
 51085,Northbound Renfrew St @ E 5th Ave,49.266066,-123.044136,BUS ZN
 58727,Stanley Park Loop @ Bay 1,49.300494,-123.133742,BUS ZN
 54442,Eastbound Marine Dr @ 1000 Block,49.326813,-123.139026,BUS ZN
-53104,Scott Road Station @ Bay 1,49.204326,-122.875671,BUS ZN
+53104,Scott Road Stn @ Bay 1,49.204326,-122.875671,BUS ZN
 51086,Northbound Renfrew St @ E 3rd Ave,49.26794,-123.044107,BUS ZN
 59586,Eastbound Halifax St @ Phillips Ave,49.267917,-122.948703,BUS ZN
 51484,Eastbound W 16 Ave @ Wesbrook Mall,49.256014,-123.235156,BUS ZN
@@ -582,8 +582,8 @@
 61088,Eastbound W 16 Ave @ Dunbar St,49.257785,-123.184606,BUS ZN
 51088,Northbound Renfrew St @ Grant St,49.271682,-123.044039,BUS ZN
 52442,Northbound 6th St @ 5th Ave,49.212012,-122.918751,BUS ZN
-59314,Production Way Station @ Bay 1,49.253683,-122.918013,BUS ZN
-59315,Production Way Station @ Bay 2,49.253798,-122.918198,BUS ZN
+59314,Production Way Stn @ Bay 1,49.253683,-122.918013,BUS ZN
+59315,Production Way Stn @ Bay 2,49.253798,-122.918198,BUS ZN
 57588,Eastbound Dewdney Trunk Rd @ 202 St,49.221343,-122.659857,BUS ZN
 61074,Southbound Main St @ Powell St,49.282713,-123.099741,BUS ZN
 60870,Northbound Ferry Rd @ 5900 Block,49.109605,-123.078431,BUS ZN
@@ -670,14 +670,14 @@
 61198,Eastbound 88 Ave @ King George Blvd,49.162673,-122.844815,BUS ZN
 51099,Southbound Arbutus St @ W King Edward Ave,49.251152,-123.153241,BUS ZN
 59776,Northbound 227 St @ 122 Ave,49.225156,-122.593812,BUS ZN
-58501,Broadway-City Hall Station @ Bay 4,49.263351,-123.11645,BUS ZN
+58501,Broadway-City Hall Stn @ Bay 4,49.263351,-123.11645,BUS ZN
 61244,Eastbound Machrina Way @ Horseshoe Way,49.124879,-123.095713,BUS ZN
 60122,Eastbound W 2nd St @ Bewicke Ave,49.318958,-123.091092,BUS ZN
 60121,Westbound W 2nd St @ Bewicke Ave,49.319125,-123.091999,BUS ZN
 51715,Southbound Rupert St @ E 24 Ave,49.248502,-123.033956,BUS ZN
 51716,Southbound Rupert St @ E 26 Ave,49.246798,-123.033962,BUS ZN
 61222,Southbound Tsawwassen Dr N @ Falcon Way,49.044149,-123.103979,BUS ZN
-58129,Rupert Station @ Bay 2,49.26049,-123.033896,BUS ZN
+58129,Rupert Stn @ Bay 2,49.26049,-123.033896,BUS ZN
 50480,Northbound Cambie St @ W 14 Ave,49.258988,-123.114893,BUS ZN
 61120,Westbound Midlothian Ave @ Clancy Loranger Way,49.243313,-123.109291,BUS ZN
 50111,Southbound Macdonald St @ W 11 Ave,49.261885,-123.16835,BUS ZN
@@ -798,7 +798,7 @@
 61277,Westbound Admiral Way @ 5300 Block,49.112018,-123.076321,BUS ZN
 61280,Southbound Ferry Rd @ Windjammer Rd,49.106991,-123.079004,BUS ZN
 50483,Northbound Cambie St @ W 7th Ave,49.264648,-123.114622,BUS ZN
-61306,Coquitlam Central Station @ Bay 13,49.274886,-122.79928,BUS ZN
+61306,Coquitlam Central Stn @ Bay 13,49.274886,-122.79928,BUS ZN
 61211,Westbound 96 Ave @ 201 St,49.177082,-122.66547,BUS ZN
 61310,Southbound 196 St @ Fraser Hwy,49.113418,-122.680068,BUS ZN
 61316,Northbound Hwy 99 Onramp @ Seascape Dr,49.398198,-123.247558,BUS ZN
@@ -811,77 +811,77 @@
 61309,Eastbound 60 Ave @ 192 St,49.111237,-122.689257,BUS ZN
 61312,Northbound East Rd @ Wyndham Cres,49.309844,-122.843398,BUS ZN
 61297,Northbound Cessna Dr @ 3800 Block,49.18603,-123.144086,BUS ZN
-61334,Richmond-Brighouse Station @ Bay 4,49.168512,-123.136367,BUS ZN
+61334,Richmond-Brighouse Stn @ Bay 4,49.168512,-123.136367,BUS ZN
 61295,Northbound 232 St @ Fern Cres,49.240725,-122.579556,BUS ZN
-61326,Bridgeport Station @ Bay 7,49.195053,-123.127304,BUS ZN
-61332,Richmond-Brighouse Station @ Bay 6,49.168747,-123.13555,BUS ZN
-61324,Bridgeport Station @ Bay 4,49.195114,-123.126817,BUS ZN
+61326,Bridgeport Stn @ Bay 7,49.195053,-123.127304,BUS ZN
+61332,Richmond-Brighouse Stn @ Bay 6,49.168747,-123.13555,BUS ZN
+61324,Bridgeport Stn @ Bay 4,49.195114,-123.126817,BUS ZN
 61273,Eastbound Dominion Ave @ Archbishop Carney Secondary,49.258342,-122.749997,BUS ZN
-61323,Bridgeport Station @ Bay 3,49.195229,-123.126551,BUS ZN
-61337,Marine Drive Station @ Bay 1,49.209087,-123.116823,BUS ZN
-61338,Marine Drive Station @ Bay 2,49.209383,-123.116116,BUS ZN
-61329,Bridgeport Station @ Bay 10,49.195366,-123.126635,BUS ZN
+61323,Bridgeport Stn @ Bay 3,49.195229,-123.126551,BUS ZN
+61337,Marine Drive Stn @ Bay 1,49.209087,-123.116823,BUS ZN
+61338,Marine Drive Stn @ Bay 2,49.209383,-123.116116,BUS ZN
+61329,Bridgeport Stn @ Bay 10,49.195366,-123.126635,BUS ZN
 56475,Southbound Garden City Rd @ Westminster Hwy,49.169628,-123.124772,BUS ZN
 61344,Westbound River Rd @ Hollybridge Way,49.173922,-123.150998,BUS ZN
-61325,Bridgeport Station @ Bay 5,49.195004,-123.127081,BUS ZN
-61254,Olympic Village Station @ Bay 3,49.265937,-123.116053,BUS ZN
+61325,Bridgeport Stn @ Bay 5,49.195004,-123.127081,BUS ZN
+61254,Olympic Village Stn @ Bay 3,49.265937,-123.116053,BUS ZN
 59845,Southbound Ioco Rd @ Suter Brook Way,49.278865,-122.82742,BUS ZN
 51117,Southbound Angus Dr @ W 63 Ave,49.2139,-123.148557,BUS ZN
-61040,Olympic Village Station @ Bay 1,49.266245,-123.115944,BUS ZN
+61040,Olympic Village Stn @ Bay 1,49.266245,-123.115944,BUS ZN
 61336,Eastbound Larson Rd @ Fir St,49.325675,-123.088428,BUS ZN
 61360,Southbound Oak St @ W 72 Ave,49.205381,-123.130464,BUS ZN
 54023,Southbound Grand Blvd East @ E 9th St,49.315354,-123.056611,BUS ZN
 61296,Westbound 64 Ave @ 203 St,49.119029,-122.660877,BUS ZN
 61359,Northbound 201 St @ 96 Ave,49.177479,-122.664276,BUS ZN
-61327,Bridgeport Station @ Bay 8,49.195144,-123.127071,BUS ZN
-61328,Bridgeport Station @ Bay 9,49.195246,-123.126904,BUS ZN
-61330,Bridgeport Station @ Bay 11,49.195565,-123.126212,BUS ZN
-61331,Bridgeport Station @ Bay 12,49.195652,-123.125982,BUS ZN
+61327,Bridgeport Stn @ Bay 8,49.195144,-123.127071,BUS ZN
+61328,Bridgeport Stn @ Bay 9,49.195246,-123.126904,BUS ZN
+61330,Bridgeport Stn @ Bay 11,49.195565,-123.126212,BUS ZN
+61331,Bridgeport Stn @ Bay 12,49.195652,-123.125982,BUS ZN
 51118,Eastbound W 64 Ave @ East Blvd,49.213182,-123.146293,BUS ZN
-61321,Bridgeport Station @ Bay 1 Unloading Only,49.195515,-123.125911,BUS ZN
-61363,Vancouver City Centre Station @ Platform 2,49.282462,-123.118283,ZN 1
-61364,Vancouver City Centre Station @ Platform 1,49.282352,-123.118143,ZN 1
-61365,Yaletown-Roundhouse Station @ Platform 2,49.274467,-123.122124,ZN 1
-61366,Yaletown-Roundhouse Station @ Platform 1,49.274508,-123.122015,ZN 1
-61367,Olympic Village Station @ Platform 2,49.266616,-123.115218,ZN 1
-61368,Olympic Village Station @ Platform 1,49.266557,-123.115527,ZN 1
-61369,Broadway-City Hall Station @ Platform 2,49.262684,-123.114856,ZN 1
-61370,Broadway-City Hall Station @ Platform 1,49.262725,-123.114753,ZN 1
+61321,Bridgeport Stn @ Bay 1 Unloading Only,49.195515,-123.125911,BUS ZN
+61363,Vancouver City Centre Stn @ Platform 2,49.282462,-123.118283,ZN 1
+61364,Vancouver City Centre Stn @ Platform 1,49.282352,-123.118143,ZN 1
+61365,Yaletown-Roundhouse Stn @ Platform 2,49.274467,-123.122124,ZN 1
+61366,Yaletown-Roundhouse Stn @ Platform 1,49.274508,-123.122015,ZN 1
+61367,Olympic Village Stn @ Platform 2,49.266616,-123.115218,ZN 1
+61368,Olympic Village Stn @ Platform 1,49.266557,-123.115527,ZN 1
+61369,Broadway-City Hall Stn @ Platform 2,49.262684,-123.114856,ZN 1
+61370,Broadway-City Hall Stn @ Platform 1,49.262725,-123.114753,ZN 1
 51119,Northbound Adera St @ W 64 Ave,49.213522,-123.143433,BUS ZN
-61371,King Edward Station @ Platform 2,49.249186,-123.115716,ZN 1
-61372,King Edward Station @ Platform 1,49.249172,-123.115228,ZN 1
-61373,Oakridge-41st Avenue Station @ Platform 2,49.233747,-123.116422,ZN 1
-61374,Oakridge-41st Avenue Station @ Platform 1,49.233731,-123.116176,ZN 1
-61375,Langara-49th Avenue Station @ Platform 2,49.225743,-123.116752,ZN 1
-61376,Langara-49th Avenue Station @ Platform 1,49.225709,-123.116289,ZN 1
-61377,Marine Drive Station @ Platform 2,49.209661,-123.117078,ZN 1
-61378,Marine Drive Station @ Platform 1,49.209663,-123.116921,ZN 1
-61379,Bridgeport Station @ Platform 2,49.195558,-123.126076,ZN 2
-61380,Bridgeport Station @ Platform 1,49.195514,-123.126006,ZN 2
+61371,King Edward Stn @ Platform 2,49.249186,-123.115716,ZN 1
+61372,King Edward Stn @ Platform 1,49.249172,-123.115228,ZN 1
+61373,Oakridge-41st Avenue Stn @ Platform 2,49.233747,-123.116422,ZN 1
+61374,Oakridge-41st Avenue Stn @ Platform 1,49.233731,-123.116176,ZN 1
+61375,Langara-49th Avenue Stn @ Platform 2,49.225743,-123.116752,ZN 1
+61376,Langara-49th Avenue Stn @ Platform 1,49.225709,-123.116289,ZN 1
+61377,Marine Drive Stn @ Platform 2,49.209661,-123.117078,ZN 1
+61378,Marine Drive Stn @ Platform 1,49.209663,-123.116921,ZN 1
+61379,Bridgeport Stn @ Platform 2,49.195558,-123.126076,ZN 2
+61380,Bridgeport Stn @ Platform 1,49.195514,-123.126006,ZN 2
 51120,Marpole Loop @ Bay 2,49.20325,-123.132871,BUS ZN
-61381,Aberdeen Station @ Platform 2,49.184,-123.136398,ZN 2
-61382,Aberdeen Station @ Platform 1,49.183991,-123.13622,ZN 2
-61383,Lansdowne Station @ Platform 2,49.174762,-123.136507,ZN 2
-61384,Lansdowne Station @ Platform 1,49.174766,-123.136322,ZN 2
-61385,Richmond-Brighouse Station @ Canada Line,49.168092,-123.136247,ZN 2
-61386,Richmond-Brighouse Station @ Platform 1,49.168092,-123.136174,ZN 2
-61387,Templeton Station @ Platform 2,49.196715,-123.146335,ZN 2
-61388,Templeton Station @ Platform 1,49.196655,-123.146307,CL_AD
-61389,Sea Island Centre Station @ Platform 2,49.193053,-123.157851,ZN 2
-61390,Sea Island Centre Station @ Platform 1,49.19293,-123.157884,CL_AD
+61381,Aberdeen Stn @ Platform 2,49.184,-123.136398,ZN 2
+61382,Aberdeen Stn @ Platform 1,49.183991,-123.13622,ZN 2
+61383,Lansdowne Stn @ Platform 2,49.174762,-123.136507,ZN 2
+61384,Lansdowne Stn @ Platform 1,49.174766,-123.136322,ZN 2
+61385,Richmond-Brighouse Stn @ Canada Line,49.168092,-123.136247,ZN 2
+61386,Richmond-Brighouse Stn @ Platform 1,49.168092,-123.136174,ZN 2
+61387,Templeton Stn @ Platform 2,49.196715,-123.146335,ZN 2
+61388,Templeton Stn @ Platform 1,49.196655,-123.146307,CL_AD
+61389,Sea Island Centre Stn @ Platform 2,49.193053,-123.157851,ZN 2
+61390,Sea Island Centre Stn @ Platform 1,49.19293,-123.157884,CL_AD
 50113,Southbound Macdonald St @ W 16 Ave,49.257261,-123.168508,BUS ZN
 51121,Eastbound E 41 Ave @ Victoria Dr,49.232713,-123.06505,BUS ZN
-61391,YVR-Airport Station @ Canada Line,49.194189,-123.178251,ZN 2
-61392,YVR-Airport Station @ Platform 1,49.194152,-123.178254,CL_AD
-61393,Waterfront Station @ Platform 4,49.285139,-123.114206,ZN 1
-61394,Waterfront Station @ Platform 5,49.285093,-123.114139,ZN 1
+61391,YVR-Airport Stn @ Canada Line,49.194189,-123.178251,ZN 2
+61392,YVR-Airport Stn @ Platform 1,49.194152,-123.178254,CL_AD
+61393,Waterfront Stn @ Platform 4,49.285139,-123.114206,ZN 1
+61394,Waterfront Stn @ Platform 5,49.285093,-123.114139,ZN 1
 61396,Southbound 232 St @ Fern Cres,49.24101,-122.579718,BUS ZN
 61353,Northbound 224 St @ 12200 Block,49.225496,-122.601234,BUS ZN
 53212,Southbound North Rd @ Cameron St,49.252969,-122.893126,BUS ZN
 59903,Northbound Ioco Rd @ Suter Brook Way,49.2797,-122.82696,BUS ZN
 51122,Eastbound E 41 Ave @ Gladstone St,49.232817,-123.06167,BUS ZN
-50023,Yaletown-Roundhouse Station @ Bay 1,49.274863,-123.122521,BUS ZN
-61215,Yaletown-Roundhouse Station @ Bay 2,49.274278,-123.121876,BUS ZN
+50023,Yaletown-Roundhouse Stn @ Bay 1,49.274863,-123.122521,BUS ZN
+61215,Yaletown-Roundhouse Stn @ Bay 2,49.274278,-123.121876,BUS ZN
 60854,Southbound 200 St @ 82 Ave,49.151339,-122.668413,BUS ZN
 55397,Northbound King George Blvd @ 44 Ave,49.082361,-122.820319,BUS ZN
 61291,Westbound Lougheed Hwy @ Dominion Ave,49.258332,-122.753993,BUS ZN
@@ -899,13 +899,13 @@
 59085,Eastbound Fraser Hwy @ 64 Ave,49.118438,-122.690508,BUS ZN
 59086,Westbound Fraser Hwy @ 64 Ave,49.119471,-122.692199,BUS ZN
 51725,Eastbound Burke St @ Boundary Rd,49.236949,-123.022912,BUS ZN
-50085,Yaletown-Roundhouse Station @ Bay 3,49.27402,-123.121945,BUS ZN
+50085,Yaletown-Roundhouse Stn @ Bay 3,49.27402,-123.121945,BUS ZN
 51125,Eastbound E 41 Ave @ Wales St,49.232722,-123.051214,BUS ZN
 51919,Westbound NW Marine Dr @ Cecil Green Park Rd,49.270517,-123.255442,BUS ZN
-50999,Langara-49th Station @ Bay 1,49.226473,-123.116241,BUS ZN
+50999,Langara-49th Stn @ Bay 1,49.226473,-123.116241,BUS ZN
 51126,Eastbound E 41 Ave @ Earles St,49.232715,-123.04831,BUS ZN
-61281,Oakridge-41st Ave Station  @ Bay 4,49.233712,-123.117599,BUS ZN
-50875,Broadway-City Hall Station @ Bay 1,49.263107,-123.114283,BUS ZN
+61281,Oakridge-41st Ave Stn  @ Bay 4,49.233712,-123.117599,BUS ZN
+50875,Broadway-City Hall Stn @ Bay 1,49.263107,-123.114283,BUS ZN
 51127,Eastbound E 41 Ave @ Killarney St,49.232892,-123.045427,BUS ZN
 61416,Westbound 68 Ave @ 194 St,49.126433,-122.686138,BUS ZN
 61419,Northbound Renaissance Square @ Quayside Dr,49.199988,-122.924574,BUS ZN
@@ -926,7 +926,7 @@
 56452,Northbound No. 3 Rd @ Saba Rd,49.169358,-123.136381,BUS ZN
 60284,Northbound No. 3 Rd @ Yaohan Access Rd,49.186808,-123.1343,BUS ZN
 56453,Northbound No. 3 Rd @ Ackroyd Rd,49.17237,-123.136488,BUS ZN
-58196,Lansdowne Station @ Bay 1,49.174387,-123.136617,BUS ZN
+58196,Lansdowne Stn @ Bay 1,49.174387,-123.136617,BUS ZN
 51130,Eastbound E 41 Ave @ School Ave,49.233197,-123.036985,BUS ZN
 52340,Southbound Cliveden Ave @ 1600 Block,49.162461,-122.972288,BUS ZN
 56481,Westbound Westminster Hwy @ No. 3 Rd,49.170303,-123.137351,BUS ZN
@@ -966,7 +966,7 @@
 51137,Eastbound Kingsway @ Carolina St,49.257418,-123.092371,BUS ZN
 51138,Eastbound Kingsway @ Fraser St,49.256214,-123.089018,BUS ZN
 56450,Southbound No. 3 Rd @ Westminster Hwy,49.169765,-123.136665,BUS ZN
-56454,Lansdowne Station @ Bay 2,49.173763,-123.135822,BUS ZN
+56454,Lansdowne Stn @ Bay 2,49.173763,-123.135822,BUS ZN
 51941,Northbound Burrard St @ W 3rd Ave,49.269179,-123.145428,BUS ZN
 50533,Southbound Granville St @ Nelson St,49.278877,-123.123712,BUS ZN
 50611,Eastbound Robson St @ Bidwell St,49.29023,-123.133644,BUS ZN
@@ -1028,7 +1028,7 @@
 54828,Southbound Howe St @ W Pender St,49.284791,-123.116768,BUS ZN
 61294,Eastbound David Ave @ Genest Way,49.292774,-122.785177,BUS ZN
 61361,Westbound David Ave @ Genest Way,49.292973,-122.785615,BUS ZN
-59796,Pitt Meadows Station @ Bay 1,49.225691,-122.688711,BUS ZN
+59796,Pitt Meadows Stn @ Bay 1,49.225691,-122.688711,BUS ZN
 51147,Eastbound Kingsway @ Earles St,49.23728,-123.048397,BUS ZN
 58721,Southbound Burrard St @ Burnaby St,49.278573,-123.130164,BUS ZN
 59120,Westbound Horseshoe Way @ 12300 Block,49.122709,-123.096987,BUS ZN
@@ -1049,8 +1049,8 @@
 61555,Eastbound 24 Ave @ 157 St,49.04548,-122.78672,BUS ZN
 54480,Northbound Capilano Rd @ W 21 St,49.32935,-123.117663,BUS ZN
 61554,Eastbound Harrison Dr @ Victoria Dr,49.210486,-123.065448,BUS ZN
-52102,Commercial-Broadway Station @ Bay 1,49.262213,-123.068963,BUS ZN
-52094,Commercial-Broadway Station @ Bay 4,49.262426,-123.069432,BUS ZN
+52102,Commercial-Broadway Stn @ Bay 1,49.262213,-123.068963,BUS ZN
+52094,Commercial-Broadway Stn @ Bay 4,49.262426,-123.069432,BUS ZN
 51150,Eastbound Kingsway @ McKinnon St,49.234792,-123.037515,BUS ZN
 61205,Eastbound 88 Ave @ 164 St,49.162744,-122.767094,BUS ZN
 61202,Eastbound 88 Ave @ 156 St,49.162727,-122.789547,BUS ZN
@@ -1067,7 +1067,7 @@
 54330,Southbound Brooksbank Ave @ E 4th St,49.309636,-123.04053,BUS ZN
 54334,Northbound Brooksbank Ave @ E 3rd St,49.308549,-123.040349,BUS ZN
 54335,Northbound Brooksbank Ave @ E 5th St,49.310559,-123.040304,BUS ZN
-50913,Commercial-Broadway Station @ Bay 5,49.262416,-123.06875,BUS ZN
+50913,Commercial-Broadway Stn @ Bay 5,49.262416,-123.06875,BUS ZN
 61477,Westbound Steveston Hwy @ Coppersmith Place,49.133456,-123.096357,BUS ZN
 61551,Eastbound 60 Ave @ Enterprise Way,49.11122,-122.685449,BUS ZN
 51152,Eastbound Kingsway @ Wessex St,49.232943,-123.033767,BUS ZN
@@ -1110,7 +1110,7 @@
 50615,Eastbound Robson St @ Thurlow St,49.284394,-123.124658,BUS ZN
 51158,Eastbound Kingsway @ Inman Ave,49.232758,-123.015229,BUS ZN
 61566,Eastbound Marine Dr Offramp @ Lions Gate Bridge,49.325824,-123.129537,BUS ZN
-61609,Joyce Station @ Bay 5,49.238127,-123.031478,BUS ZN
+61609,Joyce Stn @ Bay 5,49.238127,-123.031478,BUS ZN
 54471,Southbound Lions Gate Bridge Onramp @ Marine Dr,49.326637,-123.128681,BUS ZN
 54429,Westbound Marine Dr @ Lloyd Ave,49.323931,-123.105534,BUS ZN
 61610,Eastbound Como Lake Ave @ Robinson St,49.263527,-122.880581,BUS ZN
@@ -1132,7 +1132,7 @@
 61625,Southbound 144 St @ 67A Ave,49.124838,-122.823411,BUS ZN
 53699,Southbound Broadway St @ Langan Ave,49.249867,-122.762534,BUS ZN
 61099,Eastbound E 29 Ave @ Cambie St,49.245108,-123.114568,BUS ZN
-52751,Brentwood Station @ Bay 3 New,49.266048,-122.996995,BUS ZN
+52751,Brentwood Stn @ Bay 3 New,49.266048,-122.996995,BUS ZN
 61645,Southbound Elliott St @ E 54 Ave,49.220551,-123.054963,BUS ZN
 61628,Northbound 140 St @ 100 Ave,49.184659,-122.834043,BUS ZN
 51161,Eastbound Kingsway @ Wilson Ave,49.230995,-123.007485,BUS ZN
@@ -1140,17 +1140,17 @@
 61629,White Rock Centre @ Bay 9,49.033307,-122.801052,BUS ZN
 61614,Westbound 96 Ave @ 176 St,49.176898,-122.735989,BUS ZN
 61031,Westbound W Georgia St @ Granville St,49.282879,-123.118524,BUS ZN
-58624,Richmond-Brighouse Station @ Bay 5,49.168435,-123.136682,BUS ZN
+58624,Richmond-Brighouse Stn @ Bay 5,49.168435,-123.136682,BUS ZN
 54406,Southbound Lloyd Ave @ W 17 St,49.32437,-123.105025,BUS ZN
 51162,Southbound Willingdon Ave @ Kemp St,49.229565,-123.005715,BUS ZN
-61657,New Westminster Station @ Bay 10,49.201085,-122.914339,BUS ZN
-61656,New Westminster Station @ Bay 9,49.201472,-122.911997,BUS ZN
-61650,New Westminster Station @ Bay 3,49.200804,-122.912513,BUS ZN
-61649,New Westminster Station @ Bay 2,49.201037,-122.912095,BUS ZN
-61651,New Westminster Station @ Bay 4,49.20088,-122.912854,BUS ZN
-61652,New Westminster Station @ Bay 5,49.20106,-122.913116,BUS ZN
-61654,New Westminster Station @ Bay 7,49.201379,-122.913535,BUS ZN
-61655,New Westminster Station @ Bay 8,49.201571,-122.91343,BUS ZN
+61657,New Westminster Stn @ Bay 10,49.201085,-122.914339,BUS ZN
+61656,New Westminster Stn @ Bay 9,49.201472,-122.911997,BUS ZN
+61650,New Westminster Stn @ Bay 3,49.200804,-122.912513,BUS ZN
+61649,New Westminster Stn @ Bay 2,49.201037,-122.912095,BUS ZN
+61651,New Westminster Stn @ Bay 4,49.20088,-122.912854,BUS ZN
+61652,New Westminster Stn @ Bay 5,49.20106,-122.913116,BUS ZN
+61654,New Westminster Stn @ Bay 7,49.201379,-122.913535,BUS ZN
+61655,New Westminster Stn @ Bay 8,49.201571,-122.91343,BUS ZN
 51163,Eastbound Central Blvd @ Willingdon Ave,49.227271,-123.006974,BUS ZN
 61659,Southbound University Dr @ 107A Ave,49.197107,-122.851009,BUS ZN
 61658,Northbound University Dr @ 107A Ave,49.197675,-122.85073,BUS ZN
@@ -1161,7 +1161,7 @@
 61583,Eastbound W 3rd St @ Mission Rd,49.318001,-123.087729,BUS ZN
 61582,Westbound W 3rd St @ Mission Rd,49.318364,-123.088085,BUS ZN
 61666,Eastbound 3rd Ave @ 6500 Block,49.008379,-123.042847,BUS ZN
-51164,Metrotown Station @ Bay 2,49.226085,-123.002888,BUS ZN
+51164,Metrotown Stn @ Bay 2,49.226085,-123.002888,BUS ZN
 61600,Eastbound 12 Ave @ 6th St,49.220672,-122.929105,BUS ZN
 61672,Eastbound 24 Ave @ 154 St,49.045508,-122.795077,BUS ZN
 61673,Westbound 24 Ave @ King George Blvd,49.045693,-122.794792,BUS ZN
@@ -1189,9 +1189,9 @@
 61579,Southbound Wesbrook Mall @ Birney Ave,49.254064,-123.23498,BUS ZN
 51167,Westbound Kingsway @ Wilson Ave,49.231423,-123.008159,BUS ZN
 61580,Northbound Wesbrook Mall @ Birney Ave,49.254485,-123.235195,BUS ZN
-61430,Bridgeport Station @ Bay 13,49.195649,-123.125757,BUS ZN
-61677,Surrey Central Station @ Bay 5A,49.189461,-122.849708,BUS ZN
-61678,New Westminster Station @ Unloading Only,49.200807,-122.912785,BUS ZN
+61430,Bridgeport Stn @ Bay 13,49.195649,-123.125757,BUS ZN
+61677,Surrey Central Stn @ Bay 5A,49.189461,-122.849708,BUS ZN
+61678,New Westminster Stn @ Unloading Only,49.200807,-122.912785,BUS ZN
 51869,Westbound Hastings St @ Cliff Ave,49.280434,-122.959531,BUS ZN
 61681,Westbound Churchill St @ 80 St,49.080954,-123.002068,BUS ZN
 51168,Westbound Kingsway @ Barker Ave,49.232216,-123.010599,BUS ZN
@@ -1204,7 +1204,7 @@
 59632,Southbound Harris Rd @ Civic Centre,49.221301,-122.689721,BUS ZN
 61679,Eastbound 10 Ave @ 54A St,49.021959,-123.072799,BUS ZN
 61685,Eastbound Lougheed Hwy @ Kennedy Rd,49.242957,-122.719855,BUS ZN
-61693,Bridgeport Station @ Bay 6,49.19488,-123.127321,BUS ZN
+61693,Bridgeport Stn @ Bay 6,49.19488,-123.127321,BUS ZN
 51170,Westbound Kingsway @ Smith Ave,49.23266,-123.019689,BUS ZN
 58895,UBC Exchange @ Bay 9,49.265726,-123.248724,BUS ZN
 61701,UBC Exchange @ Bay 10,49.26581,-123.248129,BUS ZN
@@ -1265,12 +1265,12 @@
 55839,Eastbound 108 Ave @ Whalley Blvd,49.198765,-122.841931,BUS ZN
 61800,Victoria Dr @ 54th Avenue Loop,49.219851,-123.065682,BUS ZN
 56596,Northbound Entertainment Blvd @ Steveston Hwy,49.134871,-123.064805,BUS ZN
-61802,Brentwood Station @ Bay 2,49.266554,-123.001462,BUS ZN
-61806,Brentwood Station @ Bay 6,49.267569,-123.003374,BUS ZN
+61802,Brentwood Stn @ Bay 2,49.266554,-123.001462,BUS ZN
+61806,Brentwood Stn @ Bay 6,49.267569,-123.003374,BUS ZN
 61807,Southbound Willingdon Ave @ Halifax St,49.268608,-123.003388,BUS ZN
 51179,Westbound E 41 Ave @ School Ave,49.233084,-123.03794,BUS ZN
 61781,Eastbound 86 Ave @ 200 St,49.159084,-122.666944,BUS ZN
-61787,Surrey Central Station @ Bay 14,49.189133,-122.847582,BUS ZN
+61787,Surrey Central Stn @ Bay 14,49.189133,-122.847582,BUS ZN
 51180,Westbound E 41 Ave @ Kerr St,49.233031,-123.040741,BUS ZN
 61823,Westbound River Rd @ Centre St,49.157514,-122.939862,BUS ZN
 61745,Eastbound Como Lake Ave @ Banting St,49.263529,-122.876334,BUS ZN
@@ -1309,10 +1309,10 @@
 61758,Southbound 168 St @ 96 Ave,49.176639,-122.756708,BUS ZN
 61852,Westbound 122 Ave @ 191B St,49.224405,-122.691016,BUS ZN
 51185,Westbound Kingsway @ Spencer St,49.235933,-123.041047,BUS ZN
-61892,Moody Centre Station @ Bay 5,49.277828,-122.846536,BUS ZN
-61891,Moody Centre Station @ Bay 6,49.277828,-122.84682,BUS ZN
-61890,Moody Centre Station @ Bay 7,49.27783,-122.847102,BUS ZN
-61889,Moody Centre Station @ Bay 8,49.277832,-122.847385,BUS ZN
+61892,Moody Centre Stn @ Bay 5,49.277828,-122.846536,BUS ZN
+61891,Moody Centre Stn @ Bay 6,49.277828,-122.84682,BUS ZN
+61890,Moody Centre Stn @ Bay 7,49.27783,-122.847102,BUS ZN
+61889,Moody Centre Stn @ Bay 8,49.277832,-122.847385,BUS ZN
 58619,Westbound River Rd @ 6400 Block,49.132152,-123.043225,BUS ZN
 61900,Eastbound Agronomy Rd @ West Mall,49.260466,-123.252885,BUS ZN
 59279,Eastbound David Ave @ Shaughnessy St,49.294599,-122.770477,BUS ZN
@@ -1383,9 +1383,9 @@
 61848,Northbound 192A St @ Davison Rd,49.227799,-122.688454,BUS ZN
 61750,Eastbound Dewdney Trunk Rd @ Lougheed Hwy,49.268018,-122.796872,BUS ZN
 51193,Westbound Kingsway @ Knight St,49.25051,-123.076585,BUS ZN
-61912,Moody Centre Station @ Bay 4,49.277799,-122.846165,BUS ZN
+61912,Moody Centre Stn @ Bay 4,49.277799,-122.846165,BUS ZN
 61749,Westbound Dewdney Trunk Rd @ Westwood St,49.268102,-122.791167,BUS ZN
-61911,Moody Centre Station @ Bay 3,49.277757,-122.84582,BUS ZN
+61911,Moody Centre Stn @ Bay 3,49.277757,-122.84582,BUS ZN
 61909,Southbound Forbes Ave @ W 1st St,49.314507,-123.086018,BUS ZN
 61810,Northbound Smithe St @ Expo Blvd,49.276112,-123.114934,BUS ZN
 52123,Marpole Loop @ Bay 5,49.203203,-123.133071,BUS ZN
@@ -1393,7 +1393,7 @@
 61669,Westbound North Fraser Way @ Northbrook Court,49.200729,-123.015264,BUS ZN
 51194,Westbound Kingsway @ Inverness St,49.252366,-123.080257,BUS ZN
 61670,Westbound North Fraser Way @ Fraserwood Court,49.20149,-123.018581,BUS ZN
-61925,Waterfront Station,49.285687,-123.111773,ZN 1
+61925,Waterfront Stn,49.285687,-123.111773,ZN 1
 61917,Westbound W Pender St @ Howe St,49.285131,-123.115432,BUS ZN
 61927,Westbound 60 Ave @ 196 St,49.111311,-122.680862,BUS ZN
 61929,Northbound Glover Rd @ Telegraph Trail,49.149732,-122.594593,BUS ZN
@@ -1426,7 +1426,7 @@
 59552,Westbound Boyd St @ Gifford St,49.184961,-122.953118,BUS ZN
 59556,Eastbound Boyd St @ Gifford St,49.185476,-122.95184,BUS ZN
 51199,Westbound Kingsway @ E 12 Ave,49.260171,-123.096663,BUS ZN
-61978,Lansdowne Station @ Bay 3,49.175079,-123.136907,BUS ZN
+61978,Lansdowne Stn @ Bay 3,49.175079,-123.136907,BUS ZN
 61945,Eastbound Mufford Cres @ 62 Ave,49.114478,-122.645921,BUS ZN
 61944,Westbound Mufford Cres @ 62 Ave,49.115698,-122.64798,BUS ZN
 53258,Eastbound Ioco Rd @ Bentley Rd,49.290987,-122.845367,BUS ZN
@@ -1460,7 +1460,7 @@
 61690,Northbound East Rd @ 1400 Block,49.304307,-122.838479,BUS ZN
 51204,Northbound Victoria Dr @ E 61 Ave,49.214832,-123.065913,BUS ZN
 61503,Eastbound E 41 Ave @ Fraser St,49.232781,-123.090946,BUS ZN
-57893,Waterfront Station @ West Coast Express,49.286502,-123.110998,WCE1A
+57893,Waterfront Stn @ West Coast Express,49.286502,-123.110998,WCE1A
 59555,Eastbound Westminster Hwy @ Boundary Rd,49.183562,-122.957993,BUS ZN
 51205,Northbound Victoria Dr @ Brigadoon Ave,49.21691,-123.065874,BUS ZN
 59026,Eastbound United Blvd @ Fawcett,49.228759,-122.835425,BUS ZN
@@ -1473,7 +1473,7 @@
 61903,Eastbound 72 Ave @ 146 St,49.133677,-122.817341,BUS ZN
 61902,Westbound 72 Ave @ 146 St,49.133818,-122.818323,BUS ZN
 59306,Eastbound Westminster Hwy @ McMillan Way,49.169174,-122.993088,BUS ZN
-59339,King George Station @ Bay 4,49.182677,-122.845166,BUS ZN
+59339,King George Stn @ Bay 4,49.182677,-122.845166,BUS ZN
 51207,Northbound Victoria Dr @ E 54 Ave,49.220662,-123.065738,BUS ZN
 59425,Eastbound Queens Ave @ 18 St,49.341768,-123.162543,BUS ZN
 59422,Eastbound Burley Dr @ Braeside St,49.337887,-123.142842,BUS ZN
@@ -1487,7 +1487,7 @@
 59863,Langley Centre @ Bay 7,49.107179,-122.655848,BUS ZN
 60001,Northbound 160 St @ 96 Ave,49.177371,-122.778703,BUS ZN
 51209,Northbound Victoria Dr @ E 49 Ave,49.225458,-123.065603,BUS ZN
-59935,Lincoln Station @ Bay 2,49.280122,-122.793523,BUS ZN
+59935,Lincoln Stn @ Bay 2,49.280122,-122.793523,BUS ZN
 60023,Southbound Arlington St @ E 49 Ave,49.222808,-123.028887,BUS ZN
 60024,Southbound Champlain Cres @ E 54 Ave,49.219811,-123.032506,BUS ZN
 60025,Northbound Champlain Cres @ E 54 Ave,49.219894,-123.032299,BUS ZN
@@ -1516,12 +1516,12 @@
 59478,Northbound 52 St @ Hwy 17,49.038408,-123.079603,BUS ZN
 59485,Northbound 52 St @ Canoe Pass Way,49.041832,-123.079659,BUS ZN
 59498,Southbound 52 St @ Canoe Pass Way,49.04061,-123.079978,BUS ZN
-59565,Lafarge Lake-Douglas Station @ Bay 1,49.285967,-122.79157,BUS ZN
-59554,Burquitlam Station @ Bay 1,49.261403,-122.889518,BUS ZN
+59565,Lafarge Lake-Douglas Stn @ Bay 1,49.285967,-122.79157,BUS ZN
+59554,Burquitlam Stn @ Bay 1,49.261403,-122.889518,BUS ZN
 51212,Northbound Victoria Dr @ E 43 Ave,49.231503,-123.065432,BUS ZN
-59557,Burquitlam Station @ Bay 2,49.261203,-122.889784,BUS ZN
-59561,Burquitlam Station @ Bay 3,49.260871,-122.890337,BUS ZN
-53122,Burquitlam Station @ Bay 4,49.261316,-122.890197,BUS ZN
+59557,Burquitlam Stn @ Bay 2,49.261203,-122.889784,BUS ZN
+59561,Burquitlam Stn @ Bay 3,49.260871,-122.890337,BUS ZN
+53122,Burquitlam Stn @ Bay 4,49.261316,-122.890197,BUS ZN
 59961,Westbound Dominion Ave @ Fremont Connector,49.258459,-122.729332,BUS ZN
 59971,Southbound Fremont St @ Dominion Ave,49.258051,-122.728821,BUS ZN
 60056,Northbound Princeton Ave @ David Ave,49.295933,-122.742764,BUS ZN
@@ -1535,23 +1535,23 @@
 59542,Southbound Salish Sea Dr @ Canoe Pass Way,49.039507,-123.090426,BUS ZN
 59547,Northbound Salish Sea Dr @ Blue Heron Dr,49.038251,-123.090098,BUS ZN
 59551,Westbound Blue Heron Dr @ Salish Sea Dr,49.037689,-123.091152,BUS ZN
-60084,Lougheed Town Centre Station @ Platform 3,49.248611,-122.896818,ZN 2
-60085,Burquitlam Station @ Platform 1,49.261421,-122.889853,ZN 3
-60086,Burquitlam Station @ Platform 2,49.261375,-122.889784,ZN 3
-60087,Moody Centre Station @ Platform 1,49.27798,-122.845609,ZN 3
-60088,Moody Centre Station @ Platform 2,49.277941,-122.845608,ZN 3
-60089,Inlet Centre Station @ Platform 1,49.277294,-122.828164,ZN 3
-60090,Inlet Centre Station @ Platform 2,49.277118,-122.828183,ZN 3
-60091,Coquitlam Central Station @ Platform 1,49.274919,-122.800551,ZN 3
-60092,Coquitlam Central Station @ Platform 2,49.274738,-122.800643,ZN 3
-60093,Lincoln Station @ Platform 1,49.280417,-122.794097,ZN 3
-60094,Lincoln Station @ Platform 2,49.28041,-122.793805,ZN 3
-60095,Lafarge Lake-Douglas Station @ Platform 1,49.285743,-122.791623,ZN 3
-60096,Lafarge Lake-Douglas Station @ Platform 2,49.285693,-122.791435,ZN 3
+60084,Lougheed Town Centre Stn @ Platform 3,49.248611,-122.896818,ZN 2
+60085,Burquitlam Stn @ Platform 1,49.261421,-122.889853,ZN 3
+60086,Burquitlam Stn @ Platform 2,49.261375,-122.889784,ZN 3
+60087,Moody Centre Stn @ Platform 1,49.27798,-122.845609,ZN 3
+60088,Moody Centre Stn @ Platform 2,49.277941,-122.845608,ZN 3
+60089,Inlet Centre Stn @ Platform 1,49.277294,-122.828164,ZN 3
+60090,Inlet Centre Stn @ Platform 2,49.277118,-122.828183,ZN 3
+60091,Coquitlam Central Stn @ Platform 1,49.274919,-122.800551,ZN 3
+60092,Coquitlam Central Stn @ Platform 2,49.274738,-122.800643,ZN 3
+60093,Lincoln Stn @ Platform 1,49.280417,-122.794097,ZN 3
+60094,Lincoln Stn @ Platform 2,49.28041,-122.793805,ZN 3
+60095,Lafarge Lake-Douglas Stn @ Platform 1,49.285743,-122.791623,ZN 3
+60096,Lafarge Lake-Douglas Stn @ Platform 2,49.285693,-122.791435,ZN 3
 51215,Northbound Victoria Dr @ E 22 Ave,49.250596,-123.064898,BUS ZN
-59569,Inlet Centre Station @ Bay 3,49.277099,-122.826771,BUS ZN
-53267,Inlet Centre Station @ Bay 1,49.277967,-122.827449,BUS ZN
-61988,Inlet Centre Station @ Bay 2,49.278102,-122.827095,BUS ZN
+59569,Inlet Centre Stn @ Bay 3,49.277099,-122.826771,BUS ZN
+53267,Inlet Centre Stn @ Bay 1,49.277967,-122.827449,BUS ZN
+61988,Inlet Centre Stn @ Bay 2,49.278102,-122.827095,BUS ZN
 59570,Westbound Foster Ave @ Fairview St,49.256781,-122.88358,BUS ZN
 58189,Westbound Foster Ave @ Aspen St,49.256811,-122.887308,BUS ZN
 58186,Eastbound Foster Ave @ Aspen St,49.256704,-122.886632,BUS ZN
@@ -1586,7 +1586,7 @@
 53912,Southbound Lansdowne Dr @ Guildford Way,49.283741,-122.809348,BUS ZN
 58289,Southbound Lansdowne Dr @ Mccoomb Dr,49.281011,-122.80839,BUS ZN
 51219,Northbound Commercial Dr @ E 14 Ave,49.258015,-123.069745,BUS ZN
-59890,Lincoln Station @ Bay 1,49.280029,-122.794024,BUS ZN
+59890,Lincoln Stn @ Bay 1,49.280029,-122.794024,BUS ZN
 60078,Eastbound Lincoln Ave @ Westwood St,49.278883,-122.789779,BUS ZN
 60075,Northbound Pipeline Rd @ Windsor Gate,49.280631,-122.787013,BUS ZN
 59284,Eastbound David Ave @ Coast Meridian Rd,49.292847,-122.755389,BUS ZN
@@ -1610,7 +1610,7 @@
 61905,Westbound 24 Ave @ 172 St,49.045745,-122.746741,BUS ZN
 60031,Eastbound Dominion Ave @ Fremont St,49.258318,-122.734582,BUS ZN
 60030,Westbound Dominion Ave @ 500 Block,49.258456,-122.73438,BUS ZN
-58327,Commercial-Broadway Station @ Bay 3,49.262699,-123.069636,BUS ZN
+58327,Commercial-Broadway Stn @ Bay 3,49.262699,-123.069636,BUS ZN
 53276,Eastbound Foster Ave @ Whiting Way,49.256747,-122.891445,BUS ZN
 58924,Northbound Garden City Rd @ Alderbridge Way,49.177778,-123.124306,BUS ZN
 60098,Eastbound Blue Heron Way @ Swan Rd,49.03764,-123.095431,BUS ZN
@@ -1619,15 +1619,15 @@
 59248,Northbound 156 St @ 108 Ave,49.199154,-122.789701,BUS ZN
 59012,Southbound 157A St @ 10900 Block,49.200597,-122.78529,BUS ZN
 59889,Kootenay Loop @ Bay 1,49.281403,-123.025625,BUS ZN
-60105,Moody Centre Station @ West Coast Express,49.278065,-122.845996,WCE2A
-60106,Moody Centre Station @ West Coast Express,49.278062,-122.846595,WCE2A
-60107,Coquitlam Central Station @ West Coast Express,49.2738,-122.800001,WCE2A
-60108,Coquitlam Central Station @ West Coast Express,49.2738,-122.800401,WCE2A
+60105,Moody Centre Stn @ West Coast Express,49.278065,-122.845996,WCE2A
+60106,Moody Centre Stn @ West Coast Express,49.278062,-122.846595,WCE2A
+60107,Coquitlam Central Stn @ West Coast Express,49.2738,-122.800001,WCE2A
+60108,Coquitlam Central Stn @ West Coast Express,49.2738,-122.800401,WCE2A
 61550,Westbound 60 Ave @ 194A St,49.111342,-122.685765,BUS ZN
 60102,Southbound Cambie St @ Nelson St,49.275952,-123.118424,BUS ZN
 60103,Northbound Cambie St @ Nelson St,49.276256,-123.117748,BUS ZN
 60104,Northbound Cambie St @ Robson St,49.278318,-123.114655,BUS ZN
-61922,Moody Centre Station @ Bay 9,49.277832,-122.847667,BUS ZN
+61922,Moody Centre Stn @ Bay 9,49.277832,-122.847667,BUS ZN
 59263,Westbound Lincoln Ave @ Oxford St,49.278432,-122.767721,BUS ZN
 59860,Eastbound Davie St @ Richards St,49.275982,-123.124529,BUS ZN
 61937,Northbound Cessna Dr @ Hudson Ave,49.188916,-123.143128,BUS ZN
@@ -1657,7 +1657,7 @@
 51228,Northbound Commercial Dr @ Charles St,49.273323,-123.06943,BUS ZN
 60167,Westbound Cumberland St  @ Sapper St,49.220538,-122.894757,BUS ZN
 60111,Eastbound W Queens Rd @ Del Rio Dr,49.336516,-123.092768,BUS ZN
-58099,Burrard Station @ Bay 5,49.285787,-123.119282,BUS ZN
+58099,Burrard Stn @ Bay 5,49.285787,-123.119282,BUS ZN
 51063,Eastbound 24 Ave @ 161A St,49.045488,-122.774749,BUS ZN
 51229,Northbound Commercial Dr @ Napier St,49.275134,-123.069418,BUS ZN
 60135,Westbound 68 Ave @ 18700 Block,49.126165,-122.704228,BUS ZN
@@ -1672,7 +1672,7 @@
 58940,Westbound 32 Ave @ 160 St,49.060162,-122.779779,BUS ZN
 59104,Westbound 32 Ave @ 156A St,49.060184,-122.790767,BUS ZN
 60209,Westbound Elmbridge Way @ Gilbert Rd,49.172828,-123.147179,BUS ZN
-60208,29th Avenue Station @ Bay 4,49.244435,-123.044461,BUS ZN
+60208,29th Avenue Stn @ Bay 4,49.244435,-123.044461,BUS ZN
 59119,Westbound 32 Ave @ 154 St,49.060927,-122.797554,BUS ZN
 59178,Eastbound 32 Ave @ 152 St,49.061485,-122.800444,BUS ZN
 59177,Eastbound 32 Ave  @ Croydon Dr,49.06037,-122.797234,BUS ZN
@@ -1685,14 +1685,14 @@
 58782,Southbound 160 St @ 26 Ave,49.048742,-122.77935,BUS ZN
 56078,Southbound King George Blvd @ 156 St,49.04207,-122.789463,BUS ZN
 56079,Southbound King George Blvd @ 20 Ave,49.038051,-122.784375,BUS ZN
-60211,Metrotown Station @ Bay 11,49.226034,-123.004152,BUS ZN
-60195,Metrotown Station @ Bay 10,49.22639,-123.004928,BUS ZN
+60211,Metrotown Stn @ Bay 11,49.226034,-123.004152,BUS ZN
+60195,Metrotown Stn @ Bay 10,49.22639,-123.004928,BUS ZN
 56344,Northbound Cranley Dr @ Cumbria Dr,49.040513,-122.780371,BUS ZN
 56345,Northbound Cranley Dr @ Suffolk Rd,49.042114,-122.782161,BUS ZN
-60212,Metrotown Station @ Bay 12,49.225643,-123.003278,BUS ZN
+60212,Metrotown Stn @ Bay 12,49.225643,-123.003278,BUS ZN
 51232,Northbound Commercial Dr @ E Georgia St,49.278704,-123.070346,BUS ZN
-60213,Metrotown Station @ Bay 13,49.22541,-123.002774,BUS ZN
-60214,Metrotown Station @ Bay 14,49.225091,-123.002091,BUS ZN
+60213,Metrotown Stn @ Bay 13,49.22541,-123.002774,BUS ZN
+60214,Metrotown Stn @ Bay 14,49.225091,-123.002091,BUS ZN
 60149,Southbound 160 St @ 20 Ave,49.038034,-122.77927,BUS ZN
 60150,Southbound 160 St @ 19 Ave,49.035982,-122.779277,BUS ZN
 56267,Westbound Buena Vista Ave @ Stayte Rd,49.023868,-122.779615,BUS ZN
@@ -1771,7 +1771,7 @@
 59418,Northbound Garden City Rd @ Cook Rd,49.167019,-123.124443,BUS ZN
 60206,Westbound 64 Ave @ 196 St,49.119175,-122.680507,BUS ZN
 60207,Eastbound 64 Ave @ 194 St,49.119024,-122.684578,BUS ZN
-60233,Maple Meadows Station @ Bay 1,49.217223,-122.66742,BUS ZN
+60233,Maple Meadows Stn @ Bay 1,49.217223,-122.66742,BUS ZN
 60236,Northbound Windjammer Rd @ Arbutus Point Rd (Flag),49.366352,-123.422783,BUS ZN
 51240,Southbound Commercial Dr @ Graveley St,49.270207,-123.069755,BUS ZN
 60237,Artisan Square (Flag),49.380323,-123.345848,BUS ZN
@@ -1782,7 +1782,7 @@
 60234,Southbound Surrey Rd @ 115A Ave,49.212398,-122.814937,BUS ZN
 61186,Westbound 64 Ave @ Fraser Hwy,49.118734,-122.692402,BUS ZN
 60251,Eastbound SW Marine Dr @ Hudson St,49.20317,-123.135556,BUS ZN
-60250,Southbound Station St @ Terminal Ave,49.273628,-123.098659,BUS ZN
+60250,Southbound Stn St @ Terminal Ave,49.273628,-123.098659,BUS ZN
 60840,Southbound Nelson Rd @ Westminster Hwy,49.168301,-123.01295,BUS ZN
 61298,Southbound Brunette Ave @ Hillside Ave,49.233083,-122.841895,BUS ZN
 60247,Southbound 184 St @ 71 Ave,49.130861,-122.712624,BUS ZN
@@ -1799,27 +1799,27 @@
 55559,Northbound Scott Rd @ 56 Ave,49.104989,-122.890274,BUS ZN
 60198,Southbound 52 St @ Hwy 17,49.036783,-123.079785,BUS ZN
 60293,Southbound 52 St @ Cliff Dr,49.0269,-123.079855,BUS ZN
-60307,Broadway-City Hall Station @ Bay 3,49.261616,-123.115153,BUS ZN
+60307,Broadway-City Hall Stn @ Bay 3,49.261616,-123.115153,BUS ZN
 60290,Southbound Mt Gardner Rd @ Magee Rd,49.387519,-123.354759,BUS ZN
 51245,Southbound Victoria Dr @ E 43 Ave,49.230264,-123.065727,BUS ZN
 60297,Northbound 168 St @ 78A Ave,49.145639,-122.756474,BUS ZN
 61764,Westbound Fraser Hwy @ 150 St,49.168408,-122.807134,BUS ZN
 60310,Westbound 84 Ave @ Venture Way,49.155559,-122.785083,BUS ZN
-60314,Nanaimo Station @ Bay 1,49.248336,-123.056509,BUS ZN
+60314,Nanaimo Stn @ Bay 1,49.248336,-123.056509,BUS ZN
 60320,Westbound Marine Dr @ 14900 Block,49.021902,-122.807511,BUS ZN
 51246,Southbound Victoria Dr @ Waverley Ave,49.226693,-123.065819,BUS ZN
 60322,Westbound Brunette @ Pare Court,49.237976,-122.844343,BUS ZN
 60313,Eastbound Ioco Rd @ Beach Ave,49.30235,-122.870879,BUS ZN
-60329,Brentwood Station @ Bay 1,49.267148,-123.002997,BUS ZN
+60329,Brentwood Stn @ Bay 1,49.267148,-123.002997,BUS ZN
 60335,Eastbound E King Edward Ave @ Ontario St,49.248778,-123.104553,BUS ZN
 60332,Westbound Kingsway @ Gilley Ave,49.220162,-122.97264,BUS ZN
 60336,Eastbound E Cordova St @ Heatley Ave,49.28202,-123.089076,BUS ZN
 60294,Northbound 52 St @ Saratoga Dr,49.028289,-123.079702,BUS ZN
 56938,Northbound Gilbert Rd @ Westminster Hwy,49.170522,-123.147475,BUS ZN
 51248,Southbound Victoria Dr @ E 49 Ave,49.224857,-123.065873,BUS ZN
-59709,Port Haney Station @ Bay 3,49.212575,-122.606432,BUS ZN
+59709,Port Haney Stn @ Bay 3,49.212575,-122.606432,BUS ZN
 60342,Southbound Cambie St @ W Georgia St,49.279676,-123.112876,BUS ZN
-60349,Oakridge-41st Ave Station @ Bay 3,49.233373,-123.114517,BUS ZN
+60349,Oakridge-41st Ave Stn @ Bay 3,49.233373,-123.114517,BUS ZN
 60352,Westbound Granville Ave @ Moffatt Rd,49.162848,-123.145425,BUS ZN
 51249,Southbound Victoria Dr @ E 51 Ave,49.223127,-123.065922,BUS ZN
 60343,Southbound Orchid Dr @ Holly Dr,49.256017,-122.800781,BUS ZN
@@ -1862,7 +1862,7 @@
 60424,Eastbound Blundell Rd @ York Rd,49.155303,-123.043518,BUS ZN
 60315,Eastbound 64 Ave @ 165 St,49.118842,-122.764773,BUS ZN
 60316,Westbound 64 Ave @ 165 St,49.119037,-122.766041,BUS ZN
-60390,Coquitlam Central Station @ Bay 14,49.275276,-122.799074,BUS ZN
+60390,Coquitlam Central Stn @ Bay 14,49.275276,-122.799074,BUS ZN
 51255,Southbound Victoria Dr @ Thornhill Dr,49.213015,-123.066138,BUS ZN
 61956,Eastbound 105 Ave @ Lincoln Dr,49.19317,-122.803013,BUS ZN
 60420,Northbound King George Blvd @ 6700 Block,49.123732,-122.845337,BUS ZN
@@ -1887,7 +1887,7 @@
 60395,Westbound W 41 Ave @ Carnarvon St,49.234826,-123.174148,BUS ZN
 58268,Eastbound W 41 Ave @ Oak St,49.233818,-123.127728,BUS ZN
 59615,Southbound 203 St @ Dewdney Trunk Rd,49.220895,-122.657041,BUS ZN
-53312,Burrard Station @ Bay 6,49.28616,-123.118293,BUS ZN
+53312,Burrard Stn @ Bay 6,49.28616,-123.118293,BUS ZN
 60376,Westbound Marine Dr @ Capilano Rd,49.324309,-123.121976,BUS ZN
 60405,Eastbound Marine Dr @ Pemberton Ave,49.323766,-123.106585,BUS ZN
 60407,Eastbound W 3rd St @ Chesterfield Ave,49.314479,-123.079648,BUS ZN
@@ -1897,7 +1897,7 @@
 51839,Northbound Matheson Cres @ SE Marine Dr,49.208301,-123.030733,BUS ZN
 51793,Southbound Matheson Cres @ Champlain Cres,49.210359,-123.027535,BUS ZN
 60473,Lonsdale Quay @ Bay 9,49.311537,-123.082514,BUS ZN
-60480,King George Station @ Bay 5,49.183693,-122.845706,BUS ZN
+60480,King George Stn @ Bay 5,49.183693,-122.845706,BUS ZN
 60477,Northbound Grand Blvd East @ E 15 St,49.322113,-123.056272,BUS ZN
 60476,Northbound Grand Blvd East @ E 13 St,49.320103,-123.056323,BUS ZN
 60408,Eastbound W 12th Ave @ Arbutus St,49.260922,-123.152113,BUS ZN
@@ -1913,8 +1913,8 @@
 60417,Westbound W 12th Ave @ Heather St,49.260557,-123.12041,BUS ZN
 60418,Westbound W 12th Ave @ Cambie St,49.260482,-123.11559,BUS ZN
 52411,Eastbound Edmonds St @ Linden Ave,49.219331,-122.949758,BUS ZN
-60483,Richmond-Brighouse Station @ Bay 1,49.167722,-123.136073,BUS ZN
-60482,Richmond-Brighouse Station @ Bay 2,49.167573,-123.135771,BUS ZN
+60483,Richmond-Brighouse Stn @ Bay 1,49.167722,-123.136073,BUS ZN
+60482,Richmond-Brighouse Stn @ Bay 2,49.167573,-123.135771,BUS ZN
 60492,Eastbound W Cordova St @ Carrall St,49.282442,-123.104634,BUS ZN
 60494,Eastbound W Broadway @ Granville St,49.263505,-123.139857,BUS ZN
 60305,Westbound Blundell Rd @ Zylmans Way,49.155421,-123.050284,BUS ZN
@@ -1978,7 +1978,7 @@
 51272,Eastbound E Pender St @ Main St,49.280323,-123.099245,BUS ZN
 59467,Northbound Maple St @ McAllister Ave,49.263567,-122.783538,BUS ZN
 58265,Southbound Cambie St @ W Georgia St,49.279237,-123.113568,BUS ZN
-60516,Brentwood Station @ Bay 5,49.266331,-123.004628,BUS ZN
+60516,Brentwood Stn @ Bay 5,49.266331,-123.004628,BUS ZN
 51754,Westbound Purcell Way @ Skeena Rd,49.317665,-123.021073,BUS ZN
 60580,Westbound Broadway @ Camrose Dr,49.261367,-122.945529,BUS ZN
 60585,Eastbound Broadway @ Camrose Dr,49.261089,-122.944267,BUS ZN
@@ -2004,7 +2004,7 @@
 60604,Eastbound E Hastings St @ Dunlevy Ave,49.281161,-123.094737,BUS ZN
 52724,Eastbound Henning Dr @ Gilmore Ave,49.264235,-123.016066,BUS ZN
 52730,Northbound Gilmore Ave @ Dawson St,49.263583,-123.014185,BUS ZN
-60607,King Edward Station @ Bay 3,49.248902,-123.11671,BUS ZN
+60607,King Edward Stn @ Bay 3,49.248902,-123.11671,BUS ZN
 60612,Northbound Renfrew St @ E Pender St,49.280062,-123.04396,BUS ZN
 60605,Westbound E 22 Ave @ Cassiar St,49.25068,-123.030751,BUS ZN
 61834,Westbound W 4th Ave @ Macdonald St,49.268444,-123.167233,BUS ZN
@@ -2036,7 +2036,7 @@
 51280,Eastbound Prior St @ Hawks Ave,49.276481,-123.087659,BUS ZN
 60268,Northbound Oak St @ W 67 Ave,49.210429,-123.130057,BUS ZN
 60653,Eastbound Sawmill Cres @ River District Crossing,49.205918,-123.031907,BUS ZN
-60654,King George Station @ Bay 1,49.182376,-122.845722,BUS ZN
+60654,King George Stn @ Bay 1,49.182376,-122.845722,BUS ZN
 60655,Westbound Inglis Dr @ Bell Irving Rd,49.177808,-123.170945,BUS ZN
 61435,Westbound W 49th Ave @ Manitoba St,49.225866,-123.107959,BUS ZN
 60652,Southbound Commercial Dr @ E 3rd Ave,49.267975,-123.06976,BUS ZN
@@ -2080,9 +2080,9 @@
 60691,Phibbs Exchange @ Bay 13,49.305374,-123.028462,BUS ZN
 60595,Southbound Macdonald St @ W 16th Ave,49.258001,-123.168503,BUS ZN
 51285,Southbound Clark Dr @ William St,49.27378,-123.07742,BUS ZN
-60676,Broadway-City Hall Station @ Bay 2,49.262099,-123.114774,BUS ZN
+60676,Broadway-City Hall Stn @ Bay 2,49.262099,-123.114774,BUS ZN
 60679,Southbound Willowbrook Connector @ 68 Ave,49.125742,-122.646133,BUS ZN
-60690,Brentwood Station @ Bay 8,49.267684,-123.002954,BUS ZN
+60690,Brentwood Stn @ Bay 8,49.267684,-123.002954,BUS ZN
 60700,Westbound Austin Ave @ Gatensbury St,49.249032,-122.857431,BUS ZN
 51286,Southbound Clark Dr @ Grant St,49.271208,-123.077466,BUS ZN
 60695,Westbound Cornwall Ave @ Trafalgar St,49.272793,-123.164082,BUS ZN
@@ -2226,7 +2226,7 @@
 51386,Southbound Willingdon Ave @ William St,49.273455,-123.003294,BUS ZN
 50014,Eastbound Pacific Blvd @ Homer St,49.272929,-123.125546,BUS ZN
 50140,Eastbound E 41 Ave @ Ontario St,49.233063,-123.105218,BUS ZN
-51389,Brentwood Station @ Bay 7,49.266007,-123.003347,BUS ZN
+51389,Brentwood Stn @ Bay 7,49.266007,-123.003347,BUS ZN
 51390,Southbound Willingdon Ave @ Dawson St,49.264033,-123.003368,BUS ZN
 51392,Eastbound Canada Way @ Willingdon Ave,49.254507,-123.003569,BUS ZN
 51393,Eastbound Canada Way @ Beta Ave,49.254571,-122.997559,BUS ZN
@@ -2373,7 +2373,7 @@
 51556,Westbound E 22 Ave @ Windermere St,49.250673,-123.036977,BUS ZN
 50157,Westbound W 41 Ave @ Ontario St,49.233269,-123.106197,BUS ZN
 51558,Westbound E 22 Ave @ Renfrew St,49.250695,-123.043691,BUS ZN
-51560,Nanaimo Station @ Bay 2,49.248591,-123.055976,BUS ZN
+51560,Nanaimo Stn @ Bay 2,49.248591,-123.055976,BUS ZN
 51561,Southbound Nanaimo St @ E 28 Ave,49.24547,-123.056785,BUS ZN
 51562,Southbound Nanaimo St @ Brock St,49.243673,-123.056787,BUS ZN
 51563,Westbound E King Edward Ave @ Kingsway,49.248545,-123.073165,BUS ZN
@@ -2385,7 +2385,7 @@
 51571,Westbound E King Edward Ave @ Main St,49.248868,-123.101632,BUS ZN
 51572,Westbound W King Edward Ave @ Ontario St,49.248929,-123.105487,BUS ZN
 51573,Westbound W King Edward Ave @ Columbia St,49.249023,-123.110516,BUS ZN
-51574,King Edward Station @ Bay 1,49.249121,-123.116003,BUS ZN
+51574,King Edward Stn @ Bay 1,49.249121,-123.116003,BUS ZN
 51575,Westbound W King Edward Ave @ Heather St,49.249205,-123.120844,BUS ZN
 51576,Westbound W King Edward Ave @ Laurel St,49.249302,-123.125107,BUS ZN
 51577,Westbound W King Edward Ave @ Oak St,49.249375,-123.128078,BUS ZN
@@ -2397,7 +2397,7 @@
 51584,Westbound W King Edward Ave @ Arbutus St,49.251747,-123.153741,BUS ZN
 51585,Westbound W King Edward Ave @ Yew St,49.251149,-123.156163,BUS ZN
 51586,Westbound W King Edward Ave @ Valley Dr,49.249723,-123.159848,BUS ZN
-50160,Oakridge-41st Ave Station @ Bay 5,49.233681,-123.116855,BUS ZN
+50160,Oakridge-41st Ave Stn @ Bay 5,49.233681,-123.116855,BUS ZN
 51588,Westbound W King Edward Ave @ Trafalgar St,49.248213,-123.165826,BUS ZN
 51590,Westbound W King Edward Ave @ Blenheim St,49.250186,-123.179099,BUS ZN
 51592,Westbound W 16 Ave @ Alma St,49.258091,-123.18653,BUS ZN
@@ -2409,7 +2409,7 @@
 51598,Westbound W 16 Ave @ Pacific Spirit Park,49.258662,-123.222569,BUS ZN
 59715,Northbound Wesbrook Mall @ Thunderbird Blvd,49.262267,-123.241873,BUS ZN
 58606,Northbound Wesbrook Mall @ 2100 Block,49.264762,-123.243949,BUS ZN
-51603,29th Avenue Station @ Bay 2,49.244186,-123.045328,BUS ZN
+51603,29th Avenue Stn @ Bay 2,49.244186,-123.045328,BUS ZN
 51604,Southbound Rupert St @ School Ave,49.234833,-123.04321,BUS ZN
 51605,Southbound Rupert St @ E 41 Ave,49.232594,-123.043215,BUS ZN
 51606,Southbound Rupert St @ E 43 Ave,49.230767,-123.043216,BUS ZN
@@ -2475,7 +2475,7 @@
 51668,Northbound Rupert St @ E 45 Ave,49.229567,-123.043028,BUS ZN
 51669,Northbound Rupert St @ E 43 Ave,49.231367,-123.042993,BUS ZN
 51670,Northbound Rupert St @ E 41 Ave,49.233276,-123.042996,BUS ZN
-51671,Joyce Station @ Bay 2,49.238709,-123.032702,BUS ZN
+51671,Joyce Stn @ Bay 2,49.238709,-123.032702,BUS ZN
 51675,Northbound Rupert St @ E 29 Ave,49.244846,-123.033756,BUS ZN
 50169,Northbound Main St @ E King Edward Ave,49.249121,-123.100891,BUS ZN
 51676,Northbound Rupert St @ E 27 Ave,49.246536,-123.033689,BUS ZN
@@ -2518,7 +2518,7 @@
 59582,Northbound Main St @ E 14 Ave,49.258782,-123.100989,BUS ZN
 51717,Southbound Rupert St @ E 28 Ave,49.245072,-123.033981,BUS ZN
 51721,Southbound Joyce St @ Wellington Ave,49.2398,-123.030473,BUS ZN
-51722,Joyce Station @ Bay 1 Unload Only,49.238592,-123.032425,BUS ZN
+51722,Joyce Stn @ Bay 1 Unload Only,49.238592,-123.032425,BUS ZN
 51723,Eastbound Vanness Ave @ Melbourne St,49.236321,-123.027853,BUS ZN
 51724,Northbound Boundary Rd @ Vanness Ave,49.235076,-123.023292,BUS ZN
 50174,Northbound Main St @ E 12 Ave,49.260528,-123.100888,BUS ZN
@@ -2566,10 +2566,10 @@
 51785,Westbound Vanness Ave @ Boundary Rd,49.234751,-123.024219,BUS ZN
 50180,Northbound Main St @ Industrial Ave,49.270803,-123.100432,BUS ZN
 51786,Westbound Vanness Ave @ Melbourne St,49.236726,-123.028401,BUS ZN
-51787,Joyce Station @ Bay 4,49.237907,-123.031047,BUS ZN
+51787,Joyce Stn @ Bay 4,49.237907,-123.031047,BUS ZN
 51794,Westbound SE Marine Dr @ Matheson Cres,49.208224,-123.031482,BUS ZN
 51795,Westbound SE Marine Dr @ Fieldstone Ave,49.208441,-123.03581,BUS ZN
-50181,Main Street-Science World Station @ Bay 2,49.273395,-123.099831,BUS ZN
+50181,Main Street-Science World Stn @ Bay 2,49.273395,-123.099831,BUS ZN
 51796,Westbound SE Marine Dr @ Kerr St,49.208162,-123.042926,BUS ZN
 51797,Westbound SE Marine Dr @ Jellicoe St,49.207743,-123.048165,BUS ZN
 51798,Westbound SE Marine Dr @ Elliott St,49.207187,-123.057208,BUS ZN
@@ -2590,7 +2590,7 @@
 51815,Northbound Clarendon St @ E 39 Ave,49.235129,-123.055396,BUS ZN
 51816,Northbound Clarendon St @ E 37 Ave,49.237621,-123.055365,BUS ZN
 51817,Eastbound E 29 Ave @ Slocan St,49.244554,-123.04908,BUS ZN
-51818,29th Avenue Station @ Bay 1,49.244269,-123.045608,BUS ZN
+51818,29th Avenue Stn @ Bay 1,49.244269,-123.045608,BUS ZN
 51819,Southbound Clarendon St @ E 41 Ave,49.232504,-123.055437,BUS ZN
 51821,Southbound Elliott St @ E 45 Ave,49.229145,-123.054924,BUS ZN
 51822,Southbound Elliott St @ E 47 Ave,49.227337,-123.054776,BUS ZN
@@ -2610,7 +2610,7 @@
 51836,Eastbound SE Marine Dr @ Jellicoe St,49.207592,-123.047214,BUS ZN
 51837,Eastbound SE Marine Dr @ Kerr St,49.207748,-123.044803,BUS ZN
 51838,Eastbound SE Marine Dr @ Fieldstone Ave,49.208333,-123.035248,BUS ZN
-51843,Burrard Station @ Bay 3,49.286391,-123.121757,BUS ZN
+51843,Burrard Stn @ Bay 3,49.286391,-123.121757,BUS ZN
 51844,Eastbound Hastings St @ Alpha,49.2809,-123.00183,BUS ZN
 51845,Eastbound Hastings St @ Beta Ave,49.280896,-122.996968,BUS ZN
 50186,Westbound W Hastings St @ Carrall St,49.281733,-123.105366,BUS ZN
@@ -2710,7 +2710,7 @@
 51993,Eastbound Imperial St @ Boundary Rd,49.221875,-123.022768,BUS ZN
 51994,Eastbound Imperial St @ Mandy Ave,49.221886,-123.017609,BUS ZN
 51998,Northbound Willingdon Ave @ Mayberry St,49.226048,-123.009158,BUS ZN
-51999,Metrotown Station @ Bay 3,49.226002,-123.002615,BUS ZN
+51999,Metrotown Stn @ Bay 3,49.226002,-123.002615,BUS ZN
 56125,Northbound Granville St @ W 41 Ave,49.234888,-123.139463,BUS ZN
 52003,Westbound Imperial St @ McKay Ave,49.222002,-123.00948,BUS ZN
 52004,Westbound Imperial St @ Patterson Ave,49.222012,-123.013345,BUS ZN
@@ -2734,7 +2734,7 @@
 52028,Westbound E 49 Ave @ St. George St,49.225593,-123.094471,BUS ZN
 52029,Westbound E 49 Ave @ Prince Edward St,49.22566,-123.098055,BUS ZN
 50204,Northbound Granville St @ W 36 Ave,49.239279,-123.13931,BUS ZN
-61218,Langara-49th Station @ Bay 2,49.226178,-123.116035,BUS ZN
+61218,Langara-49th Stn @ Bay 2,49.226178,-123.116035,BUS ZN
 52035,Westbound W 49 Ave @ Tisdall St,49.226392,-123.121435,BUS ZN
 52036,Westbound W 49 Ave @ Laurel St,49.226538,-123.125587,BUS ZN
 52037,Westbound W 49 Ave @ Oak St,49.226658,-123.128988,BUS ZN
@@ -2842,7 +2842,7 @@
 52177,Westbound Columbia St @ Royal Ave,49.200396,-122.919036,BUS ZN
 50022,Northbound Columbia St @ E Pender St,49.280772,-123.102196,BUS ZN
 52182,Westbound Marine Way @ 20 St,49.199966,-122.946299,BUS ZN
-52183,22nd Street Station @ Bay 8,49.199522,-122.950167,BUS ZN
+52183,22nd Street Stn @ Bay 8,49.199522,-122.950167,BUS ZN
 52184,Westbound Marine Dr @ 7th Ave,49.198195,-122.95361,BUS ZN
 52185,Westbound Marine Dr @ 10 Ave,49.201118,-122.960458,BUS ZN
 52186,Westbound Marine Dr @ 14 Ave,49.20329,-122.964735,BUS ZN
@@ -2872,7 +2872,7 @@
 52214,Westbound SW Marine Dr @ Manitoba St,49.212212,-123.110409,BUS ZN
 52217,Westbound SW Marine Dr @ Ash St,49.209141,-123.119749,BUS ZN
 52219,Westbound SW Marine Dr @ Laurel St,49.206184,-123.126813,BUS ZN
-52230,22nd Street Station @ Bay 4,49.199857,-122.949097,BUS ZN
+52230,22nd Street Stn @ Bay 4,49.199857,-122.949097,BUS ZN
 52231,Eastbound 8th Ave @ 23 St,49.200284,-122.952972,BUS ZN
 52232,Eastbound 8th Ave @ 22 St,49.200902,-122.951796,BUS ZN
 52233,Eastbound 8th Ave @ 21 St,49.201938,-122.949878,BUS ZN
@@ -2941,7 +2941,7 @@
 52311,Westbound 8th Ave @ 20 St,49.202694,-122.948761,BUS ZN
 59127,Westbound 8th Ave @ 22 St,49.200666,-122.952508,BUS ZN
 52316,Eastbound Columbia St @ 6th St,49.203434,-122.907238,BUS ZN
-52317,Columbia Station @ Bay 2,49.204662,-122.904917,BUS ZN
+52317,Columbia Stn @ Bay 2,49.204662,-122.904917,BUS ZN
 50232,Southbound Main St @ National Ave,49.274506,-123.100141,BUS ZN
 52318,Eastbound Columbia St @ 200 Block,49.205926,-122.902572,BUS ZN
 52322,Eastbound E 8th Ave @ McBride Blvd,49.222855,-122.910938,BUS ZN
@@ -2950,10 +2950,10 @@
 52325,Eastbound Cumberland St @ Beth St,49.220792,-122.903096,BUS ZN
 52326,Eastbound Cumberland St @ Glenbrook Dr,49.220507,-122.899746,BUS ZN
 52327,Southbound Richmond St @ Seymour Court,49.219804,-122.898494,BUS ZN
-50233,Main Street-Science World Station @ Bay 1,49.273072,-123.100189,BUS ZN
+50233,Main Street-Science World Stn @ Bay 1,49.273072,-123.100189,BUS ZN
 52328,Southbound Richmond St @ Miner St,49.218132,-122.896555,BUS ZN
 52330,Westbound Columbia St @ 200 Block,49.206351,-122.902216,BUS ZN
-52331,Columbia Station @ Bay 1,49.204434,-122.905796,BUS ZN
+52331,Columbia Stn @ Bay 1,49.204434,-122.905796,BUS ZN
 52332,Westbound Columbia St @ 6th St,49.203028,-122.908363,BUS ZN
 52335,Eastbound Quayside Dr @ Laguna Court,49.199906,-122.922576,BUS ZN
 52336,Eastbound Quayside Dr @ Reliance Court,49.198963,-122.91808,BUS ZN
@@ -2984,7 +2984,7 @@
 52367,Westbound Westminster Hwy @ Smith Cres,49.18162,-122.964852,BUS ZN
 52369,Westbound Westminster Hwy @ Willett Ave,49.179336,-122.9673,BUS ZN
 52372,Northbound Howes St @ Ewen Ave,49.18668,-122.946975,BUS ZN
-52373,22nd Street Station @ Bay 5,49.199792,-122.949358,BUS ZN
+52373,22nd Street Stn @ Bay 5,49.199792,-122.949358,BUS ZN
 52375,Eastbound Ewen Ave @ Howes St,49.186414,-122.946218,BUS ZN
 52376,Eastbound Ewen Ave @ Lawrence St,49.187364,-122.943923,BUS ZN
 52377,Eastbound Ewen Ave @ Wood St,49.189452,-122.938836,BUS ZN
@@ -2998,7 +2998,7 @@
 58448,Westbound Cliveden Ave @ 1400 Block,49.16795,-122.961255,BUS ZN
 52388,Westbound Cliveden Ave @ Eaton Way,49.166551,-122.964313,BUS ZN
 52389,Westbound Cliveden Ave @ Hampstead Close,49.164457,-122.969491,BUS ZN
-52390,Metrotown Station @ Bay 7,49.226075,-123.003117,BUS ZN
+52390,Metrotown Stn @ Bay 7,49.226075,-123.003117,BUS ZN
 52391,Northbound McKay Ave @ Kingsborough St,49.228218,-123.004017,BUS ZN
 52392,Eastbound Kingsway @ McKay Ave,49.229202,-123.002247,BUS ZN
 52393,Eastbound Kingsway @ Sussex Ave,49.227881,-122.998248,BUS ZN
@@ -3050,7 +3050,7 @@
 52450,Westbound Edmonds St @ Mary Ave,49.221794,-122.945453,BUS ZN
 52451,Westbound Edmonds St @ Humphries Ave,49.220694,-122.947514,BUS ZN
 52452,Westbound Edmonds St @ Linden Ave,49.219094,-122.950508,BUS ZN
-52453,Edmonds Station @ Bay 3,49.212031,-122.958288,BUS ZN
+52453,Edmonds Stn @ Bay 3,49.212031,-122.958288,BUS ZN
 52454,Westbound Kingsway @ Walker Ave,49.21848,-122.953152,BUS ZN
 52455,Westbound Kingsway @ Salisbury Ave,49.218535,-122.957951,BUS ZN
 50246,Southbound Main St @ E King Edward Ave,49.248466,-123.101194,BUS ZN
@@ -3085,7 +3085,7 @@
 52491,Southbound 2nd St @ 4th Ave,49.213365,-122.910289,BUS ZN
 52492,Southbound 2nd St @ 3rd Ave,49.21183,-122.90836,BUS ZN
 50250,Southbound Main St @ E 36 Ave,49.23788,-123.101715,BUS ZN
-52499,Metrotown Station @ Bay 8,49.226172,-123.003354,BUS ZN
+52499,Metrotown Stn @ Bay 8,49.226172,-123.003354,BUS ZN
 52500,Eastbound Central Blvd @ 4500 Block,49.224203,-123.000304,BUS ZN
 52501,Northbound Bonsor Ave @ Central Blvd,49.224103,-122.997738,BUS ZN
 52502,Northbound Nelson Ave @ Bennett St,49.225569,-122.994051,BUS ZN
@@ -3101,7 +3101,7 @@
 52512,Northbound Willingdon Ave @ Grassmere St,49.238854,-123.003286,BUS ZN
 52513,Northbound Willingdon Ave @ Price St,49.240537,-123.003294,BUS ZN
 52514,Westbound Beresford St @ Willingdon Ave,49.227715,-123.00874,BUS ZN
-52515,Patterson Station @ Bay 1,49.229426,-123.012448,BUS ZN
+52515,Patterson Stn @ Bay 1,49.229426,-123.012448,BUS ZN
 52516,Northbound Patterson Ave @ Kingsway,49.232043,-123.01255,BUS ZN
 52517,Northbound Barker Ave @ Grange St,49.233208,-123.01101,BUS ZN
 52518,Northbound Patterson Ave @ Sardis St,49.234332,-123.013418,BUS ZN
@@ -3180,7 +3180,7 @@
 52601,Westbound Central Blvd @ Bonsor Ave,49.223785,-122.99906,BUS ZN
 52602,Westbound Central Blvd @ 4500 Block,49.224507,-123.000438,BUS ZN
 59538,Southbound Main St @ E 59 Ave,49.216491,-123.102076,BUS ZN
-52605,Edmonds Station @ Bay 5,49.212185,-122.95867,BUS ZN
+52605,Edmonds Stn @ Bay 5,49.212185,-122.95867,BUS ZN
 52606,Southbound Griffiths Dr @ Southpoint Dr,49.210902,-122.955497,BUS ZN
 52607,Eastbound 14 Ave @ Griffiths Dr,49.210392,-122.953152,BUS ZN
 52609,Westbound 14th Ave @ 15th St,49.213997,-122.948,BUS ZN
@@ -3212,7 +3212,7 @@
 52640,Northbound Royal Oak Ave @ Rumble St,49.215162,-122.988376,BUS ZN
 52641,Northbound Royal Oak Ave @ Sidley St,49.217755,-122.988378,BUS ZN
 50265,Eastbound E 65 Ave @ Main St,49.211695,-123.101625,BUS ZN
-52646,Metrotown Station @ Bay 5,49.225917,-123.002755,BUS ZN
+52646,Metrotown Stn @ Bay 5,49.225917,-123.002755,BUS ZN
 52651,Southbound Royal Oak Ave @ Sidley St,49.217247,-122.988525,BUS ZN
 52652,Southbound Royal Oak Ave @ Rumble St,49.214361,-122.988572,BUS ZN
 52653,Eastbound Clinton St @ Royal Oak Ave,49.21297,-122.987978,BUS ZN
@@ -3229,7 +3229,7 @@
 52664,Eastbound Rumble St @ Gilley Ave,49.214658,-122.971351,BUS ZN
 52665,Eastbound Rumble St @ Hedley Ave,49.214626,-122.967022,BUS ZN
 52666,Eastbound Rumble St @ 6800 Block,49.214611,-122.962821,BUS ZN
-52667,Edmonds Station @ Bay 6,49.212256,-122.958512,BUS ZN
+52667,Edmonds Stn @ Bay 6,49.212256,-122.958512,BUS ZN
 52668,Westbound Rumble St @ 6800 Block,49.214716,-122.963544,BUS ZN
 52669,Westbound Rumble St @ Hedley Ave,49.214747,-122.967318,BUS ZN
 52670,Southbound Gilley Ave @ Rumble St,49.214373,-122.972068,BUS ZN
@@ -3252,7 +3252,7 @@
 52686,Northbound Sussex Ave @ Watling St,49.216898,-123.004891,BUS ZN
 52687,Northbound Sussex Ave @ Victory St,49.218708,-123.004916,BUS ZN
 52688,Northbound Sussex Ave @ Hurst St,49.220512,-123.004945,BUS ZN
-52692,Metrotown Station @ Bay 1,49.226277,-123.003299,BUS ZN
+52692,Metrotown Stn @ Bay 1,49.226277,-123.003299,BUS ZN
 52695,Westbound Imperial St @ Dow Ave,49.222001,-123.003694,BUS ZN
 52696,Southbound Sussex Ave @ Imperial St,49.221363,-123.005145,BUS ZN
 52697,Southbound Sussex Ave @ Hurst St,49.220021,-123.005099,BUS ZN
@@ -3285,7 +3285,7 @@
 52734,Southbound Gilmore Way @ 3500 Block,49.25259,-123.010799,BUS ZN
 50273,Blanca Loop @ Bay 1,49.265243,-123.21585,BUS ZN
 52735,Eastbound Moscrop St @ Smith Ave,49.242913,-123.019292,BUS ZN
-52736,Metrotown Station @ Bay 4,49.225794,-123.002518,BUS ZN
+52736,Metrotown Stn @ Bay 4,49.225794,-123.002518,BUS ZN
 52738,Northbound Willingdon Ave @ Grafton St,49.232393,-123.003238,BUS ZN
 52739,Northbound Willingdon Ave @ Deer Lake Parkway,49.243312,-123.003169,BUS ZN
 52740,Northbound Willingdon Ave @ Sanderson Way,49.247628,-123.003869,BUS ZN
@@ -3317,7 +3317,7 @@
 52768,Southbound Salisbury Ave @ Imperial St,49.223269,-122.957651,BUS ZN
 52769,Southbound Salisbury Ave @ Elwell St,49.220907,-122.957642,BUS ZN
 52770,Southbound Salisbury Ave @ Arcola St,49.219021,-122.957619,BUS ZN
-52771,Edmonds Station @ Bay 4,49.21197,-122.958485,BUS ZN
+52771,Edmonds Stn @ Bay 4,49.21197,-122.958485,BUS ZN
 50277,Eastbound W 10 Ave @ Trimble St,49.263689,-123.205581,BUS ZN
 52772,Northbound Salisbury Ave @ Kingsway,49.218855,-122.957436,BUS ZN
 52774,Northbound Salisbury Ave @ McBride St,49.222373,-122.957498,BUS ZN
@@ -3343,7 +3343,7 @@
 52801,Northbound Gilmore Ave @ Parker St,49.275977,-123.01418,BUS ZN
 52802,Northbound Gilmore Ave @ Union St,49.277749,-123.014142,BUS ZN
 52803,Northbound Gilmore Ave @ Frances St,49.279524,-123.014114,BUS ZN
-52804,Metrotown Station @ Bay 6,49.225986,-123.002908,BUS ZN
+52804,Metrotown Stn @ Bay 6,49.225986,-123.002908,BUS ZN
 52807,SFU Transit Exchange @ Bay 3,49.278466,-122.912681,BUS ZN
 52809,Eastbound Midlawn Dr @ Willingdon Ave,49.270995,-123.002468,BUS ZN
 52810,Southbound Fairlawn Dr @ Midlawn Dr,49.270723,-122.99969,BUS ZN
@@ -3511,7 +3511,7 @@
 52989,Southbound N Boundary Rd @ Cambridge St,49.286231,-123.023627,BUS ZN
 52990,Southbound Boundary Rd @ Dundas St,49.284524,-123.023659,BUS ZN
 52991,Southbound Boundary Rd @ Pandora St,49.282683,-123.023697,BUS ZN
-52992,Edmonds Station @ Bay 2,49.212196,-122.958297,BUS ZN
+52992,Edmonds Stn @ Bay 2,49.212196,-122.958297,BUS ZN
 52993,Northbound Duthie Ave @ Halifax St,49.268274,-122.953426,BUS ZN
 52994,Northbound Duthie Ave @ Curtis St,49.275691,-122.953359,BUS ZN
 52995,Northbound Duthie Ave @ Union St,49.278088,-122.953334,BUS ZN
@@ -3536,7 +3536,7 @@
 50302,Northbound Dunbar St @ W 34 Ave,49.241702,-123.185172,BUS ZN
 53019,Eastbound Mariner Way @ Windward Dr,49.272582,-122.811201,BUS ZN
 53343,Eastbound Mariner Way @ Dewdney Trunk Rd,49.2726,-122.805911,BUS ZN
-53021,Coquitlam Central Station @ Bay 3,49.275352,-122.79869,BUS ZN
+53021,Coquitlam Central Stn @ Bay 3,49.275352,-122.79869,BUS ZN
 53022,Eastbound Lougheed Hwy @ Westwood St,49.274107,-122.792389,BUS ZN
 53023,Eastbound Lougheed Hwy @ Hastings St,49.269622,-122.781555,BUS ZN
 53024,Southbound Shaughnessy St @ Lions Way,49.266491,-122.77758,BUS ZN
@@ -3549,7 +3549,7 @@
 53032,Northbound Shaughnessy St @ Lions Way,49.265899,-122.777782,BUS ZN
 53033,Westbound Lougheed Hwy @ Hastings St,49.270604,-122.783366,BUS ZN
 53034,Westbound Lougheed Hwy @ Westwood St,49.274252,-122.791893,BUS ZN
-53035,Coquitlam Central Station @ Bay 4,49.275172,-122.798784,BUS ZN
+53035,Coquitlam Central Stn @ Bay 4,49.275172,-122.798784,BUS ZN
 53036,Westbound Dewdney Trunk Rd @ Lougheed Hwy,49.26982,-122.800011,BUS ZN
 53037,Westbound Dewdney Trunk Rd @ Norman Ave,49.271255,-122.801808,BUS ZN
 50304,Northbound Dunbar St @ W 30 Ave,49.245532,-123.185125,BUS ZN
@@ -3582,7 +3582,7 @@
 53064,Eastbound Oakland St @ Dufferin Ave,49.228906,-122.980245,BUS ZN
 53065,Eastbound Oakland St @ Waltham Ave,49.22918,-122.97684,BUS ZN
 53066,Eastbound Oakland St @ Gilley Ave,49.229331,-122.971492,BUS ZN
-50031,Burrard Station @ Bay 7,49.284688,-123.120503,BUS ZN
+50031,Burrard Stn @ Bay 7,49.284688,-123.120503,BUS ZN
 50307,Northbound Dunbar St @ W King Edward Ave,49.250494,-123.185062,BUS ZN
 53067,Eastbound Oakland St @ Brantford Ave,49.229258,-122.967266,BUS ZN
 53068,Southbound Sperling Ave @ Canada Way,49.239331,-122.964769,BUS ZN
@@ -3626,7 +3626,7 @@
 53119,Northbound North Rd @ 600 Block,49.255307,-122.892802,BUS ZN
 53120,Northbound North Rd @ Foster Ave,49.257159,-122.89284,BUS ZN
 53121,Northbound North Rd @ Cottonwood Ave,49.258543,-122.892871,BUS ZN
-59531,Burquitlam Station @ Bay 5,49.261648,-122.889791,BUS ZN
+59531,Burquitlam Stn @ Bay 5,49.261648,-122.889791,BUS ZN
 53123,Northbound Clarke Rd @ Como Lake Ave,49.264022,-122.886773,BUS ZN
 53125,Northbound Clarke Rd @ Robinson St,49.268704,-122.880872,BUS ZN
 53126,Northbound Clarke Rd @ Glenayre Dr,49.270229,-122.878905,BUS ZN
@@ -3654,13 +3654,13 @@
 53149,Eastbound St. Johns St @ Buller St,49.276532,-122.839688,BUS ZN
 53151,Eastbound St. Johns St @ Clearview Dr,49.276372,-122.830951,BUS ZN
 53154,Eastbound Barnet Hwy @ Lansdowne Dr,49.277677,-122.806687,BUS ZN
-53161,Coquitlam Central Station @ Bay 6,49.27466,-122.799011,BUS ZN
+53161,Coquitlam Central Stn @ Bay 6,49.27466,-122.799011,BUS ZN
 53162,Northbound Johnson St @ Packard Ave,49.279703,-122.801564,BUS ZN
 53164,Eastbound Guildford Way @ Johnson St,49.285094,-122.80093,BUS ZN
 53165,Eastbound Guildford Way @ Pacific St,49.285107,-122.797418,BUS ZN
 60725,Eastbound W Broadway @ Collingwood St,49.264225,-123.181429,BUS ZN
 53168,Southbound Pinetree Way @ Glen Dr,49.282274,-122.793385,BUS ZN
-53170,Coquitlam Central Station @ Bay 7,49.274922,-122.799039,BUS ZN
+53170,Coquitlam Central Stn @ Bay 7,49.274922,-122.799039,BUS ZN
 53172,Westbound Barnet Hwy @ Falcon Dr,49.278022,-122.819531,BUS ZN
 53173,Westbound Barnet Hwy @ Ioco Rd,49.277716,-122.825618,BUS ZN
 53180,Westbound St. Johns St @ Clearview Dr,49.276634,-122.831542,BUS ZN
@@ -3693,7 +3693,7 @@
 53205,Southbound Clarke Rd @ Glenayre Dr,49.269724,-122.879866,BUS ZN
 53206,Southbound Clarke Rd @ Thompson Ave,49.268141,-122.881911,BUS ZN
 53207,Southbound Clarke Rd @ Kemsley Ave,49.266341,-122.884085,BUS ZN
-53208,Burquitlam Station @ Bay 6,49.262283,-122.88931,BUS ZN
+53208,Burquitlam Stn @ Bay 6,49.262283,-122.88931,BUS ZN
 53210,Southbound North Rd @ Cottonwood Ave,49.258374,-122.893206,BUS ZN
 53211,Southbound North Rd @ Foster Ave,49.255871,-122.893156,BUS ZN
 53214,Southbound North Rd @ Austin Rd,49.248477,-122.893,BUS ZN
@@ -3753,7 +3753,7 @@
 53296,Eastbound Guildford Way @ Falcon Dr,49.284284,-122.81816,BUS ZN
 53297,Eastbound Guildford Way @ Eagleridge Dr,49.283443,-122.81231,BUS ZN
 53298,Eastbound Guildford Way @ Lansdowne Dr,49.284404,-122.80902,BUS ZN
-53299,Coquitlam Central Station @ Bay 1,49.27573,-122.79841,BUS ZN
+53299,Coquitlam Central Stn @ Bay 1,49.27573,-122.79841,BUS ZN
 50331,Southbound Oak St @ W 12 Ave,49.260251,-123.126842,BUS ZN
 53315,Eastbound Lougheed Hwy @ Guilby St,49.242188,-122.88616,BUS ZN
 53317,Eastbound Lougheed Hwy @ 700 Block,49.238594,-122.879539,BUS ZN
@@ -3782,7 +3782,7 @@
 53345,Southbound Westwood St @ Dewdney Trunk Rd,49.267485,-122.790769,BUS ZN
 53346,Eastbound Kingsway Ave @ Burleigh Ave,49.26532,-122.788479,BUS ZN
 53347,Eastbound Kingsway Ave @ Dixon St,49.265735,-122.78635,BUS ZN
-53348,Port Coquitlam Station @ Bay 6,49.261013,-122.774138,BUS ZN
+53348,Port Coquitlam Stn @ Bay 6,49.261013,-122.774138,BUS ZN
 53349,Eastbound Spuraway Ave @ Pinnacle St,49.263158,-122.815944,BUS ZN
 53350,Eastbound Spuraway Ave @ Cape Court,49.263828,-122.812062,BUS ZN
 53351,Eastbound Spuraway Ave @ Cove Place,49.262302,-122.80989,BUS ZN
@@ -3791,7 +3791,7 @@
 53353,Northbound Spuraway Ave @ Pasture Circle,49.264705,-122.803032,BUS ZN
 53354,Northbound Ranch Park Way @ Spuraway Ave,49.268601,-122.803119,BUS ZN
 53355,Northbound Ranch Park Way @ Norman Ave,49.270618,-122.803095,BUS ZN
-53357,Coquitlam Central Station @ Bay 9,49.275316,-122.79883,BUS ZN
+53357,Coquitlam Central Stn @ Bay 9,49.275316,-122.79883,BUS ZN
 53358,Westbound Dewdney Trunk Rd @ Irvine St,49.268123,-122.795197,BUS ZN
 53359,Southbound Ranch Park Way @ Norman Ave,49.27038,-122.803249,BUS ZN
 53360,Southbound Spuraway Ave @ 3000 Block,49.26685,-122.802721,BUS ZN
@@ -3864,7 +3864,7 @@
 53436,Eastbound Chilko Dr @ Silver Lake Place,49.258437,-122.803009,BUS ZN
 53437,Eastbound Chilko Dr @ Tatla Place,49.261664,-122.799949,BUS ZN
 53438,Northbound Lougheed Hwy @ Como Lake Ave,49.26384,-122.798109,BUS ZN
-53440,Port Coquitlam Station @ Bay 2,49.261178,-122.773908,BUS ZN
+53440,Port Coquitlam Stn @ Bay 2,49.261178,-122.773908,BUS ZN
 53441,Westbound Wilson Ave @ Mary Hill Rd,49.260938,-122.779124,BUS ZN
 53445,Westbound Kingsway Ave @ Jane St,49.265581,-122.787862,BUS ZN
 53448,Southbound Lougheed Hwy @ Dewdney Trunk Rd,49.268103,-122.798889,BUS ZN
@@ -3873,7 +3873,7 @@
 53454,Southbound Holly Dr @ Fern Terrace,49.244404,-122.808578,BUS ZN
 53455,Westbound Cape Horn Ave @ Colony Farm Rd,49.241103,-122.813688,BUS ZN
 53461,Westbound Chilko Dr @ Sharpe St,49.262709,-122.799256,BUS ZN
-50035,Waterfront Station @ Bay 3,49.284786,-123.111191,BUS ZN
+50035,Waterfront Stn @ Bay 3,49.284786,-123.111191,BUS ZN
 50346,Eastbound W 4th Ave @ Blanca St,49.269015,-123.214363,BUS ZN
 53462,Westbound Chilko Dr @ Tatla Place,49.261072,-122.800698,BUS ZN
 53463,Westbound Chilko Dr @ Silver Lake Place,49.258307,-122.803292,BUS ZN
@@ -3905,8 +3905,8 @@
 50349,Eastbound W 4th Ave @ Trimble St,49.268907,-123.2064,BUS ZN
 53493,Northbound Mariner Way @ Mara Dr,49.259833,-122.81614,BUS ZN
 53494,Northbound Mariner Way @ Spuraway Ave,49.26262,-122.817572,BUS ZN
-53495,Coquitlam Central Station @ Bay 8,49.275145,-122.79893,BUS ZN
-53497,22nd Street Station @ Bay 3,49.199941,-122.948853,BUS ZN
+53495,Coquitlam Central Stn @ Bay 8,49.275145,-122.79893,BUS ZN
+53497,22nd Street Stn @ Bay 3,49.199941,-122.948853,BUS ZN
 53498,Eastbound 6th Ave @ 12 St,49.207766,-122.930156,BUS ZN
 53499,Eastbound 6th Ave @ 10 St,49.209744,-122.926494,BUS ZN
 50350,Eastbound W 4th Ave @ 4100 Block,49.268679,-123.197617,BUS ZN
@@ -4082,7 +4082,7 @@
 53725,Southbound Barnet Hwy @ Gore St,49.284239,-122.867369,BUS ZN
 53726,Southbound Barnet Hwy @ Clarke St,49.278462,-122.867035,BUS ZN
 53729,Eastbound Guildford Way @ Town Centre Blvd,49.284897,-122.795058,BUS ZN
-53730,Coquitlam Central Station @ Bay 12,49.275845,-122.798427,BUS ZN
+53730,Coquitlam Central Stn @ Bay 12,49.275845,-122.798427,BUS ZN
 50373,Southbound Dunbar St @ W 39 Ave,49.236105,-123.18543,BUS ZN
 53731,Southbound Shaughnessy St @ Atkins Ave,49.260172,-122.782798,BUS ZN
 53733,Southbound Shaughnessy St @ Kelly Ave,49.258731,-122.782786,BUS ZN
@@ -4092,7 +4092,7 @@
 53737,Northbound Reeve St @ Hawthorne Ave,49.257511,-122.78796,BUS ZN
 53738,Northbound Reeve St @ Atkins Ave,49.260259,-122.787956,BUS ZN
 53739,Eastbound Wilson Ave @ Bury Ave,49.260801,-122.784366,BUS ZN
-53740,Port Coquitlam Station @ Bay 4,49.261234,-122.774173,BUS ZN
+53740,Port Coquitlam Stn @ Bay 4,49.261234,-122.774173,BUS ZN
 50374,Eastbound W 41 Ave @ Collingwood St,49.234698,-123.181583,BUS ZN
 58997,Northbound Pinetree Way @ Anson Ave,49.277739,-122.795695,BUS ZN
 53744,Westbound Guildford Way @ Pacific St,49.285315,-122.797263,BUS ZN
@@ -4112,7 +4112,7 @@
 53761,Southbound Inlet Dr @ Ridge Dr,49.282881,-122.9565,BUS ZN
 53762,Eastbound Glen Dr @ Johnson St,49.282646,-122.801103,BUS ZN
 53764,Southbound Westwood St @ Lincoln Ave,49.278532,-122.790596,BUS ZN
-53767,Port Coquitlam Station @ Bay 5,49.261224,-122.774302,BUS ZN
+53767,Port Coquitlam Stn @ Bay 5,49.261224,-122.774302,BUS ZN
 53768,Southbound Eastern Dr @ Belle Place,49.243092,-122.776147,BUS ZN
 53769,Southbound Eastern Dr @ Carmen Place,49.241432,-122.777195,BUS ZN
 53770,Westbound Eastern Dr @ Claudia Place,49.240425,-122.780704,BUS ZN
@@ -4123,9 +4123,9 @@
 53774,Northbound Western Dr @ Lamprey Dr,49.249193,-122.779568,BUS ZN
 53775,Northbound Western Dr @ Aire Cres,49.251694,-122.778134,BUS ZN
 53776,Northbound Mary Hill Rd @ Lobb Ave,49.253356,-122.778707,BUS ZN
-53777,Port Coquitlam Station @ Bay 1,49.261338,-122.774051,BUS ZN
+53777,Port Coquitlam Stn @ Bay 1,49.261338,-122.774051,BUS ZN
 50378,Eastbound W 41 Ave @ Macdonald St,49.234665,-123.166968,BUS ZN
-53783,Port Coquitlam Station @ Bay 3,49.260996,-122.773778,BUS ZN
+53783,Port Coquitlam Stn @ Bay 3,49.260996,-122.773778,BUS ZN
 53784,Eastbound Riverwood Gate @ Terry Fox Secondary,49.263782,-122.747793,BUS ZN
 53786,Eastbound Lougheed Hwy @ Shaughnessy St,49.266862,-122.775365,BUS ZN
 53787,Northbound Oxford St @ Westminster Ave,49.265367,-122.767068,BUS ZN
@@ -4192,10 +4192,10 @@
 53861,Westbound Coquitlam Ave @ Wellington St,49.267424,-122.762047,BUS ZN
 53862,Southbound Oxford St @ Coquitlam Ave,49.267061,-122.767276,BUS ZN
 53863,Westbound Lougheed Hwy @ Oxford St,49.264109,-122.767958,BUS ZN
-53864,Coquitlam Central Station @ Bay 10,49.275476,-122.798723,BUS ZN
+53864,Coquitlam Central Stn @ Bay 10,49.275476,-122.798723,BUS ZN
 53865,Northbound Wellington St @ Wellington Court,49.288097,-122.76154,BUS ZN
-53866,Coquitlam Central Station @ Bay 5,49.274999,-122.798874,BUS ZN
-53868,Lafarge Lake-Douglas Station @ Bay 2,49.286545,-122.791683,BUS ZN
+53866,Coquitlam Central Stn @ Bay 5,49.274999,-122.798874,BUS ZN
+53868,Lafarge Lake-Douglas Stn @ Bay 2,49.286545,-122.791683,BUS ZN
 53871,Northbound Pipeline Rd @ Glen Dr,49.283619,-122.785596,BUS ZN
 53872,Northbound Pipeline Rd @ Ozada Ave,49.286178,-122.784342,BUS ZN
 53873,Eastbound Dunkirk Ave @ Pipeline Rd,49.28772,-122.78314,BUS ZN
@@ -4208,7 +4208,7 @@
 50388,Eastbound W 41 Ave @ Granville St,49.234268,-123.140768,BUS ZN
 53882,Southbound Pipeline Rd @ Dunkirk Ave,49.287578,-122.783827,BUS ZN
 53883,Southbound Pipeline Rd @ Guildford Way,49.285329,-122.785035,BUS ZN
-53887,Coquitlam Central Station @ Bay 11,49.275643,-122.798596,BUS ZN
+53887,Coquitlam Central Stn @ Bay 11,49.275643,-122.798596,BUS ZN
 53888,Southbound Pinetree Way @ Pinewood Ave,49.290649,-122.789975,BUS ZN
 50389,Eastbound W 4th Ave @ Collingwood St,49.268471,-123.181214,BUS ZN
 53894,Westbound Noons Creek Dr @ Falcon Dr,49.287405,-122.824915,BUS ZN
@@ -4261,7 +4261,7 @@
 53945,Eastbound Robson Dr @ Blackwater Place,49.298466,-122.780868,BUS ZN
 53953,Eastbound E 3rd St @ Ridgeway Ave,49.308441,-123.062174,BUS ZN
 53954,Eastbound E 3rd St @ Moody Ave,49.308434,-123.059819,BUS ZN
-50040,Waterfront Station @ Bay 2,49.285599,-123.112074,BUS ZN
+50040,Waterfront Stn @ Bay 2,49.285599,-123.112074,BUS ZN
 50396,Eastbound W 4th Ave @ Balsam St,49.268188,-123.159306,BUS ZN
 53960,Westbound E 3rd St @ Queensbury Ave,49.308546,-123.057704,BUS ZN
 53961,Westbound E 3rd St @ Moody Ave,49.308563,-123.060598,BUS ZN
@@ -4346,7 +4346,7 @@
 54046,Eastbound Dollar Rd @ N Dollarton Hwy,49.307964,-122.953597,BUS ZN
 54047,Northbound N Dollarton Hwy @ Caddy Rd,49.311833,-122.952962,BUS ZN
 54048,Northbound N Dollarton Hwy @ Mt Seymour Parkway,49.315409,-122.953404,BUS ZN
-50405,Burrard Station @ Bay 2,49.286035,-123.12037,BUS ZN
+50405,Burrard Stn @ Bay 2,49.286035,-123.12037,BUS ZN
 54049,Northbound Deep Cove Rd @ Strathcona Rd,49.317998,-122.953487,BUS ZN
 54050,Northbound Deep Cove Rd @ 1600 Block,49.320987,-122.953467,BUS ZN
 54051,Northbound Deep Cove Rd @ Cliffmont Rd,49.323288,-122.953443,BUS ZN
@@ -4463,7 +4463,7 @@
 54180,Northbound Grand Blvd East @ E 17 St,49.324232,-123.056185,BUS ZN
 54182,Lynn Valley @ Bay 2,49.336899,-123.038733,BUS ZN
 54183,Eastbound Lynn Valley Rd @ Harold Rd,49.338263,-123.035762,BUS ZN
-50419,King Edward Station @ Bay 4,49.248634,-123.115722,BUS ZN
+50419,King Edward Stn @ Bay 4,49.248634,-123.115722,BUS ZN
 54184,Eastbound Lynn Valley Rd @ Allan Rd,49.340205,-123.032158,BUS ZN
 54185,Eastbound Lynn Valley Rd @ Peters Rd,49.341448,-123.029855,BUS ZN
 54186,Northbound Lynn Valley Rd @ Burrill Ave,49.343712,-123.025699,BUS ZN
@@ -5177,8 +5177,8 @@
 50500,Westbound E Hastings St @ McLean Dr,49.281378,-123.074606,BUS ZN
 54988,Northbound King George Blvd @ 96 Ave,49.177621,-122.845422,BUS ZN
 54989,Northbound King George Blvd @ Fraser Hwy,49.181116,-122.845247,BUS ZN
-54990,King George Station @ Bay 2,49.183124,-122.845136,BUS ZN
-54993,Surrey Central Station @ Bay 8,49.188961,-122.848754,BUS ZN
+54990,King George Stn @ Bay 2,49.183124,-122.845136,BUS ZN
+54993,Surrey Central Stn @ Bay 8,49.188961,-122.848754,BUS ZN
 54994,Southbound University Dr @ 10100 Block,49.187503,-122.851472,BUS ZN
 54995,Eastbound Old Yale Rd @ University Dr,49.185705,-122.851078,BUS ZN
 54997,Southbound King George Blvd @ 98 Ave,49.179601,-122.845814,BUS ZN
@@ -5257,7 +5257,7 @@
 50508,Westbound Powell St @ Commercial Dr,49.283837,-123.070862,BUS ZN
 55068,Eastbound Old Yale Rd @ 132 St,49.187432,-122.855723,BUS ZN
 55069,Northbound University Dr @ Old Yale Rd,49.186513,-122.851544,BUS ZN
-55070,Surrey Central Station @ Bay 9,49.188967,-122.848465,BUS ZN
+55070,Surrey Central Stn @ Bay 9,49.188967,-122.848465,BUS ZN
 55072,Southbound 132 St @ Old Yale Rd,49.187331,-122.856596,BUS ZN
 55073,Westbound 100 Ave @ 132 St,49.184476,-122.857499,BUS ZN
 55074,Westbound 100 Ave @ 129A St,49.184484,-122.862697,BUS ZN
@@ -5281,7 +5281,7 @@
 55093,Southbound 116 St @ 76A Ave,49.141582,-122.901534,BUS ZN
 55094,Southbound 116 St @ 75A Ave,49.139763,-122.901539,BUS ZN
 55095,Southbound 116 St @ 73A Ave,49.135816,-122.901578,BUS ZN
-55096,Scott Road Station @ Bay 7,49.204192,-122.874952,BUS ZN
+55096,Scott Road Stn @ Bay 7,49.204192,-122.874952,BUS ZN
 55107,Eastbound 114 Ave @ 132 St,49.209754,-122.855902,BUS ZN
 50512,Westbound Powell St @ Glen Dr,49.282792,-123.081659,BUS ZN
 55108,Southbound 133A St @ 114 Ave,49.209357,-122.852186,BUS ZN
@@ -5367,7 +5367,7 @@
 55196,Northbound Scott Rd @ 80 Ave,49.148951,-122.890181,BUS ZN
 55197,Northbound Scott Rd @ 82 Ave,49.152557,-122.890187,BUS ZN
 55198,Northbound Scott Rd @ 84 Ave,49.156256,-122.890181,BUS ZN
-55200,Scott Road Station @ Scott Rd,49.204467,-122.874595,BUS ZN
+55200,Scott Road Stn @ Scott Rd,49.204467,-122.874595,BUS ZN
 55202,Southbound Scott Rd @ 93A Ave,49.172243,-122.890403,BUS ZN
 55203,Southbound Scott Rd @ 92 Ave,49.170175,-122.890437,BUS ZN
 55204,Southbound Scott Rd @ 84 Ave,49.155682,-122.890557,BUS ZN
@@ -5376,7 +5376,7 @@
 55207,Southbound Scott Rd @ 7800 Block,49.145523,-122.890537,BUS ZN
 55208,Southbound Scott Rd @ 76A Ave,49.142456,-122.890539,BUS ZN
 55209,Southbound Scott Rd @ 75A Ave,49.139911,-122.890538,BUS ZN
-55210,Surrey Central Station @ Bay 2,49.188849,-122.848551,BUS ZN
+55210,Surrey Central Stn @ Bay 2,49.188849,-122.848551,BUS ZN
 58635,Eastbound 104 Ave @ King George Blvd,49.191515,-122.844162,BUS ZN
 55214,Eastbound 104 Ave @ Whalley Blvd,49.191475,-122.84108,BUS ZN
 55215,Eastbound 104 Ave @ 139 St,49.191424,-122.837192,BUS ZN
@@ -5553,7 +5553,7 @@
 55423,Northbound King George Blvd @ 92 Ave,49.170934,-122.845659,BUS ZN
 55424,Northbound King George Blvd @ 9300 Block,49.172706,-122.845677,BUS ZN
 50544,Southbound Granville St @ W 15 Ave,49.257667,-123.138899,BUS ZN
-55441,Surrey Central Station @ Bay 10,49.189004,-122.847969,BUS ZN
+55441,Surrey Central Stn @ Bay 10,49.189004,-122.847969,BUS ZN
 55443,Southbound King George Blvd @ 92 Ave,49.168824,-122.846016,BUS ZN
 55444,Southbound King George Blvd @ 8900 Block,49.165841,-122.845994,BUS ZN
 55445,Southbound King George Blvd @ 88 Ave,49.161766,-122.84599,BUS ZN
@@ -5721,7 +5721,7 @@
 55609,Eastbound 104 Ave @ 132 St,49.191573,-122.855768,BUS ZN
 55610,Eastbound 104 Ave @ University Dr,49.191534,-122.848841,BUS ZN
 55611,Southbound University Dr @ 104 Ave,49.191043,-122.850236,BUS ZN
-55612,Surrey Central Station @ Bay 4,49.18885,-122.849361,BUS ZN
+55612,Surrey Central Stn @ Bay 4,49.18885,-122.849361,BUS ZN
 55613,Westbound 104 Ave @ University Dr,49.191741,-122.851717,BUS ZN
 55614,Westbound 104 Ave @ 133 St,49.191751,-122.854546,BUS ZN
 50562,Westbound W Broadway @ Balsam St,49.264051,-123.160487,BUS ZN
@@ -5823,8 +5823,8 @@
 55710,Westbound 102 Ave @ 140 St,49.187803,-122.834919,BUS ZN
 55711,Westbound 102 Ave @ 139 St,49.187832,-122.837874,BUS ZN
 55712,Westbound 102 Ave @ 137A St,49.187868,-122.841707,BUS ZN
-55713,Surrey Central Station @ Bay 5,49.188845,-122.849625,BUS ZN
-55714,Surrey Central Station @ Bay 6,49.188948,-122.849377,BUS ZN
+55713,Surrey Central Stn @ Bay 5,49.188845,-122.849625,BUS ZN
+55714,Surrey Central Stn @ Bay 6,49.188948,-122.849377,BUS ZN
 50572,Westbound W 10 Ave @ Crown St,49.263683,-123.194468,BUS ZN
 55715,Eastbound 102 Ave @ Whalley Blvd,49.187739,-122.84284,BUS ZN
 55716,Eastbound 102 Ave @ 137A St,49.187724,-122.840729,BUS ZN
@@ -5850,7 +5850,7 @@
 55735,Southbound 140 St @ 77 Ave,49.142373,-122.83465,BUS ZN
 55736,Southbound 140 St @ 74 Ave,49.136912,-122.834608,BUS ZN
 55737,Westbound 72 Ave @ 140 St,49.133719,-122.835233,BUS ZN
-55738,Surrey Central Station @ Bay 7,49.188956,-122.849103,BUS ZN
+55738,Surrey Central Stn @ Bay 7,49.188956,-122.849103,BUS ZN
 55739,Eastbound 96 Ave @ 137 St,49.176914,-122.842778,BUS ZN
 55740,Eastbound 96 Ave @ 138 St,49.176907,-122.840725,BUS ZN
 55741,Eastbound 96 Ave @ 139 St,49.176891,-122.837183,BUS ZN
@@ -5907,7 +5907,7 @@
 55786,Eastbound 108 Ave @ 130 St,49.198881,-122.86201,BUS ZN
 55787,Eastbound 108 Ave @ 132 St,49.198872,-122.855891,BUS ZN
 55788,Eastbound 108 Ave @ 133 St,49.198843,-122.853317,BUS ZN
-55789,Gateway Station @ Bay 3,49.198812,-122.85022,BUS ZN
+55789,Gateway Stn @ Bay 3,49.198812,-122.85022,BUS ZN
 55790,Eastbound 108 Ave @ King George Blvd,49.19876,-122.844888,BUS ZN
 55791,Eastbound Grosvenor Rd @ Hilton Rd,49.200054,-122.843312,BUS ZN
 55792,Eastbound Grosvenor Rd @ Berg Rd,49.201942,-122.839806,BUS ZN
@@ -5922,7 +5922,7 @@
 50580,Westbound W 4th Ave @ Maple St,49.268169,-123.150944,BUS ZN
 55805,Westbound 108 Ave @ 13600 Block,49.198934,-122.844336,BUS ZN
 55806,Westbound 108 Ave @ King George Blvd,49.198964,-122.847112,BUS ZN
-55807,Gateway Station @ Bay 1,49.199009,-122.851521,BUS ZN
+55807,Gateway Stn @ Bay 1,49.199009,-122.851521,BUS ZN
 55808,Westbound 108 Ave @ 133 St,49.199006,-122.85358,BUS ZN
 55809,Westbound 108 Ave @ 132 St,49.199058,-122.857194,BUS ZN
 55810,Westbound 108 Ave @ 130 St,49.199047,-122.86304,BUS ZN
@@ -5950,8 +5950,8 @@
 55833,Westbound 84 Ave @ 123 St,49.1559,-122.882978,BUS ZN
 55834,Westbound 84 Ave @ 122 St,49.155919,-122.88542,BUS ZN
 50583,Westbound W 4th Ave @ Balsam St,49.26833,-123.160246,BUS ZN
-55835,Scott Road Station @ Bay 9,49.204125,-122.875541,BUS ZN
-55836,Surrey Central Station @ Bay 3,49.188847,-122.848829,BUS ZN
+55835,Scott Road Stn @ Bay 9,49.204125,-122.875541,BUS ZN
+55836,Surrey Central Stn @ Bay 3,49.188847,-122.848829,BUS ZN
 55837,Northbound University Dr @ 104 Ave,49.192053,-122.850689,BUS ZN
 55838,Northbound University Dr @ 105A Ave,49.1948,-122.850734,BUS ZN
 55840,Eastbound 108 Ave @ 138 St,49.198785,-122.839199,BUS ZN
@@ -6036,7 +6036,7 @@
 55925,Westbound 108 Ave @ 162 St,49.19888,-122.773703,BUS ZN
 55926,Westbound 108 Ave @ 160 St,49.198895,-122.779318,BUS ZN
 59772,Westbound 108 Ave @ 158 St,49.198893,-122.783259,BUS ZN
-55933,22nd Street Station @ Bay 6,49.199727,-122.949615,BUS ZN
+55933,22nd Street Stn @ Bay 6,49.199727,-122.949615,BUS ZN
 50593,Westbound W 4th Ave @ 4100 Block,49.268917,-123.197836,BUS ZN
 55935,Southbound Hwy 91 Offramp @ Cliveden Ave,49.170089,-122.953649,BUS ZN
 55936,Eastbound Kittson Parkway @ 109A St,49.119139,-122.919212,BUS ZN
@@ -6404,9 +6404,9 @@
 56391,Westbound Buena Vista Ave @ Beach View Ave,49.023978,-122.808889,BUS ZN
 56392,Westbound Buena Vista Ave @ Oxford St,49.023986,-122.811772,BUS ZN
 56394,Scottsdale Exchange @ Bay 1,49.137407,-122.88851,BUS ZN
-56395,Surrey Central Station @ Bay 1 Unloading Only,49.188852,-122.848203,BUS ZN
+56395,Surrey Central Stn @ Bay 1 Unloading Only,49.188852,-122.848203,BUS ZN
 56396,Southbound King George Blvd @ 10 Ave,49.020917,-122.763123,BUS ZN
-56397,Scott Rd Station @ Bay 2,49.204407,-122.875132,BUS ZN
+56397,Scott Rd Stn @ Bay 2,49.204407,-122.875132,BUS ZN
 56398,Westbound 64 Ave @ King George Blvd,49.119126,-122.846971,BUS ZN
 50640,Dunbar Loop @ Bay 2,49.234661,-123.185757,BUS ZN
 56399,Westbound 64 Ave @ 134 St,49.119102,-122.851463,BUS ZN
@@ -6416,8 +6416,8 @@
 56403,Eastbound 64 Ave @ 132 St,49.118911,-122.856041,BUS ZN
 56404,Eastbound 64 Ave @ 134 St,49.11893,-122.850606,BUS ZN
 59810,South Surrey Park & Ride @ Bay 2,49.071748,-122.822308,BUS ZN
-56406,Surrey Central Station @ Bay 11,49.189406,-122.847763,BUS ZN
-58164,King George Station @ Bay 3,49.181723,-122.842052,BUS ZN
+56406,Surrey Central Stn @ Bay 11,49.189406,-122.847763,BUS ZN
+58164,King George Stn @ Bay 3,49.181723,-122.842052,BUS ZN
 56408,Eastbound Fraser Hwy @ 140 St,49.178455,-122.833717,BUS ZN
 56409,Eastbound Fraser Hwy @ 148 St,49.169833,-122.811446,BUS ZN
 56410,Eastbound Fraser Hwy @ 150 St,49.167843,-122.806304,BUS ZN
@@ -6552,7 +6552,7 @@
 56562,Westbound Cambie Rd @ Sexsmith Rd,49.184756,-123.128673,BUS ZN
 56563,Westbound Cambie Rd @ Hazelbridge Way,49.184767,-123.133019,BUS ZN
 50656,Northbound Victoria Dr @ E 33 Ave,49.24032,-123.065188,BUS ZN
-59771,Lansdowne Station @ Bay 4,49.172869,-123.136815,BUS ZN
+59771,Lansdowne Stn @ Bay 4,49.172869,-123.136815,BUS ZN
 56570,Southbound No. 3 Rd @ Granville Ave,49.163197,-123.136701,BUS ZN
 58323,Southbound No. 3 Rd @ General Currie Rd,49.159509,-123.136699,BUS ZN
 58324,Southbound No. 3 Rd @ Jones Rd,49.157103,-123.136733,BUS ZN
@@ -6673,7 +6673,7 @@
 56686,Westbound Granville Ave @ Garden City Rd,49.162889,-123.124316,BUS ZN
 56687,Westbound Granville Ave @ Cooney Rd,49.162858,-123.130776,BUS ZN
 56688,Westbound Granville Ave @ Buswell St,49.162851,-123.134375,BUS ZN
-56689,Richmond-Brighouse Station @ Bay 3,49.168108,-123.136374,BUS ZN
+56689,Richmond-Brighouse Stn @ Bay 3,49.168108,-123.136374,BUS ZN
 56690,Eastbound Westminster Hwy @ Garden City Rd,49.170027,-123.123002,BUS ZN
 56691,Eastbound Westminster Hwy @ No. 4 Rd,49.170021,-123.115306,BUS ZN
 56692,Eastbound Westminster Hwy @ 10500 Block,49.170004,-123.107009,BUS ZN
@@ -6868,7 +6868,7 @@
 56881,Eastbound Williams Rd @ Seacote Rd,49.140618,-123.097504,BUS ZN
 56883,Eastbound Cambie Rd @ Odlin Cres,49.184576,-123.126465,BUS ZN
 56884,Eastbound Cambie Rd @ Garden City Rd,49.184574,-123.123787,BUS ZN
-50688,Nanaimo Station @ Bay 3,49.248412,-123.055476,BUS ZN
+50688,Nanaimo Stn @ Bay 3,49.248412,-123.055476,BUS ZN
 56885,Eastbound Cambie Rd @ Stolberg St,49.184584,-123.119164,BUS ZN
 56886,Eastbound Cambie Rd @ No. 4 Rd,49.184567,-123.113449,BUS ZN
 56887,Eastbound Cambie Rd @ 10200 Block,49.184552,-123.110688,BUS ZN
@@ -6896,7 +6896,7 @@
 56910,Eastbound Westminster Hwy @ Willett Ave,49.180019,-122.966712,BUS ZN
 56911,Eastbound Ewen Ave @ Hume St,49.182596,-122.955241,BUS ZN
 56913,Eastbound Ewen Ave @ Gifford St,49.184001,-122.951873,BUS ZN
-56919,22nd Street Station @ Bay 7,49.199633,-122.949901,BUS ZN
+56919,22nd Street Stn @ Bay 7,49.199633,-122.949901,BUS ZN
 56920,Westbound Westminster Hwy @ Fraserside Gate,49.177607,-122.968315,BUS ZN
 56922,Westbound Westminster Hwy @ Hwy 91,49.171162,-122.972303,BUS ZN
 56923,Northbound No. 6 Rd @ Maycrest Way,49.179886,-123.069059,BUS ZN
@@ -7462,24 +7462,24 @@
 57563,Eastbound River Rd @ 72 St,49.137172,-123.024713,BUS ZN
 57564,Eastbound River Rd @ Berg Rd,49.140651,-123.011886,BUS ZN
 57565,Eastbound River Rd @ East Mill Access Rd,49.155491,-122.942489,BUS ZN
-57566,Scott Road Station @ Bay 8,49.204154,-122.875283,BUS ZN
+57566,Scott Road Stn @ Bay 8,49.204154,-122.875283,BUS ZN
 57568,Westbound River Rd @ Huston Rd,49.145481,-123.003294,BUS ZN
 57569,Westbound River Rd @ Ross Rd,49.140399,-123.01324,BUS ZN
-57570,Coquitlam Central Station @ Bay 2,49.275505,-122.798559,BUS ZN
+57570,Coquitlam Central Stn @ Bay 2,49.275505,-122.798559,BUS ZN
 57571,Eastbound Lougheed Hwy @ Oxford St,49.263215,-122.76658,BUS ZN
 57572,Eastbound Lougheed Hwy @ Coast Meridian Rd,49.259401,-122.757446,BUS ZN
 57573,Eastbound Lougheed Hwy @ Ottawa St,49.255522,-122.748207,BUS ZN
 57575,Southbound Harris Rd @ McMyn Rd,49.229291,-122.689643,BUS ZN
 57576,Southbound Harris Rd @ Davison Rd,49.227202,-122.689669,BUS ZN
 50758,Northbound Granville St @ W 70 Ave,49.208885,-123.14035,BUS ZN
-57577,Pitt Meadows Station @ Bay 2,49.225312,-122.689688,BUS ZN
+57577,Pitt Meadows Stn @ Bay 2,49.225312,-122.689688,BUS ZN
 57579,Southbound Harris Rd @ 119 Ave,49.218645,-122.689704,BUS ZN
 57580,Eastbound Hammond Rd @ Harris Rd,49.217084,-122.688891,BUS ZN
 57581,Eastbound Hammond Rd @ Blakely Rd,49.217117,-122.682879,BUS ZN
 57582,Eastbound Hammond Rd @ Bonson Rd,49.217148,-122.67734,BUS ZN
 57583,Eastbound Hammond Rd @ Wildwood Cres,49.217156,-122.674538,BUS ZN
 57584,Eastbound Hammond Rd @ Albertan St,49.21716,-122.671081,BUS ZN
-57585,Maple Meadows Station @ Bay 3,49.216846,-122.666738,BUS ZN
+57585,Maple Meadows Stn @ Bay 3,49.216846,-122.666738,BUS ZN
 50759,Northbound Granville St @ W 67 Ave,49.211168,-123.140317,BUS ZN
 57589,Eastbound Dewdney Trunk Rd @ 203 St,49.221322,-122.654946,BUS ZN
 57590,Eastbound Dewdney Trunk Rd @ 206 St,49.220455,-122.650072,BUS ZN
@@ -7541,7 +7541,7 @@
 57648,Westbound Dewdney Trunk Rd @ 207 St,49.220592,-122.648351,BUS ZN
 57649,Westbound Dewdney Trunk Rd @ 205 St,49.221482,-122.653783,BUS ZN
 57651,Westbound Dewdney Trunk Rd @ 201B St,49.221527,-122.662257,BUS ZN
-57654,Maple Meadows Station @ Bay 2,49.216959,-122.667051,BUS ZN
+57654,Maple Meadows Stn @ Bay 2,49.216959,-122.667051,BUS ZN
 57655,Westbound Hammond Rd @ Springdale Dr,49.217291,-122.67295,BUS ZN
 57656,Westbound Hammond Rd @ Greenhaven Court,49.217281,-122.675662,BUS ZN
 57657,Westbound Hammond Rd @ Bonson Rd East,49.217267,-122.679016,BUS ZN
@@ -7549,12 +7549,12 @@
 57659,Westbound Hammond Rd @ Blakely Rd,49.217246,-122.684239,BUS ZN
 57660,Northbound Harris Rd @ Hammond Rd,49.21761,-122.689443,BUS ZN
 57662,Northbound Harris Rd @ Ford Rd,49.223266,-122.689429,BUS ZN
-57663,Pitt Meadows Station @ Bay 3,49.22495,-122.689402,BUS ZN
+57663,Pitt Meadows Stn @ Bay 3,49.22495,-122.689402,BUS ZN
 57664,Northbound Harris Rd @ Davison Rd,49.226981,-122.689383,BUS ZN
 57665,Northbound Harris Rd @ McMyn Rd,49.229012,-122.689362,BUS ZN
 50767,Northbound Granville St @ W 49 Ave,49.227422,-123.139703,BUS ZN
 59189,Westbound Lougheed Hwy @ Shaughnessy St,49.267205,-122.775406,BUS ZN
-57670,Maple Meadows Station @ Bay 4,49.216767,-122.666484,BUS ZN
+57670,Maple Meadows Stn @ Bay 4,49.216767,-122.666484,BUS ZN
 57672,Southbound 203 St @ Lougheed Hwy,49.218518,-122.658057,BUS ZN
 57673,Southbound 203 St @ Stanton Ave,49.215856,-122.658682,BUS ZN
 57674,Southbound 203 St @ Thorne Ave,49.213931,-122.658674,BUS ZN
@@ -7576,14 +7576,14 @@
 57692,Eastbound River Rd @ 216 St,49.213988,-122.622375,BUS ZN
 57693,Eastbound River Rd @ Carr St,49.214253,-122.616422,BUS ZN
 57694,Eastbound River Rd @ River Bend,49.213548,-122.610258,BUS ZN
-57695,Port Haney Station @ Bay 2,49.212318,-122.605355,BUS ZN
+57695,Port Haney Stn @ Bay 2,49.212318,-122.605355,BUS ZN
 57696,Northbound 227 St @ Haney Bypass,49.20963,-122.594869,BUS ZN
 57697,Westbound 116 Ave @ 227 St,49.210612,-122.595121,BUS ZN
 57698,Westbound 116 Ave @ 22500 Block,49.211944,-122.597568,BUS ZN
 57699,Westbound North Ave @ 225 St,49.216042,-122.599318,BUS ZN
 57700,Northbound 224 St @ North Ave,49.216224,-122.601329,BUS ZN
 57701,Northbound 224 St @ 119 Ave,49.218935,-122.601625,BUS ZN
-57703,Port Haney Station @ Bay 1,49.212747,-122.606558,BUS ZN
+57703,Port Haney Stn @ Bay 1,49.212747,-122.606558,BUS ZN
 57704,Westbound River Rd @ River Bend,49.213242,-122.608728,BUS ZN
 57705,Westbound River Rd @ Carr St,49.214336,-122.617354,BUS ZN
 50771,Eastbound Kingsway @ Main St,49.263824,-123.100514,BUS ZN
@@ -7620,7 +7620,7 @@
 57750,Westbound Dewdney Trunk Rd @ 252 St,49.22043,-122.524013,BUS ZN
 57751,Westbound Dewdney Trunk Rd @ 250 St,49.220362,-122.529603,BUS ZN
 57752,Westbound Dewdney Trunk Rd @ 248 St,49.220336,-122.535885,BUS ZN
-57753,Maple Meadows Station @ Bay 5,49.216687,-122.66623,BUS ZN
+57753,Maple Meadows Stn @ Bay 5,49.216687,-122.66623,BUS ZN
 57754,Northbound 203 St @ Dewdney Trunk Rd,49.221807,-122.656516,BUS ZN
 57755,Northbound 203 St @ Telep Ave,49.225289,-122.656688,BUS ZN
 50776,Southbound Fraser St @ E 11 Ave,49.26032,-123.089275,BUS ZN
@@ -7761,72 +7761,72 @@
 50794,Southbound Fraser St @ E 49 Ave,49.225133,-123.090918,BUS ZN
 57938,Eastbound University Blvd @ Acadia Rd,49.266503,-123.237822,BUS ZN
 57943,Southbound Jones Ave @ W 21 St,49.328504,-123.081606,BUS ZN
-57944,Waterfront Station Eastbound,49.286053,-123.11158,WCE1Z
+57944,Waterfront Stn Eastbound,49.286053,-123.11158,WCE1Z
 50795,Southbound Fraser St @ E 51 Ave,49.223292,-123.090958,BUS ZN
-57945,Moody Centre Station Eastbound,49.278067,-122.846248,WCE2Z
-57946,Coquitlam Central Station Eastbound,49.273909,-122.800056,WCE2Z
-57947,Port Coquitlam Station Eastbound,49.261481,-122.77402,WCE2Z
-57948,Pitt Meadows Station Eastbound,49.225772,-122.688381,WCE3Z
-57949,Maple Meadows Station Eastbound,49.216465,-122.666097,WCE3Z
-57950,Port Haney Station Eastbound,49.212168,-122.605242,WCE3Z
-57951,Mission City Station Unload Only,49.133594,-122.30486,WCE4Z
-57952,Mission City Station Westbound,49.133785,-122.304872,WCE4Z
-57953,Port Haney Station Westbound,49.212224,-122.605216,WCE3Z
-57954,Maple Meadows Station Westbound,49.216544,-122.666265,WCE3Z
+57945,Moody Centre Stn Eastbound,49.278067,-122.846248,WCE2Z
+57946,Coquitlam Central Stn Eastbound,49.273909,-122.800056,WCE2Z
+57947,Port Coquitlam Stn Eastbound,49.261481,-122.77402,WCE2Z
+57948,Pitt Meadows Stn Eastbound,49.225772,-122.688381,WCE3Z
+57949,Maple Meadows Stn Eastbound,49.216465,-122.666097,WCE3Z
+57950,Port Haney Stn Eastbound,49.212168,-122.605242,WCE3Z
+57951,Mission City Stn Unload Only,49.133594,-122.30486,WCE4Z
+57952,Mission City Stn Westbound,49.133785,-122.304872,WCE4Z
+57953,Port Haney Stn Westbound,49.212224,-122.605216,WCE3Z
+57954,Maple Meadows Stn Westbound,49.216544,-122.666265,WCE3Z
 50796,Southbound Fraser St @ E 53 Ave,49.22148,-123.091,BUS ZN
-57955,Pitt Meadows Station Westbound,49.225811,-122.688341,WCE3Z
-57956,Port Coquitlam Station Westbound,49.26151,-122.773934,WCE2Z
-57957,Coquitlam Central Station Westbound,49.273951,-122.8,WCE2Z
-57958,Moody Centre Station Westbound,49.278063,-122.84631,WCE2Z
-57959,Waterfront Station Unload Only,49.286116,-123.111512,WCE1Z
-57960,Waterfront Station Northbound,49.286063,-123.111306,ZN 1
+57955,Pitt Meadows Stn Westbound,49.225811,-122.688341,WCE3Z
+57956,Port Coquitlam Stn Westbound,49.26151,-122.773934,WCE2Z
+57957,Coquitlam Central Stn Westbound,49.273951,-122.8,WCE2Z
+57958,Moody Centre Stn Westbound,49.278063,-122.84631,WCE2Z
+57959,Waterfront Stn Unload Only,49.286116,-123.111512,WCE1Z
+57960,Waterfront Stn Northbound,49.286063,-123.111306,ZN 1
 57961,Lonsdale Quay Northbound,49.310116,-123.08323,ZN 2
 57962,Lonsdale Quay Southbound,49.310161,-123.083358,ZN 2
-57963,Waterfront Station Southbound,49.286137,-123.111403,ZN 1
-57964,Waterfront Station @ Platform 2,49.285907,-123.111578,ZN 1
+57963,Waterfront Stn Southbound,49.286137,-123.111403,ZN 1
+57964,Waterfront Stn @ Platform 2,49.285907,-123.111578,ZN 1
 50797,Southbound Fraser St @ E 55 Ave,49.219642,-123.091056,BUS ZN
-60826,Burrard Station @ Platform 2,49.285634,-123.119515,ZN 1
-57966,Granville Station @ Platform 2,49.283136,-123.115744,ZN 1
-57967,Stadium-Chinatown Station @ Platform 2,49.279178,-123.109213,ZN 1
-57968,Main Street-Science World Station @ Platform 2,49.273099,-123.100399,ZN 1
-57969,Commercial-Broadway Station @ Platform 4,49.262317,-123.069179,ZN 1
-57970,Nanaimo Station @ Platform 2,49.248283,-123.055904,ZN 1
-57971,29th Avenue Station @ Platform 2,49.244236,-123.046136,ZN 1
-57972,Joyce-Collingwood Station @ Platform 2,49.238353,-123.031827,ZN 1
-57973,Patterson Station @ Platform 2,49.229712,-123.012678,ZN 2
-57974,Metrotown Station @ Platform 2,49.225781,-123.00394,ZN 2
+60826,Burrard Stn @ Platform 2,49.285634,-123.119515,ZN 1
+57966,Granville Stn @ Platform 2,49.283136,-123.115744,ZN 1
+57967,Stadium-Chinatown Stn @ Platform 2,49.279178,-123.109213,ZN 1
+57968,Main Street-Science World Stn @ Platform 2,49.273099,-123.100399,ZN 1
+57969,Commercial-Broadway Stn @ Platform 4,49.262317,-123.069179,ZN 1
+57970,Nanaimo Stn @ Platform 2,49.248283,-123.055904,ZN 1
+57971,29th Avenue Stn @ Platform 2,49.244236,-123.046136,ZN 1
+57972,Joyce-Collingwood Stn @ Platform 2,49.238353,-123.031827,ZN 1
+57973,Patterson Stn @ Platform 2,49.229712,-123.012678,ZN 2
+57974,Metrotown Stn @ Platform 2,49.225781,-123.00394,ZN 2
 50798,Southbound Fraser St @ E 57 Ave,49.217937,-123.091092,BUS ZN
-57975,Royal Oak Station @ Platform 2,49.220013,-122.988475,ZN 2
-57976,Edmonds Station @ Platform 2,49.211909,-122.959156,ZN 2
-57977,22nd Street Station @ Platform 2,49.200021,-122.94894,ZN 2
-57978,New Westminster Station @ Platform 2,49.201406,-122.912573,ZN 2
-57979,Columbia Station @ Platform 2,49.204778,-122.906118,ZN 2
-57980,Scott Road Station @ Platform 2,49.204383,-122.874171,ZN 3
-57981,Gateway Station @ Platform 2,49.198946,-122.850673,ZN 3
-57982,Surrey Central Station @ Platform 2,49.189549,-122.847914,ZN 3
-57983,King George Station @ Platform 2,49.182755,-122.844744,ZN 3
-57984,King George Station @ Platform 1,49.182812,-122.844691,ZN 3
+57975,Royal Oak Stn @ Platform 2,49.220013,-122.988475,ZN 2
+57976,Edmonds Stn @ Platform 2,49.211909,-122.959156,ZN 2
+57977,22nd Street Stn @ Platform 2,49.200021,-122.94894,ZN 2
+57978,New Westminster Stn @ Platform 2,49.201406,-122.912573,ZN 2
+57979,Columbia Stn @ Platform 2,49.204778,-122.906118,ZN 2
+57980,Scott Road Stn @ Platform 2,49.204383,-122.874171,ZN 3
+57981,Gateway Stn @ Platform 2,49.198946,-122.850673,ZN 3
+57982,Surrey Central Stn @ Platform 2,49.189549,-122.847914,ZN 3
+57983,King George Stn @ Platform 2,49.182755,-122.844744,ZN 3
+57984,King George Stn @ Platform 1,49.182812,-122.844691,ZN 3
 50799,Southbound Fraser St @ E 59 Ave,49.216234,-123.091124,BUS ZN
-57985,Surrey Central Station @ Platform 1,49.189561,-122.847796,ZN 3
-57986,Gateway Station @ Platform 1,49.198955,-122.850542,ZN 3
-57987,Scott Road Station @ Platform 1,49.204448,-122.874185,ZN 3
-57988,Columbia Station @ Platform 1,49.204859,-122.906187,ZN 2
-57989,New Westminster Station @ Platform 1,49.201459,-122.912629,ZN 2
-57990,22nd Street Station @ Platform 1,49.200083,-122.948971,ZN 2
-57991,Edmonds Station @ Platform 1,49.211945,-122.95904,ZN 2
-57992,Royal Oak Station @ Platform 1,49.22011,-122.98844,ZN 2
-57993,Metrotown Station @ Platform 1,49.225852,-123.003876,ZN 2
-57994,Patterson Station @ Platform 1,49.229798,-123.012613,ZN 2
+57985,Surrey Central Stn @ Platform 1,49.189561,-122.847796,ZN 3
+57986,Gateway Stn @ Platform 1,49.198955,-122.850542,ZN 3
+57987,Scott Road Stn @ Platform 1,49.204448,-122.874185,ZN 3
+57988,Columbia Stn @ Platform 1,49.204859,-122.906187,ZN 2
+57989,New Westminster Stn @ Platform 1,49.201459,-122.912629,ZN 2
+57990,22nd Street Stn @ Platform 1,49.200083,-122.948971,ZN 2
+57991,Edmonds Stn @ Platform 1,49.211945,-122.95904,ZN 2
+57992,Royal Oak Stn @ Platform 1,49.22011,-122.98844,ZN 2
+57993,Metrotown Stn @ Platform 1,49.225852,-123.003876,ZN 2
+57994,Patterson Stn @ Platform 1,49.229798,-123.012613,ZN 2
 50800,Southbound Fraser St @ E 61 Ave,49.214571,-123.091155,BUS ZN
-57995,Joyce-Collingwood Station @ Platform 1,49.23843,-123.031759,ZN 1
-57996,29th Avenue Station @ Platform 1,49.24431,-123.04608,ZN 1
-57997,Nanaimo Station @ Platform 1,49.248334,-123.055868,ZN 1
-57998,Commercial-Broadway Station @ Platform 3,49.262311,-123.069077,ZN 1
-57999,Main Street-Science World Station @ Platform 1,49.273172,-123.10035,ZN 1
-58000,Stadium-Chinatown Station @ Platform 1,49.279271,-123.109109,ZN 1
-58001,Granville Station @ Platform 1,49.283193,-123.115674,ZN 1
-58002,Burrard Station @ Platform 1,49.28558,-123.119598,ZN 1
-58003,Waterfront Station @ Platform 1,49.285962,-123.111516,ZN 1
+57995,Joyce-Collingwood Stn @ Platform 1,49.23843,-123.031759,ZN 1
+57996,29th Avenue Stn @ Platform 1,49.24431,-123.04608,ZN 1
+57997,Nanaimo Stn @ Platform 1,49.248334,-123.055868,ZN 1
+57998,Commercial-Broadway Stn @ Platform 3,49.262311,-123.069077,ZN 1
+57999,Main Street-Science World Stn @ Platform 1,49.273172,-123.10035,ZN 1
+58000,Stadium-Chinatown Stn @ Platform 1,49.279271,-123.109109,ZN 1
+58001,Granville Stn @ Platform 1,49.283193,-123.115674,ZN 1
+58002,Burrard Stn @ Platform 1,49.28558,-123.119598,ZN 1
+58003,Waterfront Stn @ Platform 1,49.285962,-123.111516,ZN 1
 50801,Southbound Fraser St @ E 63 Ave,49.212749,-123.091181,BUS ZN
 58010,Westbound @ Bowen Bay (Flag),49.361102,-123.418655,BUS ZN
 58011,Tunstall Blvd @ Whitesails Rd  (Flag),49.355966,-123.405411,BUS ZN
@@ -7909,7 +7909,7 @@
 58128,Northbound North Rd @ Lougheed Hwy,49.24647,-122.892571,BUS ZN
 58596,Eastbound Clarence Taylor Cres @ Harvest Dr,49.087928,-123.060783,BUS ZN
 58955,Northbound Fraser St @ E 31 Ave,49.242872,-123.090196,BUS ZN
-52586,Patterson Station @ Bay 2,49.229312,-123.011509,BUS ZN
+52586,Patterson Stn @ Bay 2,49.229312,-123.011509,BUS ZN
 50838,Northbound Fraser St @ E 28 Ave,49.245869,-123.090107,BUS ZN
 60908,Eastbound Queens Ave @ 15 St,49.341742,-123.157429,BUS ZN
 60893,Northbound 27 St @ Mathers Ave,49.337782,-123.18873,BUS ZN
@@ -7979,28 +7979,28 @@
 50846,Northbound Fraser St @ E 10 Ave,49.261837,-123.08903,BUS ZN
 60924,Southbound 11 St @ Haywood Ave,49.333196,-123.145985,BUS ZN
 60918,Westbound Fulton Ave @ 12 St,49.331502,-123.14947,BUS ZN
-50043,Burrard Station @ Bay 1,49.285306,-123.119982,BUS ZN
+50043,Burrard Stn @ Bay 1,49.285306,-123.119982,BUS ZN
 60942,Westbound Eyremount Dr @ Highland Dr,49.35377,-123.142536,BUS ZN
 50970,Southbound Victoria Dr @ E 22 Ave,49.249893,-123.065127,BUS ZN
 58238,Northbound 116 St @ Nordel Way,49.162091,-122.90202,BUS ZN
 51930,Eastbound Chancellor Blvd @ Hamber Rd,49.272894,-123.237649,BUS ZN
 50848,Westbound E Broadway @ St. George St,49.262598,-123.093535,BUS ZN
-58082,Braid Station @ Bay 2,49.23303,-122.88308,BUS ZN
+58082,Braid Stn @ Bay 2,49.23303,-122.88308,BUS ZN
 58091,Southbound 128 St @ 103 Ave,49.18953,-122.867817,BUS ZN
 50849,Westbound E Broadway @ Prince Edward St,49.262835,-123.096513,BUS ZN
-58083,Braid Station @ Bay 3,49.23321,-122.883024,BUS ZN
-58249,Joyce Station @ Bay 6,49.237996,-123.032261,BUS ZN
+58083,Braid Stn @ Bay 3,49.23321,-122.883024,BUS ZN
+58249,Joyce Stn @ Bay 6,49.237996,-123.032261,BUS ZN
 58248,Southbound 140 St @ 75 Ave,49.13863,-122.834605,BUS ZN
 58273,Eastbound Old Yale Rd @ 13500 Block,49.184316,-122.847504,BUS ZN
 58087,Northbound Commercial Dr @ E 6th Ave,49.265331,-123.069596,BUS ZN
 50850,Westbound E Broadway @ Scotia St,49.262926,-123.098697,BUS ZN
-58079,Braid Station @ Bay 1,49.232855,-122.883137,BUS ZN
-58085,Braid Station @ Bay 5,49.233145,-122.882556,BUS ZN
-58086,Braid Station @ Bay 6,49.232968,-122.882501,BUS ZN
-60802,Braid Station @ Platform 1,49.233236,-122.882831,ZN 2
-60803,Braid Station @ Platform 2,49.233236,-122.882718,ZN 2
-60800,Sapperton Station @ Platform 1,49.2247,-122.889424,ZN 2
-60801,Sapperton Station @ Platform 2,49.224621,-122.889311,ZN 2
+58079,Braid Stn @ Bay 1,49.232855,-122.883137,BUS ZN
+58085,Braid Stn @ Bay 5,49.233145,-122.882556,BUS ZN
+58086,Braid Stn @ Bay 6,49.232968,-122.882501,BUS ZN
+60802,Braid Stn @ Platform 1,49.233236,-122.882831,ZN 2
+60803,Braid Stn @ Platform 2,49.233236,-122.882718,ZN 2
+60800,Sapperton Stn @ Platform 1,49.2247,-122.889424,ZN 2
+60801,Sapperton Stn @ Platform 2,49.224621,-122.889311,ZN 2
 58766,Eastbound Grafton Rd @ Artisan Square (Flag),49.380461,-123.348842,BUS ZN
 58117,Eastbound Kingsway @ Griffiths Dr,49.218364,-122.959902,BUS ZN
 56566,Southbound No. 3 Rd @ Leslie Rd,49.179084,-123.13677,BUS ZN
@@ -8011,7 +8011,7 @@
 50853,Southbound Granville St @ W 41 Ave,49.233799,-123.139775,BUS ZN
 58081,Northbound Holly Dr @ Sorrel St,49.247693,-122.804601,BUS ZN
 58080,Southbound Holly Dr @ Sorrel St,49.24664,-122.805242,BUS ZN
-58198,Aberdeen Station @ Bay 1,49.183912,-123.136477,BUS ZN
+58198,Aberdeen Stn @ Bay 1,49.183912,-123.136477,BUS ZN
 58111,Westbound Edgemont Blvd @ Ridgewood Dr,49.338965,-123.103787,BUS ZN
 58160,Northbound Smith Ave @ Sunset St,49.250063,-123.019709,BUS ZN
 58161,Southbound Lillooet Rd @ 1000 Block,49.31572,-123.024145,BUS ZN
@@ -8043,8 +8043,8 @@
 60909,Northbound 15 St @ Ottawa Ave,49.340258,-123.156826,BUS ZN
 58223,Eastbound 88 Ave @ 156 St,49.162722,-122.791163,BUS ZN
 58147,Northbound Willard St @ Marine Dr,49.204534,-122.9709,BUS ZN
-58439,Lougheed Station @ Bay 5,49.247378,-122.894518,BUS ZN
-58441,Sperling Station @ Bay 4,49.258603,-122.963986,BUS ZN
+58439,Lougheed Stn @ Bay 5,49.247378,-122.894518,BUS ZN
+58441,Sperling Stn @ Bay 4,49.258603,-122.963986,BUS ZN
 50859,Southbound Granville St @ W 57 Ave,49.218967,-123.140294,BUS ZN
 60935,Westbound Eyremount Dr @ 700 Block,49.345218,-123.139214,BUS ZN
 60936,Westbound Cross Creek Rd @ Eyremount Dr,49.346176,-123.14189,BUS ZN
@@ -8058,20 +8058,20 @@
 50860,Southbound Granville St @ W 59 Ave,49.217067,-123.140361,BUS ZN
 60888,Southbound Northwood Dr @ Westport Rd,49.35278,-123.25095,BUS ZN
 54705,Eastbound Caulfeild Dr @ Estevan Place,49.35073,-123.24672,BUS ZN
-58432,Lougheed Station @ Bay 8,49.247657,-122.89519,BUS ZN
-58345,Gilmore Station @ Bay 3,49.26457,-123.015179,BUS ZN
-58433,Lougheed Station @ Bay 9,49.247772,-122.895398,BUS ZN
-58442,Sperling Station @ Bay 2,49.258896,-122.964007,BUS ZN
+58432,Lougheed Stn @ Bay 8,49.247657,-122.89519,BUS ZN
+58345,Gilmore Stn @ Bay 3,49.26457,-123.015179,BUS ZN
+58433,Lougheed Stn @ Bay 9,49.247772,-122.895398,BUS ZN
+58442,Sperling Stn @ Bay 2,49.258896,-122.964007,BUS ZN
 50861,Southbound Granville St @ W 61 Ave,49.215526,-123.140408,BUS ZN
-58440,Sperling Station @ Bay 3,49.258754,-122.963937,BUS ZN
+58440,Sperling Stn @ Bay 3,49.258754,-122.963937,BUS ZN
 58342,Northbound Holdom Ave @ Lougheed Hwy,49.264688,-122.981032,BUS ZN
-58436,Lougheed Station @ Bay 2,49.247722,-122.89515,BUS ZN
-58434,Lougheed Station @ Bay 10,49.247897,-122.895638,BUS ZN
-58431,Lougheed Station @ Bay 7,49.247544,-122.894975,BUS ZN
-58438,Lougheed Station @ Bay 4,49.24749,-122.894732,BUS ZN
+58436,Lougheed Stn @ Bay 2,49.247722,-122.89515,BUS ZN
+58434,Lougheed Stn @ Bay 10,49.247897,-122.895638,BUS ZN
+58431,Lougheed Stn @ Bay 7,49.247544,-122.894975,BUS ZN
+58438,Lougheed Stn @ Bay 4,49.24749,-122.894732,BUS ZN
 50862,Southbound Granville St @ W 63 Ave,49.213531,-123.140485,BUS ZN
-58437,Lougheed Station @ Bay 3,49.247609,-122.894945,BUS ZN
-58430,Lougheed Station @ Bay 6,49.247428,-122.894766,BUS ZN
+58437,Lougheed Stn @ Bay 3,49.247609,-122.894945,BUS ZN
+58430,Lougheed Stn @ Bay 6,49.247428,-122.894766,BUS ZN
 58226,Eastbound Guildford Way @ Ungless Way,49.283751,-122.822697,BUS ZN
 58343,Southbound Holdom Ave @ Lougheed Hwy,49.264489,-122.981313,BUS ZN
 58381,Southbound Holdom Ave @ Halifax St,49.267723,-122.981243,BUS ZN
@@ -8094,27 +8094,27 @@
 58392,Eastbound Henning Dr @ Boundary Rd,49.263596,-123.022725,BUS ZN
 58386,Westbound Lougheed Hwy @ Gilmore Ave,49.266208,-123.014957,BUS ZN
 58390,Westbound Henning Dr @ 3800 Block,49.264012,-123.019214,BUS ZN
-60804,Lougheed Town Centre Station @ Platform 2,49.248549,-122.896879,ZN 2
-60806,Production Way-University Station @ Platform 1,49.253465,-122.918191,ZN 2
-60810,Sperling-Burnaby Lake Station @ Platform 1,49.259213,-122.963982,ZN 2
-60812,Holdom Station @ Platform 1,49.264753,-122.982149,ZN 2
-60814,Brentwood Town Centre Station @ Platform 1,49.266431,-123.001813,ZN 2
-60816,Gilmore Station @ Platform 1,49.265002,-123.013571,ZN 2
-60818,Rupert Station @ Platform 1,49.260815,-123.032869,ZN 1
-60820,Renfrew Station @ Platform 1,49.258942,-123.045374,ZN 1
-60822,Commercial-Broadway Station @ Platform 1,49.26298,-123.068426,ZN 1
-60805,Lougheed Town Centre Station @ Platform 1,49.248484,-122.896952,ZN 2
-60807,Production Way-University Station @ Platform 2,49.253364,-122.918218,ZN 2
-60811,Sperling-Burnaby Lake Station @ Platform 2,49.259154,-122.963991,ZN 2
-60813,Holdom Station @ Platform 2,49.264705,-122.982158,ZN 2
-60815,Brentwood Town Centre Station @ Platform 2,49.266352,-123.001813,ZN 2
-60817,Gilmore Station @ Platform 2,49.264931,-123.013498,ZN 2
-60819,Rupert Station @ Platform 2,49.260733,-123.032821,ZN 1
-60821,Renfrew Station @ Platform 2,49.258877,-123.045348,ZN 1
-60823,Commercial-Broadway Station @ Platform 2,49.262912,-123.068491,ZN 1
+60804,Lougheed Town Centre Stn @ Platform 2,49.248549,-122.896879,ZN 2
+60806,Production Way-University Stn @ Platform 1,49.253465,-122.918191,ZN 2
+60810,Sperling-Burnaby Lake Stn @ Platform 1,49.259213,-122.963982,ZN 2
+60812,Holdom Stn @ Platform 1,49.264753,-122.982149,ZN 2
+60814,Brentwood Town Centre Stn @ Platform 1,49.266431,-123.001813,ZN 2
+60816,Gilmore Stn @ Platform 1,49.265002,-123.013571,ZN 2
+60818,Rupert Stn @ Platform 1,49.260815,-123.032869,ZN 1
+60820,Renfrew Stn @ Platform 1,49.258942,-123.045374,ZN 1
+60822,Commercial-Broadway Stn @ Platform 1,49.26298,-123.068426,ZN 1
+60805,Lougheed Town Centre Stn @ Platform 1,49.248484,-122.896952,ZN 2
+60807,Production Way-University Stn @ Platform 2,49.253364,-122.918218,ZN 2
+60811,Sperling-Burnaby Lake Stn @ Platform 2,49.259154,-122.963991,ZN 2
+60813,Holdom Stn @ Platform 2,49.264705,-122.982158,ZN 2
+60815,Brentwood Town Centre Stn @ Platform 2,49.266352,-123.001813,ZN 2
+60817,Gilmore Stn @ Platform 2,49.264931,-123.013498,ZN 2
+60819,Rupert Stn @ Platform 2,49.260733,-123.032821,ZN 1
+60821,Renfrew Stn @ Platform 2,49.258877,-123.045348,ZN 1
+60823,Commercial-Broadway Stn @ Platform 2,49.262912,-123.068491,ZN 1
 58417,Eastbound Winslow Ave @ Poirier St,49.253831,-122.847431,BUS ZN
 50873,Eastbound W Broadway @ Willow St,49.26323,-123.121293,BUS ZN
-56564,Aberdeen Station @ Bay 2,49.183998,-123.136731,BUS ZN
+56564,Aberdeen Stn @ Bay 2,49.183998,-123.136731,BUS ZN
 58393,Westbound Hastings St @ Duthie Ave,49.280475,-122.954024,BUS ZN
 58466,Eastbound 25 Ave @ 126 St,49.048065,-122.872644,BUS ZN
 58467,Westbound 25 Ave @ 126 St,49.048165,-122.873976,BUS ZN
@@ -8155,7 +8155,7 @@
 58250,Eastbound Williams Rd @ Garden City Rd,49.140767,-123.124509,BUS ZN
 58305,Southbound Production Way @ Broadway,49.25998,-122.91605,BUS ZN
 56116,White Rock Centre @ Bay 6,49.032156,-122.801051,BUS ZN
-58130,Rupert Station @ Bay 1,49.260804,-123.033608,BUS ZN
+58130,Rupert Stn @ Bay 1,49.260804,-123.033608,BUS ZN
 58457,Eastbound Dollarton Hwy @ Riverside Dr,49.30557,-123.013426,BUS ZN
 50880,Eastbound E Broadway @ Kingsway,49.262778,-123.099816,BUS ZN
 58420,Northbound Poirier St @ Winslow Ave,49.255152,-122.846333,BUS ZN
@@ -8164,7 +8164,7 @@
 52105,Eastbound Lougheed Hwy @ Government St,49.249751,-122.900121,BUS ZN
 58474,Northbound Best St @ Vine Ave,49.030428,-122.795609,BUS ZN
 50883,Eastbound E Broadway @ St. Catherines St,49.262351,-123.084744,BUS ZN
-58401,Renfrew Station @ Bay 1,49.259007,-123.044468,BUS ZN
+58401,Renfrew Stn @ Bay 1,49.259007,-123.044468,BUS ZN
 58217,Westbound Bridgeport Rd @ Viking Way,49.192075,-123.073928,BUS ZN
 58468,Southbound 124 St @ Seacrest Dr,49.04724,-122.878486,BUS ZN
 50884,Eastbound E Broadway @ Glen Dr,49.262322,-123.080869,BUS ZN
@@ -8223,7 +8223,7 @@
 58578,Eastbound 26 Ave @ 12800 Block,49.049341,-122.865091,BUS ZN
 58533,Westbound Dollarton Hwy @ Riverside Dr,49.305539,-123.014897,BUS ZN
 58513,Northbound 222 St @ Fraser Hwy,49.09209,-122.607316,BUS ZN
-52431,Columbia Station @ Bay 3,49.20493,-122.905597,BUS ZN
+52431,Columbia Stn @ Bay 3,49.20493,-122.905597,BUS ZN
 50891,Eastbound E Broadway @ Nanaimo St,49.261889,-123.055558,BUS ZN
 58008,Southbound Lost Lagoon Rd @ Stanley Park Causeway,49.296637,-123.136713,BUS ZN
 58411,Eastbound Agnes St @ Elliot St,49.208324,-122.903391,BUS ZN
@@ -8281,7 +8281,7 @@
 58586,Eastbound 17 Ave @ 12900 Block,49.032348,-122.863485,BUS ZN
 58587,Eastbound Panorama Dr @ 2900 Block,49.298739,-122.803963,BUS ZN
 58510,Southbound Main St @ E 5th Ave,49.266106,-123.100973,BUS ZN
-58202,Waterfront Station @ Bay 1,49.285809,-123.112392,BUS ZN
+58202,Waterfront Stn @ Bay 1,49.285809,-123.112392,BUS ZN
 50900,Eastbound Lougheed Hwy @ Skeena St,49.263759,-123.027828,BUS ZN
 54820,Westbound River Rd @ McDonald Rd,49.135291,-123.034826,BUS ZN
 50901,Lougheed Hwy @ Boundary Loop,49.265467,-123.024843,BUS ZN
@@ -8547,11 +8547,11 @@
 50095,Westbound W Pender St @ Seymour St,49.283818,-123.113429,BUS ZN
 58283,Eastbound E Hastings St @ McLean Dr,49.281191,-123.073421,BUS ZN
 58990,Westbound Ioco Rd @ Alderside Rd,49.292872,-122.853379,BUS ZN
-58346,Gilmore Station @ Bay 2,49.264143,-123.014452,BUS ZN
+58346,Gilmore Stn @ Bay 2,49.264143,-123.014452,BUS ZN
 58394,Northbound Gaglardi Way @ Broadway,49.26024,-122.90798,BUS ZN
 50943,Eastbound E Hastings St @ Commercial Dr,49.28111,-123.069698,BUS ZN
-60808,Lake City Way Station @ Platform 1,49.254654,-122.939183,ZN 2
-60809,Lake City Way Station @ Platform 2,49.254609,-122.939183,ZN 2
+60808,Lake City Way Stn @ Platform 1,49.254654,-122.939183,ZN 2
+60809,Lake City Way Stn @ Platform 2,49.254609,-122.939183,ZN 2
 59028,Northbound Golden Dr @ Rocket Way,49.230983,-122.824438,BUS ZN
 59032,Eastbound Hartley Ave @ Brigantine Dr,49.226943,-122.848435,BUS ZN
 59018,Northbound Brigantine Dr @ Hartley Ave,49.227417,-122.848828,BUS ZN
@@ -8685,7 +8685,7 @@
 59220,Northbound 222 St @ Lougheed Hwy,49.217493,-122.606901,BUS ZN
 59223,Northbound 222 St @ 119 Ave,49.218793,-122.606907,BUS ZN
 58666,Southbound Pinetree Way @ Guildford Way,49.284128,-122.793018,BUS ZN
-50963,Commercial-Broadway Station @ Bay 2,49.261929,-123.069913,BUS ZN
+50963,Commercial-Broadway Stn @ Bay 2,49.261929,-123.069913,BUS ZN
 59237,Westbound 105 Ave @ Lincoln Dr,49.193278,-122.80321,BUS ZN
 59242,Southbound 136 St @ 112 Ave,49.205751,-122.845372,BUS ZN
 59241,Southbound 136 St @ 111 Ave,49.204041,-122.845341,BUS ZN
@@ -8728,16 +8728,16 @@
 55431,Northbound King George Blvd @ Bolivar Rd,49.204569,-122.853592,BUS ZN
 55433,Westbound King George Blvd @ 128 St,49.206598,-122.865846,BUS ZN
 59286,Eastbound Kindersley Dr @ Grosvenor Rd,49.20675,-122.831541,BUS ZN
-50985,Langara-49th Station @ Bay 4,49.225846,-123.116731,BUS ZN
+50985,Langara-49th Stn @ Bay 4,49.225846,-123.116731,BUS ZN
 58991,Eastbound Ioco Rd @ Alderside Rd,49.292467,-122.852841,BUS ZN
 54408,Eastbound Marine Dr @ Fell Ave,49.321178,-123.094959,BUS ZN
 59260,Southbound Mariner Way @ Austin Ave,49.248665,-122.815775,BUS ZN
 58946,Westbound Fraser Hwy @ 159 St,49.159039,-122.78296,BUS ZN
 59848,Eastbound Carnarvon St @ Quayside Dr,49.200769,-122.914936,BUS ZN
 50986,Southbound Cambie St @ W 54 Ave,49.221506,-123.116922,BUS ZN
-59316,Production Station @ Bay 3,49.254032,-122.918229,BUS ZN
+59316,Production Stn @ Bay 3,49.254032,-122.918229,BUS ZN
 59296,Southbound 236 St @ 116 Ave,49.21099,-122.567925,BUS ZN
-60979,Mission City Station @ Bay 1,49.133882,-122.305153,BUS ZN
+60979,Mission City Stn @ Bay 1,49.133882,-122.305153,BUS ZN
 54874,Westbound Hwy 10 @ 112 St,49.098339,-122.912446,BUS ZN
 50987,Southbound Cambie St @ W 57 Ave,49.218787,-123.117011,BUS ZN
 54875,Westbound Hwy 10 @ 104 St,49.095741,-122.9356,BUS ZN
@@ -8760,61 +8760,61 @@
 59333,Southbound Jack Bell Dr @ Wyne Cres North,49.180316,-123.082262,BUS ZN
 59330,Westbound Jack Bell Dr @ 12500 Block,49.178319,-123.084824,BUS ZN
 59328,Westbound Jack Bell Dr @ McNeely Dr,49.179561,-123.087002,BUS ZN
-,YVR-Airport Station,49.194174,-123.178269,CL_AD
-,Sea Island Centre Station,49.192986,-123.157887,CL_AD
-,Templeton Station,49.196688,-123.146337,CL_AD
-,Richmond-Brighouse Station,49.167943,-123.136372,ZN 2
-,Lansdowne Station,49.174665,-123.136475,ZN 2
-,Aberdeen Station,49.184,-123.136325,ZN 2
-,Bridgeport Station,49.195538,-123.126062,ZN 2
-,Marine Drive Station,49.209666,-123.117015,ZN 1
-,Langara-49th Avenue Station,49.22573,-123.116523,ZN 1
-,Oakridge-41st Avenue Station,49.233739,-123.116295,ZN 1
-,King Edward Station,49.249175,-123.11545,ZN 1
-,Broadway-City Hall Station,49.262717,-123.114822,ZN 1
-,Olympic Village Station,49.266596,-123.115348,ZN 1
-,Yaletown-Roundhouse Station,49.274492,-123.122079,ZN 1
-,Vancouver City Centre Station,49.282415,-123.118227,ZN 1
-,VCC-Clark Station,49.265845,-123.079069,ZN 1
-,Commercial-Broadway Station,49.26267,-123.068765,ZN 1
-,Renfrew Station,49.258913,-123.045379,ZN 1
-,Rupert Station,49.260784,-123.032867,ZN 1
-,Gilmore Station,49.264974,-123.013554,ZN 2
-,Brentwood Town Centre Station,49.266396,-123.001829,ZN 2
-,Holdom Station,49.264734,-122.982169,ZN 2
-,Sperling-Burnaby Lake Station,49.259195,-122.963998,ZN 2
-,Lake City Way Station,49.254635,-122.939192,ZN 2
-,Production Way-University Station,49.253416,-122.918223,ZN 2
-,Lougheed Town Centre Station,49.248512,-122.896805,ZN 2
-,Burquitlam Station,49.261403,-122.889834,ZN 3
-,Moody Centre Station,49.278012,-122.846034,ZN 3
-,Inlet Centre Station,49.27721,-122.828187,ZN 3
-,Coquitlam Central Station,49.27434,-122.800421,ZN 3
-,Lincoln Station,49.280423,-122.793917,ZN 3
-,Lafarge Lake-Douglas Station,49.285718,-122.791541,ZN 3
-,Burrard Station,49.285614,-123.119557,ZN 1
-,Granville Station,49.283173,-123.115721,ZN 1
-,Stadium-Chinatown Station,49.279223,-123.109181,ZN 1
-,Main Street-Science World Station,49.273137,-123.100392,ZN 1
-,Nanaimo Station,49.248321,-123.055908,ZN 1
-,29th Avenue Station,49.244283,-123.046113,ZN 1
-,Joyce-Collingwood Station,49.238398,-123.031811,ZN 1
-,Patterson Station,49.229626,-123.01267,ZN 2
-,Metrotown Station,49.225825,-123.00392,ZN 2
-,Royal Oak Station,49.220068,-122.98848,ZN 2
-,Edmonds Station,49.211936,-122.959104,ZN 2
-,22nd Street Station,49.200059,-122.94898,ZN 2
-,New Westminster Station,49.201437,-122.912614,ZN 2
-,Columbia Station,49.20483,-122.906175,ZN 2
-,Sapperton Station,49.224662,-122.889393,ZN 2
-,Braid Station,49.233244,-122.8828,ZN 2
-,Scott Road Station,49.20442,-122.874197,ZN 3
-,Gateway Station,49.198955,-122.85061,ZN 3
-,Surrey Central Station,49.189562,-122.847868,ZN 3
-,King George Station,49.18279,-122.844737,ZN 3
-,Port Coquitlam Station,49.261499,-122.773999,WCE2Z
-,Pitt Meadows Station,49.225796,-122.688379,WCE3Z
-,Maple Meadows Station,49.216513,-122.66621,WCE3Z
-,Port Haney Station,49.212202,-122.60524,WCE3Z
-,Mission City Station,49.133694,-122.304898,WCE4Z
-,Lonsdale Quay Station,49.310142,-123.083309,ZN 2
+99999,YVR-Airport Stn,49.194174,-123.178269,CL_AD
+99999,Sea Island Centre Stn,49.192986,-123.157887,CL_AD
+99999,Templeton Stn,49.196688,-123.146337,CL_AD
+99999,Richmond-Brighouse Stn,49.167943,-123.136372,ZN 2
+99999,Lansdowne Stn,49.174665,-123.136475,ZN 2
+99999,Aberdeen Stn,49.184,-123.136325,ZN 2
+99999,Bridgeport Stn,49.195538,-123.126062,ZN 2
+99999,Marine Drive Stn,49.209666,-123.117015,ZN 1
+99999,Langara-49th Avenue Stn,49.22573,-123.116523,ZN 1
+99999,Oakridge-41st Avenue Stn,49.233739,-123.116295,ZN 1
+99999,King Edward Stn,49.249175,-123.11545,ZN 1
+99999,Broadway-City Hall Stn,49.262717,-123.114822,ZN 1
+99999,Olympic Village Stn,49.266596,-123.115348,ZN 1
+99999,Yaletown-Roundhouse Stn,49.274492,-123.122079,ZN 1
+99999,Vancouver City Centre Stn,49.282415,-123.118227,ZN 1
+99999,VCC-Clark Stn,49.265845,-123.079069,ZN 1
+99999,Commercial-Broadway Stn,49.26267,-123.068765,ZN 1
+99999,Renfrew Stn,49.258913,-123.045379,ZN 1
+99999,Rupert Stn,49.260784,-123.032867,ZN 1
+99999,Gilmore Stn,49.264974,-123.013554,ZN 2
+99999,Brentwood Town Centre Stn,49.266396,-123.001829,ZN 2
+99999,Holdom Stn,49.264734,-122.982169,ZN 2
+99999,Sperling-Burnaby Lake Stn,49.259195,-122.963998,ZN 2
+99999,Lake City Way Stn,49.254635,-122.939192,ZN 2
+99999,Production Way-University Stn,49.253416,-122.918223,ZN 2
+99999,Lougheed Town Centre Stn,49.248512,-122.896805,ZN 2
+99999,Burquitlam Stn,49.261403,-122.889834,ZN 3
+99999,Moody Centre Stn,49.278012,-122.846034,ZN 3
+99999,Inlet Centre Stn,49.27721,-122.828187,ZN 3
+99999,Coquitlam Central Stn,49.27434,-122.800421,ZN 3
+99999,Lincoln Stn,49.280423,-122.793917,ZN 3
+99999,Lafarge Lake-Douglas Stn,49.285718,-122.791541,ZN 3
+99999,Burrard Stn,49.285614,-123.119557,ZN 1
+99999,Granville Stn,49.283173,-123.115721,ZN 1
+99999,Stadium-Chinatown Stn,49.279223,-123.109181,ZN 1
+99999,Main Street-Science World Stn,49.273137,-123.100392,ZN 1
+99999,Nanaimo Stn,49.248321,-123.055908,ZN 1
+99999,29th Avenue Stn,49.244283,-123.046113,ZN 1
+99999,Joyce-Collingwood Stn,49.238398,-123.031811,ZN 1
+99999,Patterson Stn,49.229626,-123.01267,ZN 2
+99999,Metrotown Stn,49.225825,-123.00392,ZN 2
+99999,Royal Oak Stn,49.220068,-122.98848,ZN 2
+99999,Edmonds Stn,49.211936,-122.959104,ZN 2
+99999,22nd Street Stn,49.200059,-122.94898,ZN 2
+99999,New Westminster Stn,49.201437,-122.912614,ZN 2
+99999,Columbia Stn,49.20483,-122.906175,ZN 2
+99999,Sapperton Stn,49.224662,-122.889393,ZN 2
+99999,Braid Stn,49.233244,-122.8828,ZN 2
+99999,Scott Road Stn,49.20442,-122.874197,ZN 3
+99999,Gateway Stn,49.198955,-122.85061,ZN 3
+99999,Surrey Central Stn,49.189562,-122.847868,ZN 3
+99999,King George Stn,49.18279,-122.844737,ZN 3
+99999,Port Coquitlam Stn,49.261499,-122.773999,WCE2Z
+99999,Pitt Meadows Stn,49.225796,-122.688379,WCE3Z
+99999,Maple Meadows Stn,49.216513,-122.66621,WCE3Z
+99999,Port Haney Stn,49.212202,-122.60524,WCE3Z
+99999,Mission City Stn,49.133694,-122.304898,WCE4Z
+99999,Lonsdale Quay Stn,49.310142,-123.083309,ZN 2
