@@ -1,5 +1,6 @@
 import pandas as pd
 import folium
+from folium.plugins import HeatMap
 
 compass_card_history_path = 'Data/CompassCardHistoryBig.csv'
 translink_transit_stops_path = 'Data/TranslinkTransitStops.csv'
@@ -45,15 +46,19 @@ visited_locations = pd.concat([
 
 m = folium.Map(location=[visited_locations['stop_lat'].mean(), visited_locations['stop_lon'].mean()], zoom_start=12)
 
-for _, row in visited_locations.iterrows():
-    folium.CircleMarker(
-        location=[row['stop_lat'], row['stop_lon']],
-        radius=5,
-        color='blue',
-        fill=True,
-        fill_color='blue',
-        fill_opacity=0.6
-    ).add_to(m)
+# for _, row in visited_locations.iterrows():
+#     folium.CircleMarker(
+#         location=[row['stop_lat'], row['stop_lon']],
+#         radius=5,
+#         color='blue',
+#         fill=True,
+#         fill_color='blue',
+#         fill_opacity=0.6
+#     ).add_to(m)
+
+heat_data = visited_locations[['stop_lat', 'stop_lon']].values.tolist()
+
+HeatMap(heat_data, radius=11, blur=10).add_to(m)
 
 m.save('Data/visited_locations_heatmap.html')
 print("Heatmap saved as 'visited_locations_heatmap.html'.")
