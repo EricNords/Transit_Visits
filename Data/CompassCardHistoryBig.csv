@@ -1,0 +1,1923 @@
+DateTime,Transaction,Product,LineItem,Amount,BalanceDetails,JourneyId,LocationDisplay,TransactonTime,OrderDate,Payment,OrderNumber,AuthCode,Total
+Dec-30-2023 11:49 AM,Transfer at Bus Stop 50412,3 Zone UPass (N),,$0.00,$5.90,2023-12-30T19:12:00.0000000Z,"Transfer at Bus Stop 50412
+3 Zone UPass (N)",11:49 AM,,,,,
+Dec-30-2023 11:17 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-30T19:12:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",11:17 AM,,,,,
+Dec-30-2023 11:12 AM,Tap in at King Edward Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-30T19:12:00.0000000Z,"Tap in at King Edward Stn
+3 Zone UPass (N)",11:12 AM,,,,,
+Dec-29-2023 03:06 PM,Transfer at Bus Stop 50412,3 Zone UPass (N),,$0.00,$5.90,2023-12-29T21:41:00.0000000Z,"Transfer at Bus Stop 50412
+3 Zone UPass (N)",03:06 PM,,,,,
+Dec-29-2023 02:30 PM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-29T21:41:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",02:30 PM,,,,,
+Dec-29-2023 02:23 PM,Transfer at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-29T21:41:00.0000000Z,"Transfer at Oakridge-41st Stn
+3 Zone UPass (N)",02:23 PM,,,,,
+Dec-29-2023 01:59 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-29T21:41:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",01:59 PM,,,,,
+Dec-29-2023 01:51 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-29T21:41:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",01:51 PM,,,,,
+Dec-29-2023 01:41 PM,Tap in at Bus Stop 60494,3 Zone UPass (N),,$0.00,$5.90,2023-12-29T21:41:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (N)",01:41 PM,,,,,
+Dec-29-2023 07:07 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$5.90,2023-12-29T15:07:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",07:07 AM,,,,,
+Dec-28-2023 04:15 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$5.90,2023-12-29T00:00:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",04:15 PM,,,,,
+Dec-28-2023 04:00 PM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$5.90,2023-12-29T00:00:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",04:00 PM,,,,,
+Dec-28-2023 07:35 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$5.90,2023-12-28T15:35:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",07:35 AM,,,,,
+Dec-27-2023 04:26 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$5.90,2023-12-28T00:16:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",04:26 PM,,,,,
+Dec-27-2023 04:16 PM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$5.90,2023-12-28T00:16:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",04:16 PM,,,,,
+Dec-27-2023 07:40 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$5.90,2023-12-27T15:40:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",07:40 AM,,,,,
+Dec-26-2023 05:42 PM,Transfer at Bus Stop 50303,3 Zone UPass (N),,$0.00,$5.90,2023-12-27T00:14:00.0000000Z,"Transfer at Bus Stop 50303
+3 Zone UPass (N)",05:42 PM,,,,,
+Dec-26-2023 04:29 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-27T00:14:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",04:29 PM,,,,,
+Dec-26-2023 04:20 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-27T00:14:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",04:20 PM,,,,,
+Dec-26-2023 04:14 PM,Tap in at Bus Stop 60494,3 Zone UPass (N),,$0.00,$5.90,2023-12-27T00:14:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (N)",04:14 PM,,,,,
+Dec-26-2023 04:14 PM,Loaded at Bus Stop 60494,3 Zone UPass (N),,$0.00,$5.90,,"Loaded at Bus Stop 60494
+3 Zone UPass (N)",04:14 PM,,,,,
+Dec-24-2023 03:11 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$5.90,2023-12-24T23:11:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",03:11 PM,,,,,
+Dec-23-2023 03:26 PM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$5.90,2023-12-23T22:20:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",03:26 PM,,,,,
+Dec-23-2023 03:10 PM,Transfer at Bus Stop 50471,3 Zone UPass (N),,$0.00,$5.90,2023-12-23T22:20:00.0000000Z,"Transfer at Bus Stop 50471
+3 Zone UPass (N)",03:10 PM,,,,,
+Dec-23-2023 02:20 PM,Tap in at Bus Stop 60386,3 Zone UPass (N),,$0.00,$5.90,2023-12-23T22:20:00.0000000Z,"Tap in at Bus Stop 60386
+3 Zone UPass (N)",02:20 PM,,,,,
+Dec-23-2023 10:28 AM,Transfer at Bus Stop 50467,3 Zone UPass (N),,$0.00,$5.90,2023-12-23T18:22:00.0000000Z,"Transfer at Bus Stop 50467
+3 Zone UPass (N)",10:28 AM,,,,,
+Dec-23-2023 10:22 AM,Tap in at Bus Stop 50423,3 Zone UPass (N),,$0.00,$5.90,2023-12-23T18:22:00.0000000Z,"Tap in at Bus Stop 50423
+3 Zone UPass (N)",10:22 AM,,,,,
+Dec-22-2023 10:54 PM,Transfer at Bus Stop 60517,3 Zone UPass (N),,$0.00,$5.90,2023-12-23T06:38:00.0000000Z,"Transfer at Bus Stop 60517
+3 Zone UPass (N)",10:54 PM,,,,,
+Dec-22-2023 10:38 PM,Tap in at Bus Stop 50871,3 Zone UPass (N),,$0.00,$5.90,2023-12-23T06:38:00.0000000Z,"Tap in at Bus Stop 50871
+3 Zone UPass (N)",10:38 PM,,,,,
+Dec-22-2023 08:21 PM,Tap in at Bus Stop 58501,3 Zone UPass (N),,$0.00,$5.90,2023-12-23T04:21:00.0000000Z,"Tap in at Bus Stop 58501
+3 Zone UPass (N)",08:21 PM,,,,,
+Dec-22-2023 05:55 PM,Tap in at Bus Stop 50471,3 Zone UPass (N),,$0.00,$5.90,2023-12-23T01:55:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (N)",05:55 PM,,,,,
+Dec-22-2023 03:06 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-22T22:52:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",03:06 PM,,,,,
+Dec-22-2023 02:52 PM,Tap in at Waterfront Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-22T22:52:00.0000000Z,"Tap in at Waterfront Stn
+3 Zone UPass (N)",02:52 PM,,,,,
+Dec-22-2023 02:51 PM,Refund at Waterfront Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-22T22:50:00.0000000Z,"Refund at Waterfront Stn
+3 Zone UPass (N)",02:51 PM,,,,,
+Dec-22-2023 02:50 PM,Tap in at Waterfront Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-22T22:50:00.0000000Z,"Tap in at Waterfront Stn
+3 Zone UPass (N)",02:50 PM,,,,,
+Dec-22-2023 08:04 AM,Tap in at Bus Stop 50310,3 Zone UPass (N),,$0.00,$5.90,2023-12-22T16:04:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (N)",08:04 AM,,,,,
+Dec-21-2023 05:25 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$5.90,2023-12-22T00:38:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",05:25 PM,,,,,
+Dec-21-2023 05:10 PM,Transfer at Bus Stop 50540,3 Zone UPass (N),,$0.00,$5.90,2023-12-22T00:38:00.0000000Z,"Transfer at Bus Stop 50540
+3 Zone UPass (N)",05:10 PM,,,,,
+Dec-21-2023 04:38 PM,Tap in at Bus Stop 50526,3 Zone UPass (N),,$0.00,$5.90,2023-12-22T00:38:00.0000000Z,"Tap in at Bus Stop 50526
+3 Zone UPass (N)",04:38 PM,,,,,
+Dec-21-2023 08:27 AM,Tap out at Waterfront Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-21T16:10:00.0000000Z,"Tap out at Waterfront Stn
+3 Zone UPass (N)",08:27 AM,,,,,
+Dec-21-2023 08:14 AM,Transfer at King Edward Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-21T16:10:00.0000000Z,"Transfer at King Edward Stn
+3 Zone UPass (N)",08:14 AM,,,,,
+Dec-21-2023 08:10 AM,Tap in at Bus Stop 50471,3 Zone UPass (N),,$0.00,$5.90,2023-12-21T16:10:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (N)",08:10 AM,,,,,
+Dec-20-2023 07:49 PM,Tap in at Bus Stop 50412,3 Zone UPass (N),,$0.00,$5.90,2023-12-21T03:49:00.0000000Z,"Tap in at Bus Stop 50412
+3 Zone UPass (N)",07:49 PM,,,,,
+Dec-20-2023 07:49 PM,Missing Tap out,3 Zone UPass (N),,$0.00,$5.90,2023-12-21T01:30:00.0000000Z,"Missing Tap out
+3 Zone UPass (N)",07:49 PM,,,,,
+Dec-20-2023 05:30 PM,Tap in at Vancouver City Centre Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-21T01:30:00.0000000Z,"Tap in at Vancouver City Centre Stn
+3 Zone UPass (N)",05:30 PM,,,,,
+Dec-19-2023 04:43 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$5.90,2023-12-20T00:43:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",04:43 PM,,,,,
+Dec-19-2023 04:10 PM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$5.90,2023-12-19T23:03:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",04:10 PM,,,,,
+Dec-19-2023 04:07 PM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-19T23:03:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",04:07 PM,,,,,
+Dec-19-2023 03:59 PM,Transfer at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-19T23:03:00.0000000Z,"Transfer at Oakridge-41st Stn
+3 Zone UPass (N)",03:59 PM,,,,,
+Dec-19-2023 03:28 PM,Transfer at Bus Stop 50419,3 Zone UPass (N),,$0.00,$5.90,2023-12-19T23:03:00.0000000Z,"Transfer at Bus Stop 50419
+3 Zone UPass (N)",03:28 PM,,,,,
+Dec-19-2023 03:20 PM,Tap out at King Edward Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-19T23:03:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (N)",03:20 PM,,,,,
+Dec-19-2023 03:15 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-19T23:03:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",03:15 PM,,,,,
+Dec-19-2023 03:03 PM,Tap in at Bus Stop 60494,3 Zone UPass (N),,$0.00,$5.90,2023-12-19T23:03:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (N)",03:03 PM,,,,,
+Dec-19-2023 07:42 AM,Transfer at Bus Stop 50315,3 Zone UPass (N),,$0.00,$5.90,2023-12-19T15:38:00.0000000Z,"Transfer at Bus Stop 50315
+3 Zone UPass (N)",07:42 AM,,,,,
+Dec-19-2023 07:38 AM,Tap in at Bus Stop 50310,3 Zone UPass (N),,$0.00,$5.90,2023-12-19T15:38:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (N)",07:38 AM,,,,,
+Dec-18-2023 07:36 PM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$5.90,2023-12-19T03:22:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",07:36 PM,,,,,
+Dec-18-2023 07:31 PM,Tap out at King Edward Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-19T03:22:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (N)",07:31 PM,,,,,
+Dec-18-2023 07:22 PM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-19T03:22:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:22 PM,,,,,
+Dec-18-2023 04:01 PM,Transfer at Bus Stop 50412,3 Zone UPass (N),,$0.00,$5.90,2023-12-18T23:36:00.0000000Z,"Transfer at Bus Stop 50412
+3 Zone UPass (N)",04:01 PM,,,,,
+Dec-18-2023 03:36 PM,Tap in at Bus Stop 60494,3 Zone UPass (N),,$0.00,$5.90,2023-12-18T23:36:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (N)",03:36 PM,,,,,
+Dec-18-2023 07:48 AM,Transfer at Bus Stop 58037,3 Zone UPass (N),,$0.00,$5.90,2023-12-18T15:36:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (N)",07:48 AM,,,,,
+Dec-18-2023 07:36 AM,Tap in at Bus Stop 50310,3 Zone UPass (N),,$0.00,$5.90,2023-12-18T15:36:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (N)",07:36 AM,,,,,
+Dec-17-2023 03:53 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$5.90,2023-12-17T23:53:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",03:53 PM,,,,,
+Dec-17-2023 07:49 AM,Tap in at Bus Stop 50924,3 Zone UPass (N),,$0.00,$5.90,2023-12-17T15:49:00.0000000Z,"Tap in at Bus Stop 50924
+3 Zone UPass (N)",07:49 AM,,,,,
+Dec-16-2023 01:04 PM,Tap out at Surrey Central Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-16T19:12:00.0000000Z,"Tap out at Surrey Central Stn
+3 Zone UPass (N)",01:04 PM,,,,,
+Dec-16-2023 12:36 PM,Transfer at Joyce Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-16T19:12:00.0000000Z,"Transfer at Joyce Stn
+3 Zone UPass (N)",12:36 PM,,,,,
+Dec-16-2023 12:18 PM,Transfer at Bus Stop 60349,3 Zone UPass (N),,$0.00,$5.90,2023-12-16T19:12:00.0000000Z,"Transfer at Bus Stop 60349
+3 Zone UPass (N)",12:18 PM,,,,,
+Dec-16-2023 11:12 AM,Tap in at Bus Stop 50364,3 Zone UPass (N),,$0.00,$5.90,2023-12-16T19:12:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (N)",11:12 AM,,,,,
+Dec-15-2023 12:39 PM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$5.90,2023-12-15T20:21:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",12:39 PM,,,,,
+Dec-15-2023 12:21 PM,Tap in at Bus Stop 50471,3 Zone UPass (N),,$0.00,$5.90,2023-12-15T20:21:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (N)",12:21 PM,,,,,
+Dec-14-2023 01:30 PM,Transfer at Bus Stop 50412,3 Zone UPass (N),,$0.00,$5.90,2023-12-14T21:07:00.0000000Z,"Transfer at Bus Stop 50412
+3 Zone UPass (N)",01:30 PM,,,,,
+Dec-14-2023 01:07 PM,Tap in at Bus Stop 60494,3 Zone UPass (N),,$0.00,$5.90,2023-12-14T21:07:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (N)",01:07 PM,,,,,
+Dec-13-2023 11:25 AM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$5.90,2023-12-13T18:26:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",11:25 AM,,,,,
+Dec-13-2023 11:20 AM,Tap out at King Edward Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-13T18:26:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (N)",11:20 AM,,,,,
+Dec-13-2023 11:12 AM,Transfer at Olympic Village Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-13T18:26:00.0000000Z,"Transfer at Olympic Village Stn
+3 Zone UPass (N)",11:12 AM,,,,,
+Dec-13-2023 10:33 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-13T18:26:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",10:33 AM,,,,,
+Dec-13-2023 10:26 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-13T18:26:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",10:26 AM,,,,,
+Dec-12-2023 09:11 PM,Transfer at Bus Stop 60162,3 Zone UPass (N),,$0.00,$5.90,2023-12-13T04:45:00.0000000Z,"Transfer at Bus Stop 60162
+3 Zone UPass (N)",09:11 PM,,,,,
+Dec-12-2023 08:45 PM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$5.90,2023-12-13T04:45:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",08:45 PM,,,,,
+Dec-12-2023 03:33 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$5.90,2023-12-12T23:33:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",03:33 PM,,,,,
+Dec-12-2023 07:49 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$5.90,2023-12-12T15:49:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",07:49 AM,,,,,
+Dec-11-2023 02:45 PM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$5.90,2023-12-11T22:45:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",02:45 PM,,,,,
+Dec-11-2023 07:51 AM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$5.90,2023-12-11T15:37:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",07:51 AM,,,,,
+Dec-11-2023 07:47 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-11T15:37:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",07:47 AM,,,,,
+Dec-11-2023 07:37 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-11T15:37:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:37 AM,,,,,
+Dec-10-2023 03:07 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-10T21:42:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",03:07 PM,,,,,
+Dec-10-2023 02:58 PM,Transfer at Marine Drive Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-10T21:42:00.0000000Z,"Transfer at Marine Drive Stn
+3 Zone UPass (N)",02:58 PM,,,,,
+Dec-10-2023 02:30 PM,Tap out at Marine Drive Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-10T21:42:00.0000000Z,"Tap out at Marine Drive Stn
+3 Zone UPass (N)",02:30 PM,,,,,
+Dec-10-2023 02:24 PM,Transfer at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-10T21:42:00.0000000Z,"Transfer at Oakridge-41st Stn
+3 Zone UPass (N)",02:24 PM,,,,,
+Dec-10-2023 01:56 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-10T21:42:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",01:56 PM,,,,,
+Dec-10-2023 01:48 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-10T21:42:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",01:48 PM,,,,,
+Dec-10-2023 01:42 PM,Tap in at Bus Stop 60494,3 Zone UPass (N),,$0.00,$5.90,2023-12-10T21:42:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (N)",01:42 PM,,,,,
+Dec-08-2023 11:15 AM,Transfer at Bus Stop 50298,3 Zone UPass (N),,$0.00,$5.90,2023-12-08T18:15:00.0000000Z,"Transfer at Bus Stop 50298
+3 Zone UPass (N)",11:15 AM,,,,,
+Dec-08-2023 10:15 AM,Tap in at Bus Stop 51574,3 Zone UPass (N),,$0.00,$5.90,2023-12-08T18:15:00.0000000Z,"Tap in at Bus Stop 51574
+3 Zone UPass (N)",10:15 AM,,,,,
+Dec-07-2023 05:03 PM,Transfer at Bus Stop 50467,3 Zone UPass (N),,$0.00,$5.90,2023-12-08T00:16:00.0000000Z,"Transfer at Bus Stop 50467
+3 Zone UPass (N)",05:03 PM,,,,,
+Dec-07-2023 05:00 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-08T00:16:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",05:00 PM,,,,,
+Dec-07-2023 04:51 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-08T00:16:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",04:51 PM,,,,,
+Dec-07-2023 04:16 PM,Tap in at Bus Stop 60494,3 Zone UPass (N),,$0.00,$5.90,2023-12-08T00:16:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (N)",04:16 PM,,,,,
+Dec-07-2023 01:11 PM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$5.90,2023-12-07T20:54:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",01:11 PM,,,,,
+Dec-07-2023 12:54 PM,Tap in at Bus Stop 60494,3 Zone UPass (N),,$0.00,$5.90,2023-12-07T20:54:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (N)",12:54 PM,,,,,
+Dec-07-2023 07:51 AM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$5.90,2023-12-07T15:39:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",07:51 AM,,,,,
+Dec-07-2023 07:47 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-07T15:39:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",07:47 AM,,,,,
+Dec-07-2023 07:39 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-07T15:39:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:39 AM,,,,,
+Dec-05-2023 03:51 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$5.90,2023-12-05T23:51:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",03:51 PM,,,,,
+Dec-05-2023 07:47 AM,Transfer at Bus Stop 58037,3 Zone UPass (N),,$0.00,$5.90,2023-12-05T15:38:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (N)",07:47 AM,,,,,
+Dec-05-2023 07:38 AM,Tap in at Bus Stop 50310,3 Zone UPass (N),,$0.00,$5.90,2023-12-05T15:38:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (N)",07:38 AM,,,,,
+Dec-04-2023 04:06 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$5.90,2023-12-05T00:06:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",04:06 PM,,,,,
+Dec-04-2023 07:51 AM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$5.90,2023-12-04T15:42:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",07:51 AM,,,,,
+Dec-04-2023 07:42 AM,Tap in at Bus Stop 50471,3 Zone UPass (N),,$0.00,$5.90,2023-12-04T15:42:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (N)",07:42 AM,,,,,
+Dec-03-2023 05:30 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-04T01:10:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",05:30 PM,,,,,
+Dec-03-2023 05:23 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-12-04T01:10:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",05:23 PM,,,,,
+Dec-03-2023 05:10 PM,Tap in at Bus Stop 50871,3 Zone UPass (N),,$0.00,$5.90,2023-12-04T01:10:00.0000000Z,"Tap in at Bus Stop 50871
+3 Zone UPass (N)",05:10 PM,,,,,
+Dec-03-2023 06:44 AM,Tap in at Bus Stop 50315,3 Zone UPass (N),,$0.00,$5.90,2023-12-03T14:44:00.0000000Z,"Tap in at Bus Stop 50315
+3 Zone UPass (N)",06:44 AM,,,,,
+Dec-02-2023 02:34 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$5.90,2023-12-02T22:34:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",02:34 PM,,,,,
+Dec-02-2023 07:51 AM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$5.90,2023-12-02T15:34:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",07:51 AM,,,,,
+Dec-02-2023 07:34 AM,Tap in at Bus Stop 50469,3 Zone UPass (N),,$0.00,$5.90,2023-12-02T15:34:00.0000000Z,"Tap in at Bus Stop 50469
+3 Zone UPass (N)",07:34 AM,,,,,
+Dec-01-2023 08:43 PM,Tap in at Bus Stop 51492,3 Zone UPass (N),,$0.00,$5.90,2023-12-02T04:43:00.0000000Z,"Tap in at Bus Stop 51492
+3 Zone UPass (N)",08:43 PM,,,,,
+Nov-30-2023 09:45 PM,Tap in at Bus Stop 61292,3 Zone UPass (N),,$0.00,$5.90,2023-12-01T05:45:00.0000000Z,"Tap in at Bus Stop 61292
+3 Zone UPass (N)",09:45 PM,,,,,
+Nov-30-2023 05:52 PM,Tap in at Bus Stop 54826,3 Zone UPass (N),,$0.00,$5.90,2023-12-01T01:52:00.0000000Z,"Tap in at Bus Stop 54826
+3 Zone UPass (N)",05:52 PM,,,,,
+Nov-30-2023 07:54 AM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$5.90,2023-11-30T15:38:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",07:54 AM,,,,,
+Nov-30-2023 07:48 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-30T15:38:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",07:48 AM,,,,,
+Nov-30-2023 07:38 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-30T15:38:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:38 AM,,,,,
+Nov-29-2023 05:27 PM,Transfer at Bus Stop 50419,3 Zone UPass (N),,$0.00,$5.90,2023-11-30T00:00:00.0000000Z,"Transfer at Bus Stop 50419
+3 Zone UPass (N)",05:27 PM,,,,,
+Nov-29-2023 05:27 PM,Loaded at Bus Stop 50419,3 Zone UPass (N),,$0.00,$5.90,,"Loaded at Bus Stop 50419
+3 Zone UPass (N)",05:27 PM,,,,,
+Nov-29-2023 04:59 PM,Transfer at Bus Stop 50364,3 Zone UPass (N),,$0.00,$5.90,2023-11-30T00:00:00.0000000Z,"Transfer at Bus Stop 50364
+3 Zone UPass (N)",04:59 PM,,,,,
+Nov-29-2023 04:00 PM,Tap in at Bus Stop 51574,3 Zone UPass (N),,$0.00,$5.90,2023-11-30T00:00:00.0000000Z,"Tap in at Bus Stop 51574
+3 Zone UPass (N)",04:00 PM,,,,,
+Nov-28-2023 08:06 PM,Transfer at Bus Stop 50412,3 Zone UPass (N),,$0.00,$5.90,2023-11-29T03:28:00.0000000Z,"Transfer at Bus Stop 50412
+3 Zone UPass (N)",08:06 PM,,,,,
+Nov-28-2023 07:39 PM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-29T03:28:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",07:39 PM,,,,,
+Nov-28-2023 07:28 PM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-29T03:28:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:28 PM,,,,,
+Nov-28-2023 05:09 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-28T23:53:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",05:09 PM,,,,,
+Nov-28-2023 05:03 PM,Transfer at Marine Drive Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-28T23:53:00.0000000Z,"Transfer at Marine Drive Stn
+3 Zone UPass (N)",05:03 PM,,,,,
+Nov-28-2023 04:55 PM,Tap out at Marine Drive Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-28T23:53:00.0000000Z,"Tap out at Marine Drive Stn
+3 Zone UPass (N)",04:55 PM,,,,,
+Nov-28-2023 04:43 PM,Transfer at King Edward Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-28T23:53:00.0000000Z,"Transfer at King Edward Stn
+3 Zone UPass (N)",04:43 PM,,,,,
+Nov-28-2023 04:31 PM,Transfer at Bus Stop 50526,3 Zone UPass (N),,$0.00,$5.90,2023-11-28T23:53:00.0000000Z,"Transfer at Bus Stop 50526
+3 Zone UPass (N)",04:31 PM,,,,,
+Nov-28-2023 03:53 PM,Tap in at Bus Stop 60494,3 Zone UPass (N),,$0.00,$5.90,2023-11-28T23:53:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (N)",03:53 PM,,,,,
+Nov-28-2023 07:41 AM,Transfer at Bus Stop 58037,3 Zone UPass (N),,$0.00,$5.90,2023-11-28T15:36:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (N)",07:41 AM,,,,,
+Nov-28-2023 07:36 AM,Tap in at Bus Stop 50310,3 Zone UPass (N),,$0.00,$5.90,2023-11-28T15:36:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (N)",07:36 AM,,,,,
+Nov-27-2023 05:59 PM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$5.90,2023-11-28T01:54:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",05:59 PM,,,,,
+Nov-27-2023 05:54 PM,Tap in at Bus Stop 50469,3 Zone UPass (N),,$0.00,$5.90,2023-11-28T01:54:00.0000000Z,"Tap in at Bus Stop 50469
+3 Zone UPass (N)",05:54 PM,,,,,
+Nov-27-2023 04:30 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-28T00:23:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",04:30 PM,,,,,
+Nov-27-2023 04:23 PM,Tap in at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-28T00:23:00.0000000Z,"Tap in at Broadway-City Hall Stn
+3 Zone UPass (N)",04:23 PM,,,,,
+Nov-27-2023 07:43 AM,Transfer at Bus Stop 58037,3 Zone UPass (N),,$0.00,$5.90,2023-11-27T15:39:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (N)",07:43 AM,,,,,
+Nov-27-2023 07:39 AM,Tap in at Bus Stop 50310,3 Zone UPass (N),,$0.00,$5.90,2023-11-27T15:39:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (N)",07:39 AM,,,,,
+Nov-26-2023 02:20 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$5.90,2023-11-26T22:20:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",02:20 PM,,,,,
+Nov-26-2023 07:55 AM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$5.90,2023-11-26T15:40:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",07:55 AM,,,,,
+Nov-26-2023 07:51 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-26T15:40:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",07:51 AM,,,,,
+Nov-26-2023 07:40 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-26T15:40:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:40 AM,,,,,
+Nov-25-2023 03:56 PM,Transfer at Bus Stop 51787,3 Zone UPass (N),,$0.00,$5.90,2023-11-25T23:45:00.0000000Z,"Transfer at Bus Stop 51787
+3 Zone UPass (N)",03:56 PM,,,,,
+Nov-25-2023 03:52 PM,Tap out at Joyce Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-25T23:45:00.0000000Z,"Tap out at Joyce Stn
+3 Zone UPass (N)",03:52 PM,,,,,
+Nov-25-2023 03:45 PM,Tap in at Metrotown Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-25T23:45:00.0000000Z,"Tap in at Metrotown Stn
+3 Zone UPass (N)",03:45 PM,,,,,
+Nov-25-2023 12:05 PM,Tap out at Metrotown Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-25T19:39:00.0000000Z,"Tap out at Metrotown Stn
+3 Zone UPass (N)",12:05 PM,,,,,
+Nov-25-2023 11:58 AM,Transfer at Joyce Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-25T19:39:00.0000000Z,"Transfer at Joyce Stn
+3 Zone UPass (N)",11:58 AM,,,,,
+Nov-25-2023 11:39 AM,Tap in at Bus Stop 60349,3 Zone UPass (N),,$0.00,$5.90,2023-11-25T19:39:00.0000000Z,"Tap in at Bus Stop 60349
+3 Zone UPass (N)",11:39 AM,,,,,
+Nov-24-2023 04:43 PM,Transfer at Bus Stop 50419,3 Zone UPass (N),,$0.00,$5.90,2023-11-25T00:21:00.0000000Z,"Transfer at Bus Stop 50419
+3 Zone UPass (N)",04:43 PM,,,,,
+Nov-24-2023 04:21 PM,Tap in at Bus Stop 50362,3 Zone UPass (N),,$0.00,$5.90,2023-11-25T00:21:00.0000000Z,"Tap in at Bus Stop 50362
+3 Zone UPass (N)",04:21 PM,,,,,
+Nov-24-2023 10:51 AM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$5.90,2023-11-24T18:44:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",10:51 AM,,,,,
+Nov-24-2023 10:44 AM,Tap in at Bus Stop 50469,3 Zone UPass (N),,$0.00,$5.90,2023-11-24T18:44:00.0000000Z,"Tap in at Bus Stop 50469
+3 Zone UPass (N)",10:44 AM,,,,,
+Nov-23-2023 10:55 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-24T06:41:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",10:55 PM,,,,,
+Nov-23-2023 10:41 PM,Tap in at Vancouver City Centre Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-24T06:41:00.0000000Z,"Tap in at Vancouver City Centre Stn
+3 Zone UPass (N)",10:41 PM,,,,,
+Nov-23-2023 06:33 PM,Tap out at Vancouver City Centre Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-24T02:21:00.0000000Z,"Tap out at Vancouver City Centre Stn
+3 Zone UPass (N)",06:33 PM,,,,,
+Nov-23-2023 06:21 PM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-24T02:21:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",06:21 PM,,,,,
+Nov-23-2023 03:00 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-23T22:51:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",03:00 PM,,,,,
+Nov-23-2023 02:51 PM,Tap in at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-23T22:51:00.0000000Z,"Tap in at Broadway-City Hall Stn
+3 Zone UPass (N)",02:51 PM,,,,,
+Nov-23-2023 07:40 AM,Transfer at Bus Stop 58037,3 Zone UPass (N),,$0.00,$5.90,2023-11-23T15:36:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (N)",07:40 AM,,,,,
+Nov-23-2023 07:36 AM,Tap in at Bus Stop 50312,3 Zone UPass (N),,$0.00,$5.90,2023-11-23T15:36:00.0000000Z,"Tap in at Bus Stop 50312
+3 Zone UPass (N)",07:36 AM,,,,,
+Nov-22-2023 11:24 AM,Transfer at Bus Stop 51480,3 Zone UPass (N),,$0.00,$5.90,2023-11-22T18:46:00.0000000Z,"Transfer at Bus Stop 51480
+3 Zone UPass (N)",11:24 AM,,,,,
+Nov-22-2023 10:46 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$5.90,2023-11-22T18:46:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",10:46 AM,,,,,
+Nov-21-2023 03:50 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$5.90,2023-11-21T23:50:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",03:50 PM,,,,,
+Nov-21-2023 07:58 AM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$5.90,2023-11-21T15:48:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",07:58 AM,,,,,
+Nov-21-2023 07:54 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-21T15:48:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",07:54 AM,,,,,
+Nov-21-2023 07:48 AM,Tap in at King Edward Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-21T15:48:00.0000000Z,"Tap in at King Edward Stn
+3 Zone UPass (N)",07:48 AM,,,,,
+Nov-20-2023 03:30 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-20T23:01:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",03:30 PM,,,,,
+Nov-20-2023 03:22 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-20T23:01:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",03:22 PM,,,,,
+Nov-20-2023 03:01 PM,Tap in at Bus Stop 60494,3 Zone UPass (N),,$0.00,$5.90,2023-11-20T23:01:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (N)",03:01 PM,,,,,
+Nov-20-2023 07:48 AM,Transfer at Bus Stop 58037,3 Zone UPass (N),,$0.00,$5.90,2023-11-20T15:37:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (N)",07:48 AM,,,,,
+Nov-20-2023 07:37 AM,Tap in at Bus Stop 50310,3 Zone UPass (N),,$0.00,$5.90,2023-11-20T15:37:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (N)",07:37 AM,,,,,
+Nov-19-2023 03:03 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$5.90,2023-11-19T23:03:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",03:03 PM,,,,,
+Nov-19-2023 07:41 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$5.90,2023-11-19T15:41:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",07:41 AM,,,,,
+Nov-16-2023 02:52 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$5.90,2023-11-16T22:52:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",02:52 PM,,,,,
+Nov-16-2023 08:03 AM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$5.90,2023-11-16T15:47:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",08:03 AM,,,,,
+Nov-16-2023 07:47 AM,Tap in at Bus Stop 50471,3 Zone UPass (N),,$0.00,$5.90,2023-11-16T15:47:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (N)",07:47 AM,,,,,
+Nov-15-2023 05:02 PM,Transfer at Bus Stop 50419,3 Zone UPass (N),,$0.00,$5.90,2023-11-16T00:25:00.0000000Z,"Transfer at Bus Stop 50419
+3 Zone UPass (N)",05:02 PM,,,,,
+Nov-15-2023 04:55 PM,Transfer at Bus Stop 51510,3 Zone UPass (N),,$0.00,$5.90,2023-11-16T00:25:00.0000000Z,"Transfer at Bus Stop 51510
+3 Zone UPass (N)",04:55 PM,,,,,
+Nov-15-2023 04:25 PM,Tap in at Bus Stop 50364,3 Zone UPass (N),,$0.00,$5.90,2023-11-16T00:25:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (N)",04:25 PM,,,,,
+Nov-15-2023 09:42 AM,Transfer at Bus Stop 50122,3 Zone UPass (N),,$0.00,$5.90,2023-11-15T16:57:00.0000000Z,"Transfer at Bus Stop 50122
+3 Zone UPass (N)",09:42 AM,,,,,
+Nov-15-2023 08:57 AM,Tap in at Bus Stop 50364,3 Zone UPass (N),,$0.00,$5.90,2023-11-15T16:57:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (N)",08:57 AM,,,,,
+Nov-14-2023 04:07 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$5.90,2023-11-14T23:47:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",04:07 PM,,,,,
+Nov-14-2023 03:47 PM,Tap in at Bus Stop 58501,3 Zone UPass (N),,$0.00,$5.90,2023-11-14T23:47:00.0000000Z,"Tap in at Bus Stop 58501
+3 Zone UPass (N)",03:47 PM,,,,,
+Nov-14-2023 07:47 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-14T15:40:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",07:47 AM,,,,,
+Nov-14-2023 07:40 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-14T15:40:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:40 AM,,,,,
+Nov-13-2023 03:43 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-13T23:33:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",03:43 PM,,,,,
+Nov-13-2023 03:33 PM,Tap in at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-13T23:33:00.0000000Z,"Tap in at Broadway-City Hall Stn
+3 Zone UPass (N)",03:33 PM,,,,,
+Nov-13-2023 07:45 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$5.90,2023-11-13T15:45:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",07:45 AM,,,,,
+Nov-12-2023 02:29 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$5.90,2023-11-12T22:29:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",02:29 PM,,,,,
+Nov-12-2023 07:42 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$5.90,2023-11-12T15:42:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",07:42 AM,,,,,
+Nov-11-2023 07:34 PM,Tap in at Bus Stop 60575,3 Zone UPass (N),,$0.00,$5.90,2023-11-12T03:34:00.0000000Z,"Tap in at Bus Stop 60575
+3 Zone UPass (N)",07:34 PM,,,,,
+Nov-09-2023 09:13 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-10T04:37:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",09:13 PM,,,,,
+Nov-09-2023 09:02 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-10T04:37:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",09:02 PM,,,,,
+Nov-09-2023 08:37 PM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$5.90,2023-11-10T04:37:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",08:37 PM,,,,,
+Nov-09-2023 04:43 PM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$5.90,2023-11-10T00:43:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",04:43 PM,,,,,
+Nov-09-2023 02:48 PM,Tap in at Bus Stop 58501,3 Zone UPass (N),,$0.00,$5.90,2023-11-09T22:48:00.0000000Z,"Tap in at Bus Stop 58501
+3 Zone UPass (N)",02:48 PM,,,,,
+Nov-09-2023 07:44 AM,Transfer at Bus Stop 58037,3 Zone UPass (N),,$0.00,$5.90,2023-11-09T15:00:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (N)",07:44 AM,,,,,
+Nov-09-2023 07:00 AM,Tap in at Bus Stop 50310,3 Zone UPass (N),,$0.00,$5.90,2023-11-09T15:00:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (N)",07:00 AM,,,,,
+Nov-08-2023 09:21 AM,Tap in at Bus Stop 61281,3 Zone UPass (N),,$0.00,$5.90,2023-11-08T17:21:00.0000000Z,"Tap in at Bus Stop 61281
+3 Zone UPass (N)",09:21 AM,,,,,
+Nov-07-2023 08:55 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-08T04:21:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",08:55 PM,,,,,
+Nov-07-2023 08:47 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-08T04:21:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",08:47 PM,,,,,
+Nov-07-2023 08:30 PM,Transfer at Bus Stop 58037,3 Zone UPass (N),,$0.00,$5.90,2023-11-08T04:21:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (N)",08:30 PM,,,,,
+Nov-07-2023 08:21 PM,Tap in at Bus Stop 50355,3 Zone UPass (N),,$0.00,$5.90,2023-11-08T04:21:00.0000000Z,"Tap in at Bus Stop 50355
+3 Zone UPass (N)",08:21 PM,,,,,
+Nov-07-2023 05:16 PM,Transfer at Bus Stop 50357,3 Zone UPass (N),,$0.00,$5.90,2023-11-07T23:50:00.0000000Z,"Transfer at Bus Stop 50357
+3 Zone UPass (N)",05:16 PM,,,,,
+Nov-07-2023 03:50 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$5.90,2023-11-07T23:50:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",03:50 PM,,,,,
+Nov-07-2023 07:51 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$5.90,2023-11-07T15:51:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",07:51 AM,,,,,
+Nov-06-2023 03:40 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$5.90,2023-11-06T23:26:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",03:40 PM,,,,,
+Nov-06-2023 03:26 PM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$5.90,2023-11-06T23:26:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",03:26 PM,,,,,
+Nov-06-2023 07:41 AM,Transfer at Bus Stop 58037,3 Zone UPass (N),,$0.00,$5.90,2023-11-06T15:36:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (N)",07:41 AM,,,,,
+Nov-06-2023 07:36 AM,Tap in at Bus Stop 50310,3 Zone UPass (N),,$0.00,$5.90,2023-11-06T15:36:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (N)",07:36 AM,,,,,
+Nov-05-2023 07:45 PM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$5.90,2023-11-06T03:18:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",07:45 PM,,,,,
+Nov-05-2023 07:28 PM,Tap out at King Edward Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-06T03:18:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (N)",07:28 PM,,,,,
+Nov-05-2023 07:18 PM,Tap in at Vancouver City Centre Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-06T03:18:00.0000000Z,"Tap in at Vancouver City Centre Stn
+3 Zone UPass (N)",07:18 PM,,,,,
+Nov-05-2023 04:13 PM,Tap out at Yaletown-Roundhouse Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-05T23:51:00.0000000Z,"Tap out at Yaletown-Roundhouse Stn
+3 Zone UPass (N)",04:13 PM,,,,,
+Nov-05-2023 04:06 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-05T23:51:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",04:06 PM,,,,,
+Nov-05-2023 03:51 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$5.90,2023-11-05T23:51:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",03:51 PM,,,,,
+Nov-05-2023 02:32 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$5.90,2023-11-05T22:14:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",02:32 PM,,,,,
+Nov-05-2023 02:14 PM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$5.90,2023-11-05T22:14:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",02:14 PM,,,,,
+Nov-05-2023 08:00 AM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$5.90,2023-11-05T15:43:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",08:00 AM,,,,,
+Nov-05-2023 07:51 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-05T15:43:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",07:51 AM,,,,,
+Nov-05-2023 07:43 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-05T15:43:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:43 AM,,,,,
+Nov-04-2023 12:46 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-04T19:06:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",12:46 PM,,,,,
+Nov-04-2023 12:38 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-04T19:06:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",12:38 PM,,,,,
+Nov-04-2023 12:13 PM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-04T19:06:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",12:13 PM,,,,,
+Nov-04-2023 12:06 PM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$5.90,2023-11-04T19:06:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",12:06 PM,,,,,
+Nov-03-2023 04:23 PM,Transfer at Bus Stop 50364,3 Zone UPass (N),,$0.00,$5.90,2023-11-03T22:18:00.0000000Z,"Transfer at Bus Stop 50364
+3 Zone UPass (N)",04:23 PM,,,,,
+Nov-03-2023 03:18 PM,Tap in at Bus Stop 50583,3 Zone UPass (N),,$0.00,$5.90,2023-11-03T22:18:00.0000000Z,"Tap in at Bus Stop 50583
+3 Zone UPass (N)",03:18 PM,,,,,
+Nov-03-2023 12:49 PM,Tap in at Bus Stop 50308,3 Zone UPass (N),,$0.00,$5.90,2023-11-03T19:49:00.0000000Z,"Tap in at Bus Stop 50308
+3 Zone UPass (N)",12:49 PM,,,,,
+Nov-02-2023 04:39 PM,Tap in at Bus Stop 58501,3 Zone UPass (N),,$0.00,$5.90,2023-11-02T23:39:00.0000000Z,"Tap in at Bus Stop 58501
+3 Zone UPass (N)",04:39 PM,,,,,
+Nov-02-2023 07:41 AM,Tap in at Bus Stop 50471,3 Zone UPass (N),,$0.00,$5.90,2023-11-02T14:41:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (N)",07:41 AM,,,,,
+Nov-01-2023 10:21 PM,Tap in at Bus Stop 61095,3 Zone UPass (N),,$0.00,$5.90,2023-11-02T05:21:00.0000000Z,"Tap in at Bus Stop 61095
+3 Zone UPass (N)",10:21 PM,,,,,
+Nov-01-2023 08:41 PM,Tap in at Bus Stop 51492,3 Zone UPass (N),,$0.00,$5.90,2023-11-02T03:41:00.0000000Z,"Tap in at Bus Stop 51492
+3 Zone UPass (N)",08:41 PM,,,,,
+Oct-31-2023 01:52 PM,Transfer at Bus Stop 60575,3 Zone UPass (C),,$0.00,$5.90,2023-10-31T20:37:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (C)",01:52 PM,,,,,
+Oct-31-2023 01:37 PM,Tap in at Bus Stop 50540,3 Zone UPass (C),,$0.00,$5.90,2023-10-31T20:37:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (C)",01:37 PM,,,,,
+Oct-31-2023 01:37 PM,Loaded at Bus Stop 50540,3 Zone UPass (N),,$0.00,$5.90,,"Loaded at Bus Stop 50540
+3 Zone UPass (N)",01:37 PM,,,,,
+Oct-31-2023 07:35 AM,Transfer at Bus Stop 58037,3 Zone UPass (C),,$0.00,$5.90,2023-10-31T14:27:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (C)",07:35 AM,,,,,
+Oct-31-2023 07:27 AM,Tap in at Bus Stop 50310,3 Zone UPass (C),,$0.00,$5.90,2023-10-31T14:27:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (C)",07:27 AM,,,,,
+Oct-30-2023 03:05 PM,Tap in at Bus Stop 50537,3 Zone UPass (C),,$0.00,$5.90,2023-10-30T22:05:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (C)",03:05 PM,,,,,
+Oct-30-2023 07:51 AM,Transfer at Bus Stop 58501,3 Zone UPass (C),,$0.00,$5.90,2023-10-30T14:41:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (C)",07:51 AM,,,,,
+Oct-30-2023 07:41 AM,Tap in at Bus Stop 50471,3 Zone UPass (C),,$0.00,$5.90,2023-10-30T14:41:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (C)",07:41 AM,,,,,
+Oct-29-2023 03:16 PM,Transfer at Bus Stop 50412,3 Zone UPass (C),,$0.00,$5.90,2023-10-29T21:35:00.0000000Z,"Transfer at Bus Stop 50412
+3 Zone UPass (C)",03:16 PM,,,,,
+Oct-29-2023 02:35 PM,Tap in at Bus Stop 60494,3 Zone UPass (C),,$0.00,$5.90,2023-10-29T21:35:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (C)",02:35 PM,,,,,
+Oct-29-2023 07:54 AM,Transfer at Bus Stop 58501,3 Zone UPass (C),,$0.00,$5.90,2023-10-29T14:38:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (C)",07:54 AM,,,,,
+Oct-29-2023 07:45 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-29T14:38:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (C)",07:45 AM,,,,,
+Oct-29-2023 07:38 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-29T14:38:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (C)",07:38 AM,,,,,
+Oct-28-2023 06:26 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-29T01:11:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (C)",06:26 PM,,,,,
+Oct-28-2023 06:11 PM,Tap in at Waterfront Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-29T01:11:00.0000000Z,"Tap in at Waterfront Stn
+3 Zone UPass (C)",06:11 PM,,,,,
+Oct-28-2023 03:52 PM,Tap out at Waterfront Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-28T22:11:00.0000000Z,"Tap out at Waterfront Stn
+3 Zone UPass (C)",03:52 PM,,,,,
+Oct-28-2023 03:52 PM,Transfer at Waterfront Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-28T22:11:00.0000000Z,"Transfer at Waterfront Stn
+3 Zone UPass (C)",03:52 PM,,,,,
+Oct-28-2023 03:11 PM,Tap in at Bus Stop 61935,3 Zone UPass (C),,$0.00,$5.90,2023-10-28T22:11:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (C)",03:11 PM,,,,,
+Oct-28-2023 01:24 PM,Tap in at Bus Stop 51592,3 Zone UPass (C),,$0.00,$5.90,2023-10-28T20:24:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (C)",01:24 PM,,,,,
+Oct-28-2023 10:12 AM,Tap in at Bus Stop 50355,3 Zone UPass (C),,$0.00,$5.90,2023-10-28T17:12:00.0000000Z,"Tap in at Bus Stop 50355
+3 Zone UPass (C)",10:12 AM,,,,,
+Oct-27-2023 01:31 PM,Transfer at Bus Stop 50298,3 Zone UPass (C),,$0.00,$5.90,2023-10-27T19:56:00.0000000Z,"Transfer at Bus Stop 50298
+3 Zone UPass (C)",01:31 PM,,,,,
+Oct-27-2023 12:56 PM,Tap in at Bus Stop 50364,3 Zone UPass (C),,$0.00,$5.90,2023-10-27T19:56:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (C)",12:56 PM,,,,,
+Oct-26-2023 04:39 PM,Transfer at Bus Stop 51479,3 Zone UPass (C),,$0.00,$5.90,2023-10-26T22:53:00.0000000Z,"Transfer at Bus Stop 51479
+3 Zone UPass (C)",04:39 PM,,,,,
+Oct-26-2023 04:16 PM,Transfer at Bus Stop 61580,3 Zone UPass (C),,$0.00,$5.90,2023-10-26T22:53:00.0000000Z,"Transfer at Bus Stop 61580
+3 Zone UPass (C)",04:16 PM,,,,,
+Oct-26-2023 03:53 PM,Tap in at Bus Stop 51592,3 Zone UPass (C),,$0.00,$5.90,2023-10-26T22:53:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (C)",03:53 PM,,,,,
+Oct-26-2023 02:25 PM,Transfer at Bus Stop 60575,3 Zone UPass (C),,$0.00,$5.90,2023-10-26T21:03:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (C)",02:25 PM,,,,,
+Oct-26-2023 02:03 PM,Tap in at Bus Stop 58501,3 Zone UPass (C),,$0.00,$5.90,2023-10-26T21:03:00.0000000Z,"Tap in at Bus Stop 58501
+3 Zone UPass (C)",02:03 PM,,,,,
+Oct-26-2023 07:39 AM,Tap in at Bus Stop 50471,3 Zone UPass (C),,$0.00,$5.90,2023-10-26T14:39:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (C)",07:39 AM,,,,,
+Oct-25-2023 05:14 PM,Transfer at Bus Stop 50419,3 Zone UPass (C),,$0.00,$5.90,2023-10-25T23:40:00.0000000Z,"Transfer at Bus Stop 50419
+3 Zone UPass (C)",05:14 PM,,,,,
+Oct-25-2023 04:40 PM,Tap in at Bus Stop 50364,3 Zone UPass (C),,$0.00,$5.90,2023-10-25T23:40:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (C)",04:40 PM,,,,,
+Oct-24-2023 04:10 PM,Tap in at Bus Stop 50537,3 Zone UPass (C),,$0.00,$5.90,2023-10-24T23:10:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (C)",04:10 PM,,,,,
+Oct-24-2023 07:41 AM,Tap in at Bus Stop 58037,3 Zone UPass (C),,$0.00,$5.90,2023-10-24T14:41:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (C)",07:41 AM,,,,,
+Oct-23-2023 03:21 PM,Transfer at Bus Stop 50355,3 Zone UPass (C),,$0.00,$5.90,2023-10-23T21:37:00.0000000Z,"Transfer at Bus Stop 50355
+3 Zone UPass (C)",03:21 PM,,,,,
+Oct-23-2023 03:05 PM,Transfer at Bus Stop 50587,3 Zone UPass (C),,$0.00,$5.90,2023-10-23T21:37:00.0000000Z,"Transfer at Bus Stop 50587
+3 Zone UPass (C)",03:05 PM,,,,,
+Oct-23-2023 02:37 PM,Tap in at Bus Stop 50540,3 Zone UPass (C),,$0.00,$5.90,2023-10-23T21:37:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (C)",02:37 PM,,,,,
+Oct-23-2023 07:50 AM,Transfer at Bus Stop 58501,3 Zone UPass (C),,$0.00,$5.90,2023-10-23T14:36:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (C)",07:50 AM,,,,,
+Oct-23-2023 07:43 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-23T14:36:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (C)",07:43 AM,,,,,
+Oct-23-2023 07:36 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-23T14:36:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (C)",07:36 AM,,,,,
+Oct-22-2023 03:55 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-22T22:23:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (C)",03:55 PM,,,,,
+Oct-22-2023 03:49 PM,Transfer at Marine Drive Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-22T22:23:00.0000000Z,"Transfer at Marine Drive Stn
+3 Zone UPass (C)",03:49 PM,,,,,
+Oct-22-2023 03:40 PM,Tap out at Marine Drive Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-22T22:23:00.0000000Z,"Tap out at Marine Drive Stn
+3 Zone UPass (C)",03:40 PM,,,,,
+Oct-22-2023 03:29 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-22T22:23:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (C)",03:29 PM,,,,,
+Oct-22-2023 03:23 PM,Tap in at Bus Stop 60494,3 Zone UPass (C),,$0.00,$5.90,2023-10-22T22:23:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (C)",03:23 PM,,,,,
+Oct-22-2023 07:42 AM,Tap in at Bus Stop 58037,3 Zone UPass (C),,$0.00,$5.90,2023-10-22T14:42:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (C)",07:42 AM,,,,,
+Oct-21-2023 02:54 PM,Tap in at Bus Stop 50537,3 Zone UPass (C),,$0.00,$5.90,2023-10-21T21:54:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (C)",02:54 PM,,,,,
+Oct-21-2023 08:13 AM,Transfer at Bus Stop 58501,3 Zone UPass (C),,$0.00,$5.90,2023-10-21T14:45:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (C)",08:13 AM,,,,,
+Oct-21-2023 07:57 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-21T14:45:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (C)",07:57 AM,,,,,
+Oct-21-2023 07:45 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-21T14:45:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (C)",07:45 AM,,,,,
+Oct-20-2023 05:29 PM,Transfer at Bus Stop 50412,3 Zone UPass (C),,$0.00,$5.90,2023-10-20T23:50:00.0000000Z,"Transfer at Bus Stop 50412
+3 Zone UPass (C)",05:29 PM,,,,,
+Oct-20-2023 04:50 PM,Tap in at Bus Stop 60494,3 Zone UPass (C),,$0.00,$5.90,2023-10-20T23:50:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (C)",04:50 PM,,,,,
+Oct-20-2023 08:38 AM,Tap in at Bus Stop 58037,3 Zone UPass (C),,$0.00,$5.90,2023-10-20T15:38:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (C)",08:38 AM,,,,,
+Oct-19-2023 08:42 PM,Transfer at Bus Stop 51574,3 Zone UPass (C),,$0.00,$5.90,2023-10-20T03:04:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (C)",08:42 PM,,,,,
+Oct-19-2023 08:35 PM,Tap out at King Edward Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-20T03:04:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (C)",08:35 PM,,,,,
+Oct-19-2023 08:22 PM,Transfer at Vancouver City Centre Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-20T03:04:00.0000000Z,"Transfer at Vancouver City Centre Stn
+3 Zone UPass (C)",08:22 PM,,,,,
+Oct-19-2023 08:04 PM,Tap in at Bus Stop 61930,3 Zone UPass (C),,$0.00,$5.90,2023-10-20T03:04:00.0000000Z,"Tap in at Bus Stop 61930
+3 Zone UPass (C)",08:04 PM,,,,,
+Oct-19-2023 04:56 PM,Transfer at Bus Stop 58327,3 Zone UPass (C),,$0.00,$5.90,2023-10-19T23:27:00.0000000Z,"Transfer at Bus Stop 58327
+3 Zone UPass (C)",04:56 PM,,,,,
+Oct-19-2023 04:27 PM,Tap in at Bus Stop 50875,3 Zone UPass (C),,$0.00,$5.90,2023-10-19T23:27:00.0000000Z,"Tap in at Bus Stop 50875
+3 Zone UPass (C)",04:27 PM,,,,,
+Oct-19-2023 07:37 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-19T14:28:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (C)",07:37 AM,,,,,
+Oct-19-2023 07:28 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-19T14:28:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (C)",07:28 AM,,,,,
+Oct-18-2023 03:57 PM,Transfer at Bus Stop 50419,3 Zone UPass (C),,$0.00,$5.90,2023-10-18T21:42:00.0000000Z,"Transfer at Bus Stop 50419
+3 Zone UPass (C)",03:57 PM,,,,,
+Oct-18-2023 02:42 PM,Tap in at Bus Stop 50362,3 Zone UPass (C),,$0.00,$5.90,2023-10-18T21:42:00.0000000Z,"Tap in at Bus Stop 50362
+3 Zone UPass (C)",02:42 PM,,,,,
+Oct-18-2023 11:17 AM,Tap in at Bus Stop 50303,3 Zone UPass (C),,$0.00,$5.90,2023-10-18T18:17:00.0000000Z,"Tap in at Bus Stop 50303
+3 Zone UPass (C)",11:17 AM,,,,,
+Oct-17-2023 02:33 PM,Tap in at Bus Stop 50537,3 Zone UPass (C),,$0.00,$5.90,2023-10-17T21:33:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (C)",02:33 PM,,,,,
+Oct-17-2023 07:30 AM,Transfer at Bus Stop 58037,3 Zone UPass (C),,$0.00,$5.90,2023-10-17T14:25:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (C)",07:30 AM,,,,,
+Oct-17-2023 07:25 AM,Tap in at Bus Stop 50310,3 Zone UPass (C),,$0.00,$5.90,2023-10-17T14:25:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (C)",07:25 AM,,,,,
+Oct-16-2023 04:02 PM,Transfer at Bus Stop 60575,3 Zone UPass (C),,$0.00,$5.90,2023-10-16T22:47:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (C)",04:02 PM,,,,,
+Oct-16-2023 03:47 PM,Tap in at Bus Stop 50540,3 Zone UPass (C),,$0.00,$5.90,2023-10-16T22:47:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (C)",03:47 PM,,,,,
+Oct-16-2023 07:35 AM,Transfer at Bus Stop 58037,3 Zone UPass (C),,$0.00,$5.90,2023-10-16T14:24:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (C)",07:35 AM,,,,,
+Oct-16-2023 07:24 AM,Tap in at Bus Stop 50310,3 Zone UPass (C),,$0.00,$5.90,2023-10-16T14:24:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (C)",07:24 AM,,,,,
+Oct-15-2023 04:39 PM,Tap in at Bus Stop 50537,3 Zone UPass (C),,$0.00,$5.90,2023-10-15T23:39:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (C)",04:39 PM,,,,,
+Oct-15-2023 07:27 AM,Transfer at Bus Stop 58501,3 Zone UPass (C),,$0.00,$5.90,2023-10-15T14:13:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (C)",07:27 AM,,,,,
+Oct-15-2023 07:13 AM,Tap in at Bus Stop 50469,3 Zone UPass (C),,$0.00,$5.90,2023-10-15T14:13:00.0000000Z,"Tap in at Bus Stop 50469
+3 Zone UPass (C)",07:13 AM,,,,,
+Oct-14-2023 03:34 PM,Tap in at Bus Stop 50412,3 Zone UPass (C),,$0.00,$5.90,2023-10-14T22:34:00.0000000Z,"Tap in at Bus Stop 50412
+3 Zone UPass (C)",03:34 PM,,,,,
+Oct-14-2023 02:50 PM,Tap out at Broadway-City Hall Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-14T20:39:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (C)",02:50 PM,,,,,
+Oct-14-2023 02:31 PM,Transfer at Templeton Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-14T20:39:00.0000000Z,"Transfer at Templeton Stn
+3 Zone UPass (C)",02:31 PM,,,,,
+Oct-14-2023 01:52 PM,Tap out at Templeton Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-14T20:39:00.0000000Z,"Tap out at Templeton Stn
+3 Zone UPass (C)",01:52 PM,,,,,
+Oct-14-2023 01:39 PM,Tap in at Oakridge-41st Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-14T20:39:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (C)",01:39 PM,,,,,
+Oct-13-2023 05:48 PM,Tap in at Bus Stop 50364,3 Zone UPass (C),,$0.00,$5.90,2023-10-14T00:48:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (C)",05:48 PM,,,,,
+Oct-13-2023 12:10 PM,Tap in at Bus Stop 60158,3 Zone UPass (C),,$0.00,$5.90,2023-10-13T19:10:00.0000000Z,"Tap in at Bus Stop 60158
+3 Zone UPass (C)",12:10 PM,,,,,
+Oct-12-2023 10:32 PM,Tap in at Bus Stop 51128,3 Zone UPass (C),,$0.00,$5.90,2023-10-13T05:32:00.0000000Z,"Tap in at Bus Stop 51128
+3 Zone UPass (C)",10:32 PM,,,,,
+Oct-12-2023 05:48 PM,Transfer at Bus Stop 61281,3 Zone UPass (C),,$0.00,$5.90,2023-10-13T00:10:00.0000000Z,"Transfer at Bus Stop 61281
+3 Zone UPass (C)",05:48 PM,,,,,
+Oct-12-2023 05:19 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-13T00:10:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (C)",05:19 PM,,,,,
+Oct-12-2023 05:10 PM,Tap in at Broadway-City Hall Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-13T00:10:00.0000000Z,"Tap in at Broadway-City Hall Stn
+3 Zone UPass (C)",05:10 PM,,,,,
+Oct-12-2023 07:40 AM,Tap in at Bus Stop 58037,3 Zone UPass (C),,$0.00,$5.90,2023-10-12T14:40:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (C)",07:40 AM,,,,,
+Oct-11-2023 04:42 PM,Transfer at Bus Stop 60164,3 Zone UPass (C),,$0.00,$5.90,2023-10-11T22:22:00.0000000Z,"Transfer at Bus Stop 60164
+3 Zone UPass (C)",04:42 PM,,,,,
+Oct-11-2023 03:22 PM,Tap in at Bus Stop 51592,3 Zone UPass (C),,$0.00,$5.90,2023-10-11T22:22:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (C)",03:22 PM,,,,,
+Oct-11-2023 11:34 AM,Transfer at Bus Stop 50303,3 Zone UPass (C),,$0.00,$5.90,2023-10-11T18:07:00.0000000Z,"Transfer at Bus Stop 50303
+3 Zone UPass (C)",11:34 AM,,,,,
+Oct-11-2023 11:07 AM,Tap in at Bus Stop 61281,3 Zone UPass (C),,$0.00,$5.90,2023-10-11T18:07:00.0000000Z,"Tap in at Bus Stop 61281
+3 Zone UPass (C)",11:07 AM,,,,,
+Oct-10-2023 02:52 PM,Transfer at Bus Stop 58661,3 Zone UPass (C),,$0.00,$5.90,2023-10-10T21:16:00.0000000Z,"Transfer at Bus Stop 58661
+3 Zone UPass (C)",02:52 PM,,,,,
+Oct-10-2023 02:16 PM,Tap in at Bus Stop 50537,3 Zone UPass (C),,$0.00,$5.90,2023-10-10T21:16:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (C)",02:16 PM,,,,,
+Oct-10-2023 07:35 AM,Transfer at Bus Stop 58037,3 Zone UPass (C),,$0.00,$5.90,2023-10-10T14:27:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (C)",07:35 AM,,,,,
+Oct-10-2023 07:27 AM,Tap in at Bus Stop 50310,3 Zone UPass (C),,$0.00,$5.90,2023-10-10T14:27:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (C)",07:27 AM,,,,,
+Oct-09-2023 04:33 PM,Transfer at Bus Stop 60575,3 Zone UPass (C),,$0.00,$5.90,2023-10-09T23:15:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (C)",04:33 PM,,,,,
+Oct-09-2023 04:15 PM,Tap in at Bus Stop 50540,3 Zone UPass (C),,$0.00,$5.90,2023-10-09T23:15:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (C)",04:15 PM,,,,,
+Oct-09-2023 07:43 AM,Tap in at Bus Stop 58037,3 Zone UPass (C),,$0.00,$5.90,2023-10-09T14:43:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (C)",07:43 AM,,,,,
+Oct-08-2023 02:57 PM,Tap in at Bus Stop 50540,3 Zone UPass (C),,$0.00,$5.90,2023-10-08T21:57:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (C)",02:57 PM,,,,,
+Oct-08-2023 07:54 AM,Transfer at Bus Stop 58501,3 Zone UPass (C),,$0.00,$5.90,2023-10-08T14:33:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (C)",07:54 AM,,,,,
+Oct-08-2023 07:45 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-08T14:33:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (C)",07:45 AM,,,,,
+Oct-08-2023 07:33 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-08T14:33:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (C)",07:33 AM,,,,,
+Oct-07-2023 07:41 PM,Tap in at Bus Stop 58661,3 Zone UPass (C),,$0.00,$5.90,2023-10-08T02:41:00.0000000Z,"Tap in at Bus Stop 58661
+3 Zone UPass (C)",07:41 PM,,,,,
+Oct-07-2023 05:02 PM,Tap out at Olympic Village Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-07T22:54:00.0000000Z,"Tap out at Olympic Village Stn
+3 Zone UPass (C)",05:02 PM,,,,,
+Oct-07-2023 04:50 PM,Transfer at Oakridge-41st Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-07T22:54:00.0000000Z,"Transfer at Oakridge-41st Stn
+3 Zone UPass (C)",04:50 PM,,,,,
+Oct-07-2023 03:54 PM,Tap in at Bus Stop 50364,3 Zone UPass (C),,$0.00,$5.90,2023-10-07T22:54:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (C)",03:54 PM,,,,,
+Oct-05-2023 04:50 PM,Tap in at Bus Stop 58501,3 Zone UPass (C),,$0.00,$5.90,2023-10-05T23:50:00.0000000Z,"Tap in at Bus Stop 58501
+3 Zone UPass (C)",04:50 PM,,,,,
+Oct-05-2023 07:40 AM,Tap in at Bus Stop 58037,3 Zone UPass (C),,$0.00,$5.90,2023-10-05T14:40:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (C)",07:40 AM,,,,,
+Oct-04-2023 10:11 AM,Transfer at Bus Stop 58501,3 Zone UPass (C),,$0.00,$5.90,2023-10-04T16:54:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (C)",10:11 AM,,,,,
+Oct-04-2023 10:03 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-04T16:54:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (C)",10:03 AM,,,,,
+Oct-04-2023 09:54 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (C),,$0.00,$5.90,2023-10-04T16:54:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (C)",09:54 AM,,,,,
+Oct-03-2023 07:57 PM,Tap in at Bus Stop 60162,3 Zone UPass (C),,$0.00,$5.90,2023-10-04T02:57:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (C)",07:57 PM,,,,,
+Oct-03-2023 04:41 PM,Transfer at Bus Stop 60575,3 Zone UPass (C),,$0.00,$5.90,2023-10-03T23:27:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (C)",04:41 PM,,,,,
+Oct-03-2023 04:27 PM,Tap in at Bus Stop 50540,3 Zone UPass (C),,$0.00,$5.90,2023-10-03T23:27:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (C)",04:27 PM,,,,,
+Oct-03-2023 07:36 AM,Transfer at Bus Stop 58037,3 Zone UPass (C),,$0.00,$5.90,2023-10-03T14:26:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (C)",07:36 AM,,,,,
+Oct-03-2023 07:26 AM,Tap in at Bus Stop 50310,3 Zone UPass (C),,$0.00,$5.90,2023-10-03T14:26:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (C)",07:26 AM,,,,,
+Oct-02-2023 03:31 PM,Tap in at Bus Stop 50537,3 Zone UPass (C),,$0.00,$5.90,2023-10-02T22:31:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (C)",03:31 PM,,,,,
+Oct-02-2023 07:40 AM,Tap in at Bus Stop 58037,3 Zone UPass (C),,$0.00,$5.90,2023-10-02T14:40:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (C)",07:40 AM,,,,,
+Oct-02-2023 07:40 AM,Loaded at Bus Stop 58037,3 Zone UPass (C),,$0.00,$5.90,,"Loaded at Bus Stop 58037
+3 Zone UPass (C)",07:40 AM,,,,,
+Oct-01-2023 01:59 PM,Tap in at Bus Stop 50540,Stored Value,,-$2.55,$5.90,2023-10-01T20:59:00.0000000Z,"Tap in at Bus Stop 50540
+Stored Value",01:59 PM,,,,,
+Oct-01-2023 07:49 AM,Transfer at Bus Stop 50924,Stored Value,,$0.00,$8.45,2023-10-01T14:30:00.0000000Z,"Transfer at Bus Stop 50924
+Stored Value",07:49 AM,,,,,
+Oct-01-2023 07:40 AM,Tap out at Broadway-City Hall Stn,Stored Value,,$0.00,$8.45,2023-10-01T14:30:00.0000000Z,"Tap out at Broadway-City Hall Stn
+Stored Value",07:40 AM,,,,,
+Oct-01-2023 07:40 AM,Purchase at Broadway-City Hall Stn,Stored Value,,$10.00,$8.45,,"Purchase at Broadway-City Hall Stn
+Stored Value",07:40 AM,,,,,
+Oct-01-2023 07:30 AM,Tap in at Oakridge-41st Stn,Stored Value,,-$2.55,-$1.55,2023-10-01T14:30:00.0000000Z,"Tap in at Oakridge-41st Stn
+Stored Value",07:30 AM,,,,,
+Sep-30-2023 05:39 PM,Tap in at Bus Stop 50199,3 Zone UPass (N),,$0.00,$1.00,2023-10-01T00:39:00.0000000Z,"Tap in at Bus Stop 50199
+3 Zone UPass (N)",05:39 PM,,,,,
+Sep-28-2023 04:21 PM,Tap in at Bus Stop 58501,3 Zone UPass (N),,$0.00,$1.00,2023-09-28T23:21:00.0000000Z,"Tap in at Bus Stop 58501
+3 Zone UPass (N)",04:21 PM,,,,,
+Sep-28-2023 07:36 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-28T14:29:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",07:36 AM,,,,,
+Sep-28-2023 07:29 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-28T14:29:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:29 AM,,,,,
+Sep-26-2023 04:25 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-09-26T23:25:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",04:25 PM,,,,,
+Sep-26-2023 07:42 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-09-26T14:42:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",07:42 AM,,,,,
+Sep-25-2023 03:35 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-09-25T22:35:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",03:35 PM,,,,,
+Sep-25-2023 07:44 AM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$1.00,2023-09-25T14:30:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",07:44 AM,,,,,
+Sep-25-2023 07:40 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-25T14:30:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",07:40 AM,,,,,
+Sep-25-2023 07:30 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-25T14:30:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:30 AM,,,,,
+Sep-24-2023 02:36 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-09-24T21:36:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",02:36 PM,,,,,
+Sep-24-2023 07:41 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-09-24T14:41:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",07:41 AM,,,,,
+Sep-23-2023 07:38 PM,Tap in at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-09-24T02:38:00.0000000Z,"Tap in at Bus Stop 51574
+3 Zone UPass (N)",07:38 PM,,,,,
+Sep-23-2023 02:22 PM,Transfer at Bus Stop 50419,3 Zone UPass (N),,$0.00,$1.00,2023-09-23T20:24:00.0000000Z,"Transfer at Bus Stop 50419
+3 Zone UPass (N)",02:22 PM,,,,,
+Sep-23-2023 01:24 PM,Tap in at Bus Stop 51571,3 Zone UPass (N),,$0.00,$1.00,2023-09-23T20:24:00.0000000Z,"Tap in at Bus Stop 51571
+3 Zone UPass (N)",01:24 PM,,,,,
+Sep-22-2023 09:31 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-23T04:11:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",09:31 PM,,,,,
+Sep-22-2023 09:23 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-23T04:11:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",09:23 PM,,,,,
+Sep-22-2023 09:11 PM,Tap in at Bus Stop 50319,3 Zone UPass (N),,$0.00,$1.00,2023-09-23T04:11:00.0000000Z,"Tap in at Bus Stop 50319
+3 Zone UPass (N)",09:11 PM,,,,,
+Sep-22-2023 06:57 PM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$1.00,2023-09-23T00:33:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",06:57 PM,,,,,
+Sep-22-2023 06:50 PM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-23T00:33:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",06:50 PM,,,,,
+Sep-22-2023 06:42 PM,Transfer at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-23T00:33:00.0000000Z,"Transfer at Oakridge-41st Stn
+3 Zone UPass (N)",06:42 PM,,,,,
+Sep-22-2023 05:33 PM,Tap in at Bus Stop 60307,3 Zone UPass (N),,$0.00,$1.00,2023-09-23T00:33:00.0000000Z,"Tap in at Bus Stop 60307
+3 Zone UPass (N)",05:33 PM,,,,,
+Sep-22-2023 05:04 PM,Transfer at Bus Stop 50276,3 Zone UPass (N),,$0.00,$1.00,2023-09-22T22:35:00.0000000Z,"Transfer at Bus Stop 50276
+3 Zone UPass (N)",05:04 PM,,,,,
+Sep-22-2023 03:35 PM,Tap in at Bus Stop 50357,3 Zone UPass (N),,$0.00,$1.00,2023-09-22T22:35:00.0000000Z,"Tap in at Bus Stop 50357
+3 Zone UPass (N)",03:35 PM,,,,,
+Sep-21-2023 06:23 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$1.00,2023-09-22T00:55:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",06:23 PM,,,,,
+Sep-21-2023 05:55 PM,Tap in at Bus Stop 58501,3 Zone UPass (N),,$0.00,$1.00,2023-09-22T00:55:00.0000000Z,"Tap in at Bus Stop 58501
+3 Zone UPass (N)",05:55 PM,,,,,
+Sep-21-2023 07:43 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-21T14:35:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",07:43 AM,,,,,
+Sep-21-2023 07:35 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-21T14:35:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:35 AM,,,,,
+Sep-19-2023 04:01 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$1.00,2023-09-19T22:26:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",04:01 PM,,,,,
+Sep-19-2023 03:26 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-09-19T22:26:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",03:26 PM,,,,,
+Sep-19-2023 07:41 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-09-19T14:41:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",07:41 AM,,,,,
+Sep-18-2023 02:51 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-09-18T21:51:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",02:51 PM,,,,,
+Sep-18-2023 07:41 AM,Transfer at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-09-18T14:35:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (N)",07:41 AM,,,,,
+Sep-18-2023 07:35 AM,Tap in at Bus Stop 50310,3 Zone UPass (N),,$0.00,$1.00,2023-09-18T14:35:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (N)",07:35 AM,,,,,
+Sep-17-2023 02:57 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-09-17T21:57:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",02:57 PM,,,,,
+Sep-17-2023 08:03 AM,Transfer at Bus Stop 50924,3 Zone UPass (N),,$0.00,$1.00,2023-09-17T14:46:00.0000000Z,"Transfer at Bus Stop 50924
+3 Zone UPass (N)",08:03 AM,,,,,
+Sep-17-2023 07:57 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-17T14:46:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",07:57 AM,,,,,
+Sep-17-2023 07:46 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-17T14:46:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:46 AM,,,,,
+Sep-16-2023 03:30 PM,Transfer at Bus Stop 58432,3 Zone UPass (N),,$0.00,$1.00,2023-09-16T21:25:00.0000000Z,"Transfer at Bus Stop 58432
+3 Zone UPass (N)",03:30 PM,,,,,
+Sep-16-2023 03:14 PM,Tap out at Lougheed Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-16T21:25:00.0000000Z,"Tap out at Lougheed Stn
+3 Zone UPass (N)",03:14 PM,,,,,
+Sep-16-2023 02:44 PM,Transfer at Joyce Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-16T21:25:00.0000000Z,"Transfer at Joyce Stn
+3 Zone UPass (N)",02:44 PM,,,,,
+Sep-16-2023 02:25 PM,Tap in at Bus Stop 60349,3 Zone UPass (N),,$0.00,$1.00,2023-09-16T21:25:00.0000000Z,"Tap in at Bus Stop 60349
+3 Zone UPass (N)",02:25 PM,,,,,
+Sep-16-2023 01:54 PM,Transfer at Bus Stop 50419,3 Zone UPass (N),,$0.00,$1.00,2023-09-16T19:27:00.0000000Z,"Transfer at Bus Stop 50419
+3 Zone UPass (N)",01:54 PM,,,,,
+Sep-16-2023 01:26 PM,Transfer at Bus Stop 50364,3 Zone UPass (N),,$0.00,$1.00,2023-09-16T19:27:00.0000000Z,"Transfer at Bus Stop 50364
+3 Zone UPass (N)",01:26 PM,,,,,
+Sep-16-2023 12:27 PM,Tap in at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-09-16T19:27:00.0000000Z,"Tap in at Bus Stop 51574
+3 Zone UPass (N)",12:27 PM,,,,,
+Sep-15-2023 12:46 PM,Transfer at Bus Stop 50419,3 Zone UPass (N),,$0.00,$1.00,2023-09-15T19:35:00.0000000Z,"Transfer at Bus Stop 50419
+3 Zone UPass (N)",12:46 PM,,,,,
+Sep-15-2023 12:35 PM,Tap in at Bus Stop 51510,3 Zone UPass (N),,$0.00,$1.00,2023-09-15T19:35:00.0000000Z,"Tap in at Bus Stop 51510
+3 Zone UPass (N)",12:35 PM,,,,,
+Sep-14-2023 05:57 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$1.00,2023-09-15T00:32:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",05:57 PM,,,,,
+Sep-14-2023 05:32 PM,Tap in at Bus Stop 58501,3 Zone UPass (N),,$0.00,$1.00,2023-09-15T00:32:00.0000000Z,"Tap in at Bus Stop 58501
+3 Zone UPass (N)",05:32 PM,,,,,
+Sep-14-2023 07:50 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-14T14:43:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",07:50 AM,,,,,
+Sep-14-2023 07:43 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-14T14:43:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:43 AM,,,,,
+Sep-13-2023 11:37 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-09-13T18:37:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",11:37 AM,,,,,
+Sep-12-2023 03:46 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-09-12T22:46:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",03:46 PM,,,,,
+Sep-12-2023 07:53 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-09-12T14:53:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",07:53 AM,,,,,
+Sep-11-2023 03:23 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$1.00,2023-09-11T21:31:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",03:23 PM,,,,,
+Sep-11-2023 03:04 PM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$1.00,2023-09-11T21:31:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",03:04 PM,,,,,
+Sep-11-2023 02:31 PM,Tap in at Bus Stop 60494,3 Zone UPass (N),,$0.00,$1.00,2023-09-11T21:31:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (N)",02:31 PM,,,,,
+Sep-11-2023 07:51 AM,Transfer at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-09-11T14:43:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (N)",07:51 AM,,,,,
+Sep-11-2023 07:43 AM,Tap in at Bus Stop 50310,3 Zone UPass (N),,$0.00,$1.00,2023-09-11T14:43:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (N)",07:43 AM,,,,,
+Sep-10-2023 03:02 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-09-10T22:02:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",03:02 PM,,,,,
+Sep-09-2023 07:14 PM,Transfer at Bus Stop 50298,3 Zone UPass (N),,$0.00,$1.00,2023-09-10T02:00:00.0000000Z,"Transfer at Bus Stop 50298
+3 Zone UPass (N)",07:14 PM,,,,,
+Sep-09-2023 07:00 PM,Tap in at Bus Stop 60385,3 Zone UPass (N),,$0.00,$1.00,2023-09-10T02:00:00.0000000Z,"Tap in at Bus Stop 60385
+3 Zone UPass (N)",07:00 PM,,,,,
+Sep-09-2023 05:37 PM,Transfer at Bus Stop 60393,3 Zone UPass (N),,$0.00,$1.00,2023-09-10T00:25:00.0000000Z,"Transfer at Bus Stop 60393
+3 Zone UPass (N)",05:37 PM,,,,,
+Sep-09-2023 05:25 PM,Tap in at Bus Stop 50366,3 Zone UPass (N),,$0.00,$1.00,2023-09-10T00:25:00.0000000Z,"Tap in at Bus Stop 50366
+3 Zone UPass (N)",05:25 PM,,,,,
+Sep-07-2023 04:05 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$1.00,2023-09-07T22:40:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",04:05 PM,,,,,
+Sep-07-2023 03:40 PM,Tap in at Bus Stop 58501,3 Zone UPass (N),,$0.00,$1.00,2023-09-07T22:40:00.0000000Z,"Tap in at Bus Stop 58501
+3 Zone UPass (N)",03:40 PM,,,,,
+Sep-07-2023 07:33 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-07T14:24:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",07:33 AM,,,,,
+Sep-07-2023 07:24 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-07T14:24:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:24 AM,,,,,
+Sep-06-2023 12:21 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-06T17:56:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",12:21 PM,,,,,
+Sep-06-2023 12:16 PM,Transfer at Marine Drive Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-06T17:56:00.0000000Z,"Transfer at Marine Drive Stn
+3 Zone UPass (N)",12:16 PM,,,,,
+Sep-06-2023 11:57 AM,Tap out at Marine Drive Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-06T17:56:00.0000000Z,"Tap out at Marine Drive Stn
+3 Zone UPass (N)",11:57 AM,,,,,
+Sep-06-2023 11:37 AM,Transfer at Templeton Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-06T17:56:00.0000000Z,"Transfer at Templeton Stn
+3 Zone UPass (N)",11:37 AM,,,,,
+Sep-06-2023 11:12 AM,Tap out at Templeton Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-06T17:56:00.0000000Z,"Tap out at Templeton Stn
+3 Zone UPass (N)",11:12 AM,,,,,
+Sep-06-2023 10:56 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-06T17:56:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",10:56 AM,,,,,
+Sep-06-2023 09:53 AM,Transfer at Bus Stop 50412,3 Zone UPass (N),,$0.00,$1.00,2023-09-06T16:14:00.0000000Z,"Transfer at Bus Stop 50412
+3 Zone UPass (N)",09:53 AM,,,,,
+Sep-06-2023 09:20 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-06T16:14:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",09:20 AM,,,,,
+Sep-06-2023 09:14 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-06T16:14:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",09:14 AM,,,,,
+Sep-05-2023 03:40 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-05T22:22:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",03:40 PM,,,,,
+Sep-05-2023 03:30 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-05T22:22:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",03:30 PM,,,,,
+Sep-05-2023 03:22 PM,Tap in at Bus Stop 60494,3 Zone UPass (N),,$0.00,$1.00,2023-09-05T22:22:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (N)",03:22 PM,,,,,
+Sep-05-2023 07:36 AM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$1.00,2023-09-05T14:23:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",07:36 AM,,,,,
+Sep-05-2023 07:33 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-05T14:23:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",07:33 AM,,,,,
+Sep-05-2023 07:23 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-05T14:23:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:23 AM,,,,,
+Sep-04-2023 08:34 PM,Tap in at Bus Stop 52087,3 Zone UPass (N),,$0.00,$1.00,2023-09-05T03:34:00.0000000Z,"Tap in at Bus Stop 52087
+3 Zone UPass (N)",08:34 PM,,,,,
+Sep-04-2023 05:06 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-09-05T00:06:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",05:06 PM,,,,,
+Sep-04-2023 03:34 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$1.00,2023-09-04T22:14:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",03:34 PM,,,,,
+Sep-04-2023 03:14 PM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-09-04T22:14:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",03:14 PM,,,,,
+Sep-04-2023 07:42 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-09-04T14:42:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",07:42 AM,,,,,
+Sep-03-2023 05:51 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$1.00,2023-09-04T00:24:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",05:51 PM,,,,,
+Sep-03-2023 05:24 PM,Tap in at Bus Stop 58501,3 Zone UPass (N),,$0.00,$1.00,2023-09-04T00:24:00.0000000Z,"Tap in at Bus Stop 58501
+3 Zone UPass (N)",05:24 PM,,,,,
+Sep-03-2023 07:43 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-09-03T14:43:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",07:43 AM,,,,,
+Sep-02-2023 10:30 AM,Transfer at Bus Stop 54134,3 Zone UPass (N),,$0.00,$1.00,2023-09-02T16:41:00.0000000Z,"Transfer at Bus Stop 54134
+3 Zone UPass (N)",10:30 AM,,,,,
+Sep-02-2023 10:29 AM,Tap out at Lonsdale Quay,3 Zone UPass (N),,$0.00,$1.00,2023-09-02T16:41:00.0000000Z,"Tap out at Lonsdale Quay
+3 Zone UPass (N)",10:29 AM,,,,,
+Sep-02-2023 10:14 AM,Transfer at Waterfront Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-02T16:41:00.0000000Z,"Transfer at Waterfront Stn
+3 Zone UPass (N)",10:14 AM,,,,,
+Sep-02-2023 09:41 AM,Tap in at Bus Stop 50308,3 Zone UPass (N),,$0.00,$1.00,2023-09-02T16:41:00.0000000Z,"Tap in at Bus Stop 50308
+3 Zone UPass (N)",09:41 AM,,,,,
+Sep-01-2023 09:07 PM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-09-02T03:47:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",09:07 PM,,,,,
+Sep-01-2023 08:59 PM,Tap out at King Edward Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-02T03:47:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (N)",08:59 PM,,,,,
+Sep-01-2023 08:47 PM,Tap in at Waterfront Stn,3 Zone UPass (N),,$0.00,$1.00,2023-09-02T03:47:00.0000000Z,"Tap in at Waterfront Stn
+3 Zone UPass (N)",08:47 PM,,,,,
+Sep-01-2023 05:58 PM,Tap in at Bus Stop 50310,3 Zone UPass (N),,$0.00,$1.00,2023-09-02T00:58:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (N)",05:58 PM,,,,,
+Sep-01-2023 03:45 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$1.00,2023-09-01T22:24:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",03:45 PM,,,,,
+Sep-01-2023 03:24 PM,Tap in at Bus Stop 58501,3 Zone UPass (N),,$0.00,$1.00,2023-09-01T22:24:00.0000000Z,"Tap in at Bus Stop 58501
+3 Zone UPass (N)",03:24 PM,,,,,
+Sep-01-2023 07:41 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-09-01T14:41:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",07:41 AM,,,,,
+Aug-31-2023 04:31 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$1.00,2023-08-31T23:13:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",04:31 PM,,,,,
+Aug-31-2023 04:13 PM,Tap in at Bus Stop 58501,3 Zone UPass (N),,$0.00,$1.00,2023-08-31T23:13:00.0000000Z,"Tap in at Bus Stop 58501
+3 Zone UPass (N)",04:13 PM,,,,,
+Aug-30-2023 06:07 PM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-08-31T00:20:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",06:07 PM,,,,,
+Aug-30-2023 05:20 PM,Tap in at Bus Stop 50412,3 Zone UPass (N),,$0.00,$1.00,2023-08-31T00:20:00.0000000Z,"Tap in at Bus Stop 50412
+3 Zone UPass (N)",05:20 PM,,,,,
+Aug-30-2023 07:42 AM,Transfer at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-08-30T14:38:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (N)",07:42 AM,,,,,
+Aug-30-2023 07:38 AM,Tap in at Bus Stop 50310,3 Zone UPass (N),,$0.00,$1.00,2023-08-30T14:38:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (N)",07:38 AM,,,,,
+Aug-29-2023 04:53 PM,Tap in at Bus Stop 58501,3 Zone UPass (N),,$0.00,$1.00,2023-08-29T23:53:00.0000000Z,"Tap in at Bus Stop 58501
+3 Zone UPass (N)",04:53 PM,,,,,
+Aug-29-2023 07:42 AM,Transfer at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-08-29T14:38:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (N)",07:42 AM,,,,,
+Aug-29-2023 07:38 AM,Tap in at Bus Stop 50310,3 Zone UPass (N),,$0.00,$1.00,2023-08-29T14:38:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (N)",07:38 AM,,,,,
+Aug-29-2023 07:38 AM,Loaded at Bus Stop 50310,3 Zone UPass (N),,$0.00,$1.00,,"Loaded at Bus Stop 50310
+3 Zone UPass (N)",07:38 AM,,,,,
+Aug-28-2023 09:40 AM,Transfer at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-08-28T15:50:00.0000000Z,"Transfer at Bus Stop 60164
+3 Zone UPass (N)",09:40 AM,,,,,
+Aug-28-2023 08:50 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-08-28T15:50:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",08:50 AM,,,,,
+Aug-27-2023 09:07 AM,Tap in at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-08-27T16:07:00.0000000Z,"Tap in at Bus Stop 51574
+3 Zone UPass (N)",09:07 AM,,,,,
+Aug-26-2023 04:43 PM,Tap in at Bus Stop 61281,3 Zone UPass (N),,$0.00,$1.00,2023-08-26T23:43:00.0000000Z,"Tap in at Bus Stop 61281
+3 Zone UPass (N)",04:43 PM,,,,,
+Aug-25-2023 09:41 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-26T04:31:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",09:41 PM,,,,,
+Aug-25-2023 09:31 PM,Tap in at Bridgeport Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-26T04:31:00.0000000Z,"Tap in at Bridgeport Stn
+3 Zone UPass (N)",09:31 PM,,,,,
+Aug-25-2023 07:21 PM,Tap out at Bridgeport Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-26T02:09:00.0000000Z,"Tap out at Bridgeport Stn
+3 Zone UPass (N)",07:21 PM,,,,,
+Aug-25-2023 07:09 PM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-26T02:09:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:09 PM,,,,,
+Aug-25-2023 02:00 PM,Transfer at Bus Stop 50419,3 Zone UPass (N),,$0.00,$1.00,2023-08-25T20:44:00.0000000Z,"Transfer at Bus Stop 50419
+3 Zone UPass (N)",02:00 PM,,,,,
+Aug-25-2023 01:50 PM,Tap out at King Edward Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-25T20:44:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (N)",01:50 PM,,,,,
+Aug-25-2023 01:44 PM,Tap in at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-25T20:44:00.0000000Z,"Tap in at Broadway-City Hall Stn
+3 Zone UPass (N)",01:44 PM,,,,,
+Aug-25-2023 07:50 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-25T14:43:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",07:50 AM,,,,,
+Aug-25-2023 07:43 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-25T14:43:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:43 AM,,,,,
+Aug-24-2023 06:43 PM,Transfer at Bus Stop 50419,3 Zone UPass (N),,$0.00,$1.00,2023-08-25T00:43:00.0000000Z,"Transfer at Bus Stop 50419
+3 Zone UPass (N)",06:43 PM,,,,,
+Aug-24-2023 05:43 PM,Tap in at Bus Stop 50364,3 Zone UPass (N),,$0.00,$1.00,2023-08-25T00:43:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (N)",05:43 PM,,,,,
+Aug-24-2023 03:33 PM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-08-24T22:04:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",03:33 PM,,,,,
+Aug-24-2023 03:12 PM,Tap out at King Edward Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-24T22:04:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (N)",03:12 PM,,,,,
+Aug-24-2023 03:04 PM,Tap in at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-24T22:04:00.0000000Z,"Tap in at Broadway-City Hall Stn
+3 Zone UPass (N)",03:04 PM,,,,,
+Aug-24-2023 07:43 AM,Transfer at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-08-24T14:38:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (N)",07:43 AM,,,,,
+Aug-24-2023 07:38 AM,Tap in at Bus Stop 50310,3 Zone UPass (N),,$0.00,$1.00,2023-08-24T14:38:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (N)",07:38 AM,,,,,
+Aug-23-2023 02:52 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$1.00,2023-08-23T21:19:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",02:52 PM,,,,,
+Aug-23-2023 02:19 PM,Tap in at Bus Stop 50926,3 Zone UPass (N),,$0.00,$1.00,2023-08-23T21:19:00.0000000Z,"Tap in at Bus Stop 50926
+3 Zone UPass (N)",02:19 PM,,,,,
+Aug-23-2023 07:40 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-08-23T14:40:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",07:40 AM,,,,,
+Aug-22-2023 03:06 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$1.00,2023-08-22T21:29:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",03:06 PM,,,,,
+Aug-22-2023 02:41 PM,Transfer at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-08-22T21:29:00.0000000Z,"Transfer at Bus Stop 50540
+3 Zone UPass (N)",02:41 PM,,,,,
+Aug-22-2023 02:29 PM,Tap in at Bus Stop 50926,3 Zone UPass (N),,$0.00,$1.00,2023-08-22T21:29:00.0000000Z,"Tap in at Bus Stop 50926
+3 Zone UPass (N)",02:29 PM,,,,,
+Aug-22-2023 07:29 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-08-22T14:29:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",07:29 AM,,,,,
+Aug-20-2023 04:50 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$1.00,2023-08-20T22:52:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",04:50 PM,,,,,
+Aug-20-2023 04:26 PM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$1.00,2023-08-20T22:52:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",04:26 PM,,,,,
+Aug-20-2023 04:02 PM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-20T22:52:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",04:02 PM,,,,,
+Aug-20-2023 03:52 PM,Tap in at Vancouver City Centre Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-20T22:52:00.0000000Z,"Tap in at Vancouver City Centre Stn
+3 Zone UPass (N)",03:52 PM,,,,,
+Aug-20-2023 01:29 PM,Tap in at Bus Stop 50308,3 Zone UPass (N),,$0.00,$1.00,2023-08-20T20:29:00.0000000Z,"Tap in at Bus Stop 50308
+3 Zone UPass (N)",01:29 PM,,,,,
+Aug-19-2023 08:29 PM,Transfer at Bus Stop 51189,3 Zone UPass (N),,$0.00,$1.00,2023-08-20T03:24:00.0000000Z,"Transfer at Bus Stop 51189
+3 Zone UPass (N)",08:29 PM,,,,,
+Aug-19-2023 08:24 PM,Tap in at Bus Stop 50656,3 Zone UPass (N),,$0.00,$1.00,2023-08-20T03:24:00.0000000Z,"Tap in at Bus Stop 50656
+3 Zone UPass (N)",08:24 PM,,,,,
+Aug-19-2023 05:51 PM,Tap in at Bus Stop 60349,3 Zone UPass (N),,$0.00,$1.00,2023-08-20T00:51:00.0000000Z,"Tap in at Bus Stop 60349
+3 Zone UPass (N)",05:51 PM,,,,,
+Aug-18-2023 10:59 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-08-18T17:59:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",10:59 AM,,,,,
+Aug-17-2023 07:16 PM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-08-18T02:08:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",07:16 PM,,,,,
+Aug-17-2023 07:13 PM,Tap out at King Edward Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-18T02:08:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (N)",07:13 PM,,,,,
+Aug-17-2023 07:08 PM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-18T02:08:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:08 PM,,,,,
+Aug-17-2023 10:15 AM,Transfer at Bus Stop 60393,3 Zone UPass (N),,$0.00,$1.00,2023-08-17T17:05:00.0000000Z,"Transfer at Bus Stop 60393
+3 Zone UPass (N)",10:15 AM,,,,,
+Aug-17-2023 10:05 AM,Tap in at Bus Stop 50364,3 Zone UPass (N),,$0.00,$1.00,2023-08-17T17:05:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (N)",10:05 AM,,,,,
+Aug-16-2023 09:12 PM,Tap in at Bus Stop 50364,3 Zone UPass (N),,$0.00,$1.00,2023-08-17T04:12:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (N)",09:12 PM,,,,,
+Aug-16-2023 04:40 PM,Tap in at Bus Stop 51484,3 Zone UPass (N),,$0.00,$1.00,2023-08-16T23:40:00.0000000Z,"Tap in at Bus Stop 51484
+3 Zone UPass (N)",04:40 PM,,,,,
+Aug-15-2023 05:17 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-08-16T00:17:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",05:17 PM,,,,,
+Aug-13-2023 04:41 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-08-13T23:41:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",04:41 PM,,,,,
+Aug-13-2023 11:25 AM,Transfer at Bus Stop 50299,3 Zone UPass (N),,$0.00,$1.00,2023-08-13T18:05:00.0000000Z,"Transfer at Bus Stop 50299
+3 Zone UPass (N)",11:25 AM,,,,,
+Aug-13-2023 11:05 AM,Tap in at Bus Stop 61281,3 Zone UPass (N),,$0.00,$1.00,2023-08-13T18:05:00.0000000Z,"Tap in at Bus Stop 61281
+3 Zone UPass (N)",11:05 AM,,,,,
+Aug-12-2023 04:51 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-08-12T23:51:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",04:51 PM,,,,,
+Aug-12-2023 10:48 AM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-08-12T17:38:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",10:48 AM,,,,,
+Aug-12-2023 10:38 AM,Tap in at Bus Stop 50469,3 Zone UPass (N),,$0.00,$1.00,2023-08-12T17:38:00.0000000Z,"Tap in at Bus Stop 50469
+3 Zone UPass (N)",10:38 AM,,,,,
+Aug-11-2023 11:47 PM,Tap in at Bus Stop 50364,3 Zone UPass (N),,$0.00,$1.00,2023-08-12T06:47:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (N)",11:47 PM,,,,,
+Aug-11-2023 05:28 PM,Transfer at Bus Stop 50419,3 Zone UPass (N),,$0.00,$1.00,2023-08-11T23:21:00.0000000Z,"Transfer at Bus Stop 50419
+3 Zone UPass (N)",05:28 PM,,,,,
+Aug-11-2023 05:11 PM,Transfer at Bus Stop 60433,3 Zone UPass (N),,$0.00,$1.00,2023-08-11T23:21:00.0000000Z,"Transfer at Bus Stop 60433
+3 Zone UPass (N)",05:11 PM,,,,,
+Aug-11-2023 04:21 PM,Tap in at Bus Stop 51518,3 Zone UPass (N),,$0.00,$1.00,2023-08-11T23:21:00.0000000Z,"Tap in at Bus Stop 51518
+3 Zone UPass (N)",04:21 PM,,,,,
+Aug-11-2023 11:43 AM,Tap in at Bus Stop 50364,3 Zone UPass (N),,$0.00,$1.00,2023-08-11T18:43:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (N)",11:43 AM,,,,,
+Aug-08-2023 04:46 PM,Tap in at Bus Stop 51479,3 Zone UPass (N),,$0.00,$1.00,2023-08-08T23:46:00.0000000Z,"Tap in at Bus Stop 51479
+3 Zone UPass (N)",04:46 PM,,,,,
+Aug-08-2023 08:40 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-08-08T15:40:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",08:40 AM,,,,,
+Aug-06-2023 04:31 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-08-06T23:31:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",04:31 PM,,,,,
+Aug-05-2023 05:00 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-08-06T00:00:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",05:00 PM,,,,,
+Aug-05-2023 11:37 AM,Tap in at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-08-05T18:37:00.0000000Z,"Tap in at Bus Stop 51574
+3 Zone UPass (N)",11:37 AM,,,,,
+Aug-04-2023 03:13 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-04T21:27:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",03:13 PM,,,,,
+Aug-04-2023 03:04 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-04T21:27:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",03:04 PM,,,,,
+Aug-04-2023 02:27 PM,Tap in at Bus Stop 50471,3 Zone UPass (N),,$0.00,$1.00,2023-08-04T21:27:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (N)",02:27 PM,,,,,
+Aug-04-2023 12:47 AM,Tap in at Bus Stop 61337,3 Zone UPass (N),,$0.00,$1.00,2023-08-04T07:47:00.0000000Z,"Tap in at Bus Stop 61337
+3 Zone UPass (N)",12:47 AM,,,,,
+Aug-04-2023 12:36 AM,Refund at Marine Drive Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-04T07:33:00.0000000Z,"Refund at Marine Drive Stn
+3 Zone UPass (N)",12:36 AM,,,,,
+Aug-04-2023 12:33 AM,Tap in at Marine Drive Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-04T07:33:00.0000000Z,"Tap in at Marine Drive Stn
+3 Zone UPass (N)",12:33 AM,,,,,
+Aug-03-2023 10:12 PM,Tap out at Marine Drive Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-04T04:43:00.0000000Z,"Tap out at Marine Drive Stn
+3 Zone UPass (N)",10:12 PM,,,,,
+Aug-03-2023 09:55 PM,Transfer at Olympic Village Stn,3 Zone UPass (N),,$0.00,$1.00,2023-08-04T04:43:00.0000000Z,"Transfer at Olympic Village Stn
+3 Zone UPass (N)",09:55 PM,,,,,
+Aug-03-2023 09:43 PM,Tap in at Bus Stop 50393,3 Zone UPass (N),,$0.00,$1.00,2023-08-04T04:43:00.0000000Z,"Tap in at Bus Stop 50393
+3 Zone UPass (N)",09:43 PM,,,,,
+Aug-03-2023 05:39 PM,Tap in at Bus Stop 51479,3 Zone UPass (N),,$0.00,$1.00,2023-08-04T00:39:00.0000000Z,"Tap in at Bus Stop 51479
+3 Zone UPass (N)",05:39 PM,,,,,
+Aug-02-2023 02:23 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-08-02T21:23:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",02:23 PM,,,,,
+Aug-01-2023 05:43 PM,Tap in at Bus Stop 51479,3 Zone UPass (N),,$0.00,$1.00,2023-08-02T00:43:00.0000000Z,"Tap in at Bus Stop 51479
+3 Zone UPass (N)",05:43 PM,,,,,
+Aug-01-2023 08:32 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-08-01T15:32:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",08:32 AM,,,,,
+Jul-30-2023 04:06 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-07-30T23:06:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",04:06 PM,,,,,
+Jul-29-2023 11:08 PM,Tap in at Bus Stop 50579,3 Zone UPass (N),,$0.00,$1.00,2023-07-30T06:08:00.0000000Z,"Tap in at Bus Stop 50579
+3 Zone UPass (N)",11:08 PM,,,,,
+Jul-29-2023 06:49 PM,Tap in at Bus Stop 50310,3 Zone UPass (N),,$0.00,$1.00,2023-07-30T01:49:00.0000000Z,"Tap in at Bus Stop 50310
+3 Zone UPass (N)",06:49 PM,,,,,
+Jul-28-2023 01:32 PM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-07-28T20:14:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",01:32 PM,,,,,
+Jul-28-2023 01:14 PM,Tap in at Bus Stop 50471,3 Zone UPass (N),,$0.00,$1.00,2023-07-28T20:14:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (N)",01:14 PM,,,,,
+Jul-27-2023 11:19 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-07-28T05:52:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",11:19 PM,,,,,
+Jul-27-2023 11:04 PM,Transfer at Waterfront Stn,3 Zone UPass (N),,$0.00,$1.00,2023-07-28T05:52:00.0000000Z,"Transfer at Waterfront Stn
+3 Zone UPass (N)",11:04 PM,,,,,
+Jul-27-2023 10:52 PM,Tap in at Bus Stop 58728,3 Zone UPass (N),,$0.00,$1.00,2023-07-28T05:52:00.0000000Z,"Tap in at Bus Stop 58728
+3 Zone UPass (N)",10:52 PM,,,,,
+Jul-27-2023 07:18 PM,Tap in at Bus Stop 54444,3 Zone UPass (N),,$0.00,$1.00,2023-07-28T02:18:00.0000000Z,"Tap in at Bus Stop 54444
+3 Zone UPass (N)",07:18 PM,,,,,
+Jul-27-2023 07:18 PM,Loaded at Bus Stop 54444,3 Zone UPass (N),,$0.00,$1.00,,"Loaded at Bus Stop 54444
+3 Zone UPass (N)",07:18 PM,,,,,
+Jul-27-2023 05:16 PM,Tap in at Bus Stop 60160,3 Zone UPass (N),,$0.00,$1.00,2023-07-28T00:16:00.0000000Z,"Tap in at Bus Stop 60160
+3 Zone UPass (N)",05:16 PM,,,,,
+Jul-27-2023 12:48 AM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-07-27T07:48:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",12:48 AM,,,,,
+Jul-26-2023 03:09 PM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$1.00,2023-07-26T22:09:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",03:09 PM,,,,,
+Jul-26-2023 12:46 PM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-07-26T19:46:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",12:46 PM,,,,,
+Jul-25-2023 05:22 PM,Tap in at Bus Stop 51479,3 Zone UPass (N),,$0.00,$1.00,2023-07-26T00:22:00.0000000Z,"Tap in at Bus Stop 51479
+3 Zone UPass (N)",05:22 PM,,,,,
+Jul-25-2023 08:37 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-07-25T15:37:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",08:37 AM,,,,,
+Jul-24-2023 04:15 PM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-07-24T23:01:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",04:15 PM,,,,,
+Jul-24-2023 04:15 PM,Tap out at King Edward Stn,3 Zone UPass (N),,$0.00,$1.00,2023-07-24T23:01:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (N)",04:15 PM,,,,,
+Jul-24-2023 04:01 PM,Tap in at Templeton Stn,3 Zone UPass (N),,$0.00,$1.00,2023-07-24T23:01:00.0000000Z,"Tap in at Templeton Stn
+3 Zone UPass (N)",04:01 PM,,,,,
+Jul-24-2023 12:59 PM,Tap out at Templeton Stn,3 Zone UPass (N),,$0.00,$1.00,2023-07-24T19:43:00.0000000Z,"Tap out at Templeton Stn
+3 Zone UPass (N)",12:59 PM,,,,,
+Jul-24-2023 12:43 PM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-07-24T19:43:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",12:43 PM,,,,,
+Jul-23-2023 03:44 PM,Tap out at Lougheed Stn,3 Zone UPass (N),,$0.00,$1.00,2023-07-23T21:37:00.0000000Z,"Tap out at Lougheed Stn
+3 Zone UPass (N)",03:44 PM,,,,,
+Jul-23-2023 03:12 PM,Transfer at Nanaimo Stn,3 Zone UPass (N),,$0.00,$1.00,2023-07-23T21:37:00.0000000Z,"Transfer at Nanaimo Stn
+3 Zone UPass (N)",03:12 PM,,,,,
+Jul-23-2023 02:37 PM,Tap in at Bus Stop 50364,3 Zone UPass (N),,$0.00,$1.00,2023-07-23T21:37:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (N)",02:37 PM,,,,,
+Jul-22-2023 04:34 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-07-22T23:34:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",04:34 PM,,,,,
+Jul-21-2023 11:18 AM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-07-21T18:08:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",11:18 AM,,,,,
+Jul-21-2023 11:08 AM,Tap in at Bus Stop 50471,3 Zone UPass (N),,$0.00,$1.00,2023-07-21T18:08:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (N)",11:08 AM,,,,,
+Jul-20-2023 04:17 PM,Transfer at Bus Stop 51882,3 Zone UPass (N),,$0.00,$1.00,2023-07-20T22:06:00.0000000Z,"Transfer at Bus Stop 51882
+3 Zone UPass (N)",04:17 PM,,,,,
+Jul-20-2023 03:06 PM,Tap in at Bus Stop 61281,3 Zone UPass (N),,$0.00,$1.00,2023-07-20T22:06:00.0000000Z,"Tap in at Bus Stop 61281
+3 Zone UPass (N)",03:06 PM,,,,,
+Jul-20-2023 12:26 PM,Tap in at Bus Stop 51787,3 Zone UPass (N),,$0.00,$1.00,2023-07-20T19:26:00.0000000Z,"Tap in at Bus Stop 51787
+3 Zone UPass (N)",12:26 PM,,,,,
+Jul-20-2023 08:31 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-07-20T15:31:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",08:31 AM,,,,,
+Jul-20-2023 01:28 AM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-07-20T08:28:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",01:28 AM,,,,,
+Jul-19-2023 04:03 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-07-19T23:03:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",04:03 PM,,,,,
+Jul-18-2023 05:05 PM,Tap in at Bus Stop 51479,3 Zone UPass (N),,$0.00,$1.00,2023-07-19T00:05:00.0000000Z,"Tap in at Bus Stop 51479
+3 Zone UPass (N)",05:05 PM,,,,,
+Jul-18-2023 08:19 AM,Tap in at Bus Stop 61281,3 Zone UPass (N),,$0.00,$1.00,2023-07-18T15:19:00.0000000Z,"Tap in at Bus Stop 61281
+3 Zone UPass (N)",08:19 AM,,,,,
+Jul-17-2023 05:13 PM,Transfer at Bus Stop 50419,3 Zone UPass (N),,$0.00,$1.00,2023-07-17T23:09:00.0000000Z,"Transfer at Bus Stop 50419
+3 Zone UPass (N)",05:13 PM,,,,,
+Jul-17-2023 05:01 PM,Transfer at Bus Stop 51564,3 Zone UPass (N),,$0.00,$1.00,2023-07-17T23:09:00.0000000Z,"Transfer at Bus Stop 51564
+3 Zone UPass (N)",05:01 PM,,,,,
+Jul-17-2023 04:17 PM,Transfer at Bus Stop 60607,3 Zone UPass (N),,$0.00,$1.00,2023-07-17T23:09:00.0000000Z,"Transfer at Bus Stop 60607
+3 Zone UPass (N)",04:17 PM,,,,,
+Jul-17-2023 04:09 PM,Tap in at Bus Stop 50471,3 Zone UPass (N),,$0.00,$1.00,2023-07-17T23:09:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (N)",04:09 PM,,,,,
+Jul-17-2023 10:35 AM,Tap in at Bus Stop 60575,3 Zone UPass (N),,$0.00,$1.00,2023-07-17T17:35:00.0000000Z,"Tap in at Bus Stop 60575
+3 Zone UPass (N)",10:35 AM,,,,,
+Jul-16-2023 01:25 AM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$1.00,2023-07-16T08:16:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",01:25 AM,,,,,
+Jul-16-2023 01:16 AM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-07-16T08:16:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",01:16 AM,,,,,
+Jul-15-2023 04:34 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-07-15T23:34:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",04:34 PM,,,,,
+Jul-14-2023 12:43 PM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-07-14T19:39:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",12:43 PM,,,,,
+Jul-14-2023 12:39 PM,Tap in at Bus Stop 50471,3 Zone UPass (N),,$0.00,$1.00,2023-07-14T19:39:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (N)",12:39 PM,,,,,
+Jul-13-2023 06:49 PM,Tap in at Bus Stop 50364,3 Zone UPass (N),,$0.00,$1.00,2023-07-14T01:49:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (N)",06:49 PM,,,,,
+Jul-13-2023 04:46 PM,Tap in at Bus Stop 51479,3 Zone UPass (N),,$0.00,$1.00,2023-07-13T23:46:00.0000000Z,"Tap in at Bus Stop 51479
+3 Zone UPass (N)",04:46 PM,,,,,
+Jul-13-2023 08:07 AM,Tap in at Bus Stop 51787,3 Zone UPass (N),,$0.00,$1.00,2023-07-13T15:07:00.0000000Z,"Tap in at Bus Stop 51787
+3 Zone UPass (N)",08:07 AM,,,,,
+Jul-13-2023 12:31 AM,Transfer at Bus Stop 60307,3 Zone UPass (N),,$0.00,$1.00,2023-07-13T06:44:00.0000000Z,"Transfer at Bus Stop 60307
+3 Zone UPass (N)",12:31 AM,,,,,
+Jul-13-2023 12:06 AM,Transfer at Bus Stop 58613,3 Zone UPass (N),,$0.00,$1.00,2023-07-13T06:44:00.0000000Z,"Transfer at Bus Stop 58613
+3 Zone UPass (N)",12:06 AM,,,,,
+Jul-12-2023 11:44 PM,Tap in at Bus Stop 60494,3 Zone UPass (N),,$0.00,$1.00,2023-07-13T06:44:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (N)",11:44 PM,,,,,
+Jul-12-2023 03:59 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-07-12T22:59:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",03:59 PM,,,,,
+Jul-11-2023 04:51 PM,Tap in at Bus Stop 51479,3 Zone UPass (N),,$0.00,$1.00,2023-07-11T23:51:00.0000000Z,"Tap in at Bus Stop 51479
+3 Zone UPass (N)",04:51 PM,,,,,
+Jul-11-2023 08:10 AM,Tap in at Bus Stop 61281,3 Zone UPass (N),,$0.00,$1.00,2023-07-11T15:10:00.0000000Z,"Tap in at Bus Stop 61281
+3 Zone UPass (N)",08:10 AM,,,,,
+Jul-10-2023 02:40 PM,Transfer at Bus Stop 50419,3 Zone UPass (N),,$0.00,$1.00,2023-07-10T21:19:00.0000000Z,"Transfer at Bus Stop 50419
+3 Zone UPass (N)",02:40 PM,,,,,
+Jul-10-2023 02:19 PM,Tap in at Bus Stop 51492,3 Zone UPass (N),,$0.00,$1.00,2023-07-10T21:19:00.0000000Z,"Tap in at Bus Stop 51492
+3 Zone UPass (N)",02:19 PM,,,,,
+Jul-06-2023 04:27 PM,Transfer at Bus Stop 51479,3 Zone UPass (N),,$0.00,$1.00,2023-07-06T22:03:00.0000000Z,"Transfer at Bus Stop 51479
+3 Zone UPass (N)",04:27 PM,,,,,
+Jul-06-2023 03:03 PM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-07-06T22:03:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",03:03 PM,,,,,
+Jul-06-2023 12:28 PM,Tap in at Bus Stop 51479,3 Zone UPass (N),,$0.00,$1.00,2023-07-06T19:28:00.0000000Z,"Tap in at Bus Stop 51479
+3 Zone UPass (N)",12:28 PM,,,,,
+Jul-06-2023 08:42 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-07-06T15:42:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",08:42 AM,,,,,
+Jul-06-2023 12:44 AM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-07-06T07:44:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",12:44 AM,,,,,
+Jul-04-2023 12:14 PM,Tap in at Bus Stop 51479,3 Zone UPass (N),,$0.00,$1.00,2023-07-04T19:14:00.0000000Z,"Tap in at Bus Stop 51479
+3 Zone UPass (N)",12:14 PM,,,,,
+Jul-04-2023 08:33 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-07-04T15:33:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",08:33 AM,,,,,
+Jun-30-2023 11:00 AM,Tap out at Bridgeport Stn,3 Zone UPass (N),,$0.00,$1.00,2023-06-30T17:26:00.0000000Z,"Tap out at Bridgeport Stn
+3 Zone UPass (N)",11:00 AM,,,,,
+Jun-30-2023 10:51 AM,Transfer at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-06-30T17:26:00.0000000Z,"Transfer at Oakridge-41st Stn
+3 Zone UPass (N)",10:51 AM,,,,,
+Jun-30-2023 10:26 AM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-06-30T17:26:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",10:26 AM,,,,,
+Jun-30-2023 07:48 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-06-30T14:48:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",07:48 AM,,,,,
+Jun-29-2023 12:29 AM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-06-29T07:29:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",12:29 AM,,,,,
+Jun-28-2023 01:51 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-06-28T20:51:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",01:51 PM,,,,,
+Jun-27-2023 02:27 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-06-27T21:27:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",02:27 PM,,,,,
+Jun-27-2023 09:11 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-06-27T16:11:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",09:11 AM,,,,,
+Jun-27-2023 09:11 AM,Loaded at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,,"Loaded at Bus Stop 51592
+3 Zone UPass (N)",09:11 AM,,,,,
+Jun-26-2023 10:33 AM,Tap in at Bus Stop 60575,3 Zone UPass (N),,$0.00,$1.00,2023-06-26T17:33:00.0000000Z,"Tap in at Bus Stop 60575
+3 Zone UPass (N)",10:33 AM,,,,,
+Jun-25-2023 08:16 PM,Transfer at Bus Stop 51479,3 Zone UPass (N),,$0.00,$1.00,2023-06-26T02:50:00.0000000Z,"Transfer at Bus Stop 51479
+3 Zone UPass (N)",08:16 PM,,,,,
+Jun-25-2023 07:50 PM,Tap in at Bus Stop 61042,3 Zone UPass (N),,$0.00,$1.00,2023-06-26T02:50:00.0000000Z,"Tap in at Bus Stop 61042
+3 Zone UPass (N)",07:50 PM,,,,,
+Jun-25-2023 05:59 PM,Transfer at Bus Stop 60158,3 Zone UPass (N),,$0.00,$1.00,2023-06-25T23:56:00.0000000Z,"Transfer at Bus Stop 60158
+3 Zone UPass (N)",05:59 PM,,,,,
+Jun-25-2023 04:56 PM,Tap in at Bus Stop 61834,3 Zone UPass (N),,$0.00,$1.00,2023-06-25T23:56:00.0000000Z,"Tap in at Bus Stop 61834
+3 Zone UPass (N)",04:56 PM,,,,,
+Jun-24-2023 01:32 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-06-24T20:32:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",01:32 PM,,,,,
+Jun-24-2023 02:13 AM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-06-24T09:13:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",02:13 AM,,,,,
+Jun-23-2023 04:36 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-06-23T23:36:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",04:36 PM,,,,,
+Jun-22-2023 09:58 PM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-06-23T04:36:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",09:58 PM,,,,,
+Jun-22-2023 09:47 PM,Tap out at King Edward Stn,3 Zone UPass (N),,$0.00,$1.00,2023-06-23T04:36:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (N)",09:47 PM,,,,,
+Jun-22-2023 09:36 PM,Tap in at Olympic Village Stn,3 Zone UPass (N),,$0.00,$1.00,2023-06-23T04:36:00.0000000Z,"Tap in at Olympic Village Stn
+3 Zone UPass (N)",09:36 PM,,,,,
+Jun-22-2023 06:54 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-06-23T01:54:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",06:54 PM,,,,,
+Jun-22-2023 04:52 PM,Transfer at Bus Stop 50298,3 Zone UPass (N),,$0.00,$1.00,2023-06-22T22:38:00.0000000Z,"Transfer at Bus Stop 50298
+3 Zone UPass (N)",04:52 PM,,,,,
+Jun-22-2023 03:38 PM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-06-22T22:38:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",03:38 PM,,,,,
+Jun-22-2023 11:16 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-06-22T18:16:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",11:16 AM,,,,,
+Jun-21-2023 11:30 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-06-22T06:30:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",11:30 PM,,,,,
+Jun-21-2023 03:35 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-06-21T22:35:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",03:35 PM,,,,,
+Jun-20-2023 03:31 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-06-20T22:31:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",03:31 PM,,,,,
+Jun-20-2023 10:00 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-06-20T17:00:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",10:00 AM,,,,,
+Jun-19-2023 12:01 PM,Tap in at Bus Stop 50298,3 Zone UPass (N),,$0.00,$1.00,2023-06-19T19:01:00.0000000Z,"Tap in at Bus Stop 50298
+3 Zone UPass (N)",12:01 PM,,,,,
+Jun-19-2023 12:27 AM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-06-19T07:27:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",12:27 AM,,,,,
+Jun-18-2023 03:32 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-06-18T22:32:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",03:32 PM,,,,,
+Jun-18-2023 12:29 PM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-06-18T19:24:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",12:29 PM,,,,,
+Jun-18-2023 12:24 PM,Tap in at Bus Stop 50471,3 Zone UPass (N),,$0.00,$1.00,2023-06-18T19:24:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (N)",12:24 PM,,,,,
+Jun-16-2023 06:01 PM,Tap out at Surrey Central Stn,3 Zone UPass (N),,$0.00,$1.00,2023-06-16T23:26:00.0000000Z,"Tap out at Surrey Central Stn
+3 Zone UPass (N)",06:01 PM,,,,,
+Jun-16-2023 05:22 PM,Transfer at Granville Stn,3 Zone UPass (N),,$0.00,$1.00,2023-06-16T23:26:00.0000000Z,"Transfer at Granville Stn
+3 Zone UPass (N)",05:22 PM,,,,,
+Jun-16-2023 05:03 PM,Transfer at Bus Stop 60572,3 Zone UPass (N),,$0.00,$1.00,2023-06-16T23:26:00.0000000Z,"Transfer at Bus Stop 60572
+3 Zone UPass (N)",05:03 PM,,,,,
+Jun-16-2023 04:26 PM,Tap in at Bus Stop 50308,3 Zone UPass (N),,$0.00,$1.00,2023-06-16T23:26:00.0000000Z,"Tap in at Bus Stop 50308
+3 Zone UPass (N)",04:26 PM,,,,,
+Jun-15-2023 05:09 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-06-16T00:09:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",05:09 PM,,,,,
+Jun-15-2023 11:34 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-06-15T18:34:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",11:34 AM,,,,,
+Jun-15-2023 01:25 AM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-06-15T08:25:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",01:25 AM,,,,,
+Jun-14-2023 04:32 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-06-14T23:32:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",04:32 PM,,,,,
+Jun-13-2023 04:31 PM,Transfer at Bus Stop 51558,3 Zone UPass (N),,$0.00,$1.00,2023-06-13T22:17:00.0000000Z,"Transfer at Bus Stop 51558
+3 Zone UPass (N)",04:31 PM,,,,,
+Jun-13-2023 04:09 PM,Tap out at Renfrew Stn,3 Zone UPass (N),,$0.00,$1.00,2023-06-13T22:17:00.0000000Z,"Tap out at Renfrew Stn
+3 Zone UPass (N)",04:09 PM,,,,,
+Jun-13-2023 04:03 PM,Transfer at Commercial Drive Stn,3 Zone UPass (N),,$0.00,$1.00,2023-06-13T22:17:00.0000000Z,"Transfer at Commercial Drive Stn
+3 Zone UPass (N)",04:03 PM,,,,,
+Jun-13-2023 03:17 PM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$1.00,2023-06-13T22:17:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",03:17 PM,,,,,
+Jun-13-2023 09:04 AM,Tap in at Bus Stop 61281,3 Zone UPass (N),,$0.00,$1.00,2023-06-13T16:04:00.0000000Z,"Tap in at Bus Stop 61281
+3 Zone UPass (N)",09:04 AM,,,,,
+Jun-12-2023 06:00 PM,Transfer at Bus Stop 50412,3 Zone UPass (N),,$0.00,$1.00,2023-06-13T00:17:00.0000000Z,"Transfer at Bus Stop 50412
+3 Zone UPass (N)",06:00 PM,,,,,
+Jun-12-2023 05:17 PM,Tap in at Bus Stop 50467,3 Zone UPass (N),,$0.00,$1.00,2023-06-13T00:17:00.0000000Z,"Tap in at Bus Stop 50467
+3 Zone UPass (N)",05:17 PM,,,,,
+Jun-12-2023 03:08 PM,Transfer at Bus Stop 50419,3 Zone UPass (N),,$0.00,$1.00,2023-06-12T21:37:00.0000000Z,"Transfer at Bus Stop 50419
+3 Zone UPass (N)",03:08 PM,,,,,
+Jun-12-2023 03:07 PM,Tap out at King Edward Stn,3 Zone UPass (N),,$0.00,$1.00,2023-06-12T21:37:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (N)",03:07 PM,,,,,
+Jun-12-2023 03:01 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-06-12T21:37:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",03:01 PM,,,,,
+Jun-12-2023 02:45 PM,Transfer at Bus Stop 50913,3 Zone UPass (N),,$0.00,$1.00,2023-06-12T21:37:00.0000000Z,"Transfer at Bus Stop 50913
+3 Zone UPass (N)",02:45 PM,,,,,
+Jun-12-2023 02:37 PM,Tap in at Bus Stop 51239,3 Zone UPass (N),,$0.00,$1.00,2023-06-12T21:37:00.0000000Z,"Tap in at Bus Stop 51239
+3 Zone UPass (N)",02:37 PM,,,,,
+Jun-12-2023 01:00 PM,Transfer at Bus Stop 50658,3 Zone UPass (N),,$0.00,$1.00,2023-06-12T19:18:00.0000000Z,"Transfer at Bus Stop 50658
+3 Zone UPass (N)",01:00 PM,,,,,
+Jun-12-2023 12:18 PM,Tap in at Bus Stop 50364,3 Zone UPass (N),,$0.00,$1.00,2023-06-12T19:18:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (N)",12:18 PM,,,,,
+Jun-11-2023 11:21 AM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-06-11T18:21:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",11:21 AM,,,,,
+Jun-10-2023 09:53 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-06-11T04:53:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",09:53 PM,,,,,
+Jun-10-2023 01:17 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-06-10T20:17:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",01:17 PM,,,,,
+Jun-09-2023 04:35 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-06-09T23:35:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",04:35 PM,,,,,
+Jun-08-2023 05:32 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-06-09T00:32:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",05:32 PM,,,,,
+Jun-08-2023 11:21 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-06-08T18:21:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",11:21 AM,,,,,
+Jun-08-2023 09:31 AM,Transfer at Bus Stop 50298,3 Zone UPass (N),,$0.00,$1.00,2023-06-08T15:02:00.0000000Z,"Transfer at Bus Stop 50298
+3 Zone UPass (N)",09:31 AM,,,,,
+Jun-08-2023 08:02 AM,Tap in at Bus Stop 50364,3 Zone UPass (N),,$0.00,$1.00,2023-06-08T15:02:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (N)",08:02 AM,,,,,
+Jun-08-2023 12:44 AM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-06-08T07:44:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",12:44 AM,,,,,
+Jun-07-2023 03:23 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-06-07T22:23:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",03:23 PM,,,,,
+Jun-06-2023 02:52 PM,Tap in at Bus Stop 60158,3 Zone UPass (N),,$0.00,$1.00,2023-06-06T21:52:00.0000000Z,"Tap in at Bus Stop 60158
+3 Zone UPass (N)",02:52 PM,,,,,
+Jun-06-2023 09:03 AM,Tap in at Bus Stop 61281,3 Zone UPass (N),,$0.00,$1.00,2023-06-06T16:03:00.0000000Z,"Tap in at Bus Stop 61281
+3 Zone UPass (N)",09:03 AM,,,,,
+Jun-05-2023 08:19 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-06-06T02:51:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",08:19 PM,,,,,
+Jun-05-2023 08:08 PM,Transfer at Yaletown-Roundhouse Stn,3 Zone UPass (N),,$0.00,$1.00,2023-06-06T02:51:00.0000000Z,"Transfer at Yaletown-Roundhouse Stn
+3 Zone UPass (N)",08:08 PM,,,,,
+Jun-05-2023 07:51 PM,Tap in at Bus Stop 50633,3 Zone UPass (N),,$0.00,$1.00,2023-06-06T02:51:00.0000000Z,"Tap in at Bus Stop 50633
+3 Zone UPass (N)",07:51 PM,,,,,
+Jun-05-2023 05:01 PM,Transfer at Bus Stop 50025,3 Zone UPass (N),,$0.00,$1.00,2023-06-05T23:30:00.0000000Z,"Transfer at Bus Stop 50025
+3 Zone UPass (N)",05:01 PM,,,,,
+Jun-05-2023 04:44 PM,Tap out at Yaletown-Roundhouse Stn,3 Zone UPass (N),,$0.00,$1.00,2023-06-05T23:30:00.0000000Z,"Tap out at Yaletown-Roundhouse Stn
+3 Zone UPass (N)",04:44 PM,,,,,
+Jun-05-2023 04:30 PM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-06-05T23:30:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",04:30 PM,,,,,
+Jun-05-2023 01:17 PM,Transfer at Bus Stop 60386,3 Zone UPass (N),,$0.00,$1.00,2023-06-05T19:54:00.0000000Z,"Transfer at Bus Stop 60386
+3 Zone UPass (N)",01:17 PM,,,,,
+Jun-05-2023 12:54 PM,Tap in at Bus Stop 60393,3 Zone UPass (N),,$0.00,$1.00,2023-06-05T19:54:00.0000000Z,"Tap in at Bus Stop 60393
+3 Zone UPass (N)",12:54 PM,,,,,
+Jun-03-2023 10:12 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-06-04T05:12:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",10:12 PM,,,,,
+Jun-03-2023 01:29 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-06-03T20:29:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",01:29 PM,,,,,
+Jun-03-2023 02:13 AM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-06-03T09:13:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",02:13 AM,,,,,
+Jun-02-2023 02:49 PM,Transfer at Bus Stop 50926,3 Zone UPass (N),,$0.00,$1.00,2023-06-02T21:34:00.0000000Z,"Transfer at Bus Stop 50926
+3 Zone UPass (N)",02:49 PM,,,,,
+Jun-02-2023 02:40 PM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-06-02T21:34:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",02:40 PM,,,,,
+Jun-02-2023 02:34 PM,Tap in at King Edward Stn,3 Zone UPass (N),,$0.00,$1.00,2023-06-02T21:34:00.0000000Z,"Tap in at King Edward Stn
+3 Zone UPass (N)",02:34 PM,,,,,
+Jun-01-2023 03:18 PM,Tap in at Bus Stop 60158,3 Zone UPass (N),,$0.00,$1.00,2023-06-01T22:18:00.0000000Z,"Tap in at Bus Stop 60158
+3 Zone UPass (N)",03:18 PM,,,,,
+Jun-01-2023 09:37 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-06-01T16:37:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",09:37 AM,,,,,
+May-31-2023 11:11 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-06-01T06:11:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",11:11 PM,,,,,
+May-31-2023 02:19 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-05-31T21:19:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",02:19 PM,,,,,
+May-31-2023 09:01 AM,Tap in at Bus Stop 50298,3 Zone UPass (N),,$0.00,$1.00,2023-05-31T16:01:00.0000000Z,"Tap in at Bus Stop 50298
+3 Zone UPass (N)",09:01 AM,,,,,
+May-30-2023 03:52 PM,Transfer at Bus Stop 60393,3 Zone UPass (N),,$0.00,$1.00,2023-05-30T22:23:00.0000000Z,"Transfer at Bus Stop 60393
+3 Zone UPass (N)",03:52 PM,,,,,
+May-30-2023 03:23 PM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-05-30T22:23:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",03:23 PM,,,,,
+May-30-2023 10:57 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-05-30T17:57:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",10:57 AM,,,,,
+May-29-2023 04:18 PM,Transfer at Bus Stop 50580,3 Zone UPass (N),,$0.00,$1.00,2023-05-29T22:49:00.0000000Z,"Transfer at Bus Stop 50580
+3 Zone UPass (N)",04:18 PM,,,,,
+May-29-2023 04:18 PM,Loaded at Bus Stop 50580,3 Zone UPass (N),,$0.00,$1.00,,"Loaded at Bus Stop 50580
+3 Zone UPass (N)",04:18 PM,,,,,
+May-29-2023 03:49 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-05-29T22:49:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",03:49 PM,,,,,
+May-27-2023 11:07 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-05-28T06:07:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",11:07 PM,,,,,
+May-27-2023 12:43 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-05-27T19:43:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",12:43 PM,,,,,
+May-27-2023 02:14 AM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-05-27T09:14:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",02:14 AM,,,,,
+May-26-2023 04:29 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-05-26T23:29:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",04:29 PM,,,,,
+May-26-2023 12:10 PM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-05-26T19:00:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",12:10 PM,,,,,
+May-26-2023 12:07 PM,Tap out at King Edward Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-26T19:00:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (N)",12:07 PM,,,,,
+May-26-2023 12:00 PM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-26T19:00:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",12:00 PM,,,,,
+May-25-2023 04:50 PM,Tap in at Bus Stop 60158,3 Zone UPass (N),,$0.00,$1.00,2023-05-25T23:50:00.0000000Z,"Tap in at Bus Stop 60158
+3 Zone UPass (N)",04:50 PM,,,,,
+May-25-2023 10:32 AM,Tap in at Bus Stop 61281,3 Zone UPass (N),,$0.00,$1.00,2023-05-25T17:32:00.0000000Z,"Tap in at Bus Stop 61281
+3 Zone UPass (N)",10:32 AM,,,,,
+May-24-2023 03:42 PM,Tap in at Bus Stop 50364,3 Zone UPass (N),,$0.00,$1.00,2023-05-24T22:42:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (N)",03:42 PM,,,,,
+May-24-2023 01:24 AM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-05-24T08:24:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",01:24 AM,,,,,
+May-23-2023 03:04 PM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$1.00,2023-05-23T22:04:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",03:04 PM,,,,,
+May-23-2023 11:19 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-05-23T18:19:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",11:19 AM,,,,,
+May-22-2023 11:27 AM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-05-22T18:18:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",11:27 AM,,,,,
+May-22-2023 11:24 AM,Tap out at King Edward Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-22T18:18:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (N)",11:24 AM,,,,,
+May-22-2023 11:18 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-22T18:18:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",11:18 AM,,,,,
+May-21-2023 04:59 PM,Tap in at Bus Stop 50355,3 Zone UPass (N),,$0.00,$1.00,2023-05-21T23:59:00.0000000Z,"Tap in at Bus Stop 50355
+3 Zone UPass (N)",04:59 PM,,,,,
+May-21-2023 02:58 PM,Transfer at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-05-21T21:17:00.0000000Z,"Transfer at Bus Stop 50537
+3 Zone UPass (N)",02:58 PM,,,,,
+May-21-2023 02:17 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-05-21T21:17:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",02:17 PM,,,,,
+May-20-2023 10:52 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-05-21T05:52:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",10:52 PM,,,,,
+May-20-2023 01:26 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-05-20T20:26:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",01:26 PM,,,,,
+May-19-2023 08:17 PM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-05-20T03:17:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",08:17 PM,,,,,
+May-19-2023 02:34 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-05-19T21:34:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",02:34 PM,,,,,
+May-18-2023 03:55 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-05-18T22:55:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",03:55 PM,,,,,
+May-18-2023 11:13 AM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-05-18T18:13:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",11:13 AM,,,,,
+May-18-2023 09:04 AM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-05-18T15:40:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",09:04 AM,,,,,
+May-18-2023 08:48 AM,Tap out at King Edward Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-18T15:40:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (N)",08:48 AM,,,,,
+May-18-2023 08:40 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-18T15:40:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",08:40 AM,,,,,
+May-17-2023 11:43 PM,Transfer at Bus Stop 60307,3 Zone UPass (N),,$0.00,$1.00,2023-05-18T06:31:00.0000000Z,"Transfer at Bus Stop 60307
+3 Zone UPass (N)",11:43 PM,,,,,
+May-17-2023 11:31 PM,Tap in at Bus Stop 60494,3 Zone UPass (N),,$0.00,$1.00,2023-05-18T06:31:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (N)",11:31 PM,,,,,
+May-17-2023 03:59 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-05-17T22:59:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",03:59 PM,,,,,
+May-16-2023 03:32 PM,Tap in at Bus Stop 51479,3 Zone UPass (N),,$0.00,$1.00,2023-05-16T22:32:00.0000000Z,"Tap in at Bus Stop 51479
+3 Zone UPass (N)",03:32 PM,,,,,
+May-16-2023 11:20 AM,Tap in at Bus Stop 50308,3 Zone UPass (N),,$0.00,$1.00,2023-05-16T18:20:00.0000000Z,"Tap in at Bus Stop 50308
+3 Zone UPass (N)",11:20 AM,,,,,
+May-16-2023 09:07 AM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-05-16T15:56:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",09:07 AM,,,,,
+May-16-2023 09:00 AM,Tap out at King Edward Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-16T15:56:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (N)",09:00 AM,,,,,
+May-16-2023 08:56 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-16T15:56:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",08:56 AM,,,,,
+May-14-2023 08:46 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-05-15T03:46:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",08:46 PM,,,,,
+May-14-2023 11:34 AM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-05-14T18:34:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",11:34 AM,,,,,
+May-13-2023 10:55 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-05-14T05:55:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",10:55 PM,,,,,
+May-13-2023 02:25 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-05-13T21:25:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",02:25 PM,,,,,
+May-12-2023 11:23 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-05-13T06:23:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",11:23 PM,,,,,
+May-12-2023 02:30 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-05-12T21:30:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",02:30 PM,,,,,
+May-12-2023 10:18 AM,Tap in at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-05-12T17:18:00.0000000Z,"Tap in at Bus Stop 51574
+3 Zone UPass (N)",10:18 AM,,,,,
+May-11-2023 09:47 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-12T03:58:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",09:47 PM,,,,,
+May-11-2023 09:40 PM,Transfer at Marine Drive Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-12T03:58:00.0000000Z,"Transfer at Marine Drive Stn
+3 Zone UPass (N)",09:40 PM,,,,,
+May-11-2023 08:58 PM,Tap in at Bus Stop 50424,3 Zone UPass (N),,$0.00,$1.00,2023-05-12T03:58:00.0000000Z,"Tap in at Bus Stop 50424
+3 Zone UPass (N)",08:58 PM,,,,,
+May-11-2023 03:43 PM,Tap in at Bus Stop 50364,3 Zone UPass (N),,$0.00,$1.00,2023-05-11T22:43:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (N)",03:43 PM,,,,,
+May-10-2023 09:48 PM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-05-11T04:48:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",09:48 PM,,,,,
+May-10-2023 12:12 PM,Tap in at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-05-10T19:12:00.0000000Z,"Tap in at Bus Stop 51574
+3 Zone UPass (N)",12:12 PM,,,,,
+May-10-2023 10:25 AM,Transfer at Bus Stop 50412,3 Zone UPass (N),,$0.00,$1.00,2023-05-10T16:55:00.0000000Z,"Transfer at Bus Stop 50412
+3 Zone UPass (N)",10:25 AM,,,,,
+May-10-2023 09:55 AM,Tap in at Bus Stop 50471,3 Zone UPass (N),,$0.00,$1.00,2023-05-10T16:55:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (N)",09:55 AM,,,,,
+May-09-2023 12:30 PM,Tap in at Bus Stop 60393,3 Zone UPass (N),,$0.00,$1.00,2023-05-09T19:30:00.0000000Z,"Tap in at Bus Stop 60393
+3 Zone UPass (N)",12:30 PM,,,,,
+May-08-2023 06:50 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-09T01:24:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",06:50 PM,,,,,
+May-08-2023 06:34 PM,Transfer at Waterfront Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-09T01:24:00.0000000Z,"Transfer at Waterfront Stn
+3 Zone UPass (N)",06:34 PM,,,,,
+May-08-2023 06:33 PM,Tap out at Waterfront Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-09T01:24:00.0000000Z,"Tap out at Waterfront Stn
+3 Zone UPass (N)",06:33 PM,,,,,
+May-08-2023 06:24 PM,Tap in at Stadium Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-09T01:24:00.0000000Z,"Tap in at Stadium Stn
+3 Zone UPass (N)",06:24 PM,,,,,
+May-08-2023 03:35 PM,Transfer at Bus Stop 54026,3 Zone UPass (N),,$0.00,$1.00,2023-05-08T22:13:00.0000000Z,"Transfer at Bus Stop 54026
+3 Zone UPass (N)",03:35 PM,,,,,
+May-08-2023 03:13 PM,Tap in at Bus Stop 60638,3 Zone UPass (N),,$0.00,$1.00,2023-05-08T22:13:00.0000000Z,"Tap in at Bus Stop 60638
+3 Zone UPass (N)",03:13 PM,,,,,
+May-08-2023 11:13 AM,Transfer at Bus Stop 50077,3 Zone UPass (N),,$0.00,$1.00,2023-05-08T17:35:00.0000000Z,"Transfer at Bus Stop 50077
+3 Zone UPass (N)",11:13 AM,,,,,
+May-08-2023 10:52 AM,Tap out at Waterfront Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-08T17:35:00.0000000Z,"Tap out at Waterfront Stn
+3 Zone UPass (N)",10:52 AM,,,,,
+May-08-2023 10:35 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-08T17:35:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",10:35 AM,,,,,
+May-07-2023 10:31 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-08T04:20:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",10:31 PM,,,,,
+May-07-2023 10:23 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-08T04:20:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",10:23 PM,,,,,
+May-07-2023 10:03 PM,Transfer at Bus Stop 58613,3 Zone UPass (N),,$0.00,$1.00,2023-05-08T04:20:00.0000000Z,"Transfer at Bus Stop 58613
+3 Zone UPass (N)",10:03 PM,,,,,
+May-07-2023 09:39 PM,Transfer at Bus Stop 50875,3 Zone UPass (N),,$0.00,$1.00,2023-05-08T04:20:00.0000000Z,"Transfer at Bus Stop 50875
+3 Zone UPass (N)",09:39 PM,,,,,
+May-07-2023 09:33 PM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-08T04:20:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",09:33 PM,,,,,
+May-07-2023 09:20 PM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-08T04:20:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",09:20 PM,,,,,
+May-07-2023 06:26 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-07T23:57:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",06:26 PM,,,,,
+May-07-2023 06:20 PM,Transfer at King Edward Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-07T23:57:00.0000000Z,"Transfer at King Edward Stn
+3 Zone UPass (N)",06:20 PM,,,,,
+May-07-2023 06:04 PM,Transfer at Bus Stop 50364,3 Zone UPass (N),,$0.00,$1.00,2023-05-07T23:57:00.0000000Z,"Transfer at Bus Stop 50364
+3 Zone UPass (N)",06:04 PM,,,,,
+May-07-2023 05:06 PM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-05-07T23:57:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",05:06 PM,,,,,
+May-07-2023 05:04 PM,Tap out at King Edward Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-07T23:57:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (N)",05:04 PM,,,,,
+May-07-2023 04:57 PM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-07T23:57:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",04:57 PM,,,,,
+May-07-2023 02:17 PM,Tap out at King Edward Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-07T20:55:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (N)",02:17 PM,,,,,
+May-07-2023 02:11 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-07T20:55:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",02:11 PM,,,,,
+May-07-2023 01:55 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-05-07T20:55:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",01:55 PM,,,,,
+May-06-2023 09:39 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-05-07T04:39:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",09:39 PM,,,,,
+May-06-2023 02:26 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-05-06T21:26:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",02:26 PM,,,,,
+May-05-2023 10:35 PM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-05-06T05:35:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",10:35 PM,,,,,
+May-05-2023 02:30 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-05-05T21:30:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",02:30 PM,,,,,
+May-04-2023 01:26 AM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$1.00,2023-05-04T08:02:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",01:26 AM,,,,,
+May-04-2023 01:02 AM,Tap in at Bus Stop 50537,3 Zone UPass (N),,$0.00,$1.00,2023-05-04T08:02:00.0000000Z,"Tap in at Bus Stop 50537
+3 Zone UPass (N)",01:02 AM,,,,,
+May-03-2023 04:23 PM,Tap in at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-05-03T23:23:00.0000000Z,"Tap in at Bus Stop 58037
+3 Zone UPass (N)",04:23 PM,,,,,
+May-03-2023 12:16 PM,Tap in at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-05-03T19:16:00.0000000Z,"Tap in at Bus Stop 51574
+3 Zone UPass (N)",12:16 PM,,,,,
+May-02-2023 10:07 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-03T04:19:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",10:07 PM,,,,,
+May-02-2023 09:57 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-03T04:19:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",09:57 PM,,,,,
+May-02-2023 09:48 PM,Transfer at Bus Stop 58613,3 Zone UPass (N),,$0.00,$1.00,2023-05-03T04:19:00.0000000Z,"Transfer at Bus Stop 58613
+3 Zone UPass (N)",09:48 PM,,,,,
+May-02-2023 09:32 PM,Transfer at Bus Stop 50875,3 Zone UPass (N),,$0.00,$1.00,2023-05-03T04:19:00.0000000Z,"Transfer at Bus Stop 50875
+3 Zone UPass (N)",09:32 PM,,,,,
+May-02-2023 09:27 PM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-03T04:19:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",09:27 PM,,,,,
+May-02-2023 09:19 PM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-03T04:19:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",09:19 PM,,,,,
+May-02-2023 01:56 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-02T20:16:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",01:56 PM,,,,,
+May-02-2023 01:47 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-05-02T20:16:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",01:47 PM,,,,,
+May-02-2023 01:16 PM,Tap in at Bus Stop 50471,3 Zone UPass (N),,$0.00,$1.00,2023-05-02T20:16:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (N)",01:16 PM,,,,,
+May-02-2023 09:06 AM,Tap in at Bus Stop 50364,3 Zone UPass (N),,$0.00,$1.00,2023-05-02T16:06:00.0000000Z,"Tap in at Bus Stop 50364
+3 Zone UPass (N)",09:06 AM,,,,,
+Apr-30-2023 03:13 PM,Transfer at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-04-30T21:24:00.0000000Z,"Transfer at Bus Stop 60164
+3 Zone UPass (N)",03:13 PM,,,,,
+Apr-30-2023 02:24 PM,Tap in at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-04-30T21:24:00.0000000Z,"Tap in at Bus Stop 51592
+3 Zone UPass (N)",02:24 PM,,,,,
+Apr-30-2023 02:24 PM,Loaded at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,,"Loaded at Bus Stop 51592
+3 Zone UPass (N)",02:24 PM,,,,,
+Apr-29-2023 11:20 AM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$1.00,2023-04-29T18:20:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",11:20 AM,,,,,
+Apr-22-2023 12:41 PM,Transfer at Bus Stop 61042,3 Zone UPass (N),,$0.00,$1.00,2023-04-22T19:07:00.0000000Z,"Transfer at Bus Stop 61042
+3 Zone UPass (N)",12:41 PM,,,,,
+Apr-22-2023 12:07 PM,Tap in at Bus Stop 60163,3 Zone UPass (N),,$0.00,$1.00,2023-04-22T19:07:00.0000000Z,"Tap in at Bus Stop 60163
+3 Zone UPass (N)",12:07 PM,,,,,
+Apr-14-2023 12:52 PM,Tap in at Bus Stop 60574,3 Zone UPass (N),,$0.00,$1.00,2023-04-14T19:52:00.0000000Z,"Tap in at Bus Stop 60574
+3 Zone UPass (N)",12:52 PM,,,,,
+Apr-14-2023 11:48 AM,Transfer at Bus Stop 50350,3 Zone UPass (N),,$0.00,$1.00,2023-04-14T17:59:00.0000000Z,"Transfer at Bus Stop 50350
+3 Zone UPass (N)",11:48 AM,,,,,
+Apr-14-2023 10:59 AM,Tap in at Bus Stop 60159,3 Zone UPass (N),,$0.00,$1.00,2023-04-14T17:59:00.0000000Z,"Tap in at Bus Stop 60159
+3 Zone UPass (N)",10:59 AM,,,,,
+Apr-13-2023 10:48 AM,Transfer at Bus Stop 61580,3 Zone UPass (N),,$0.00,$1.00,2023-04-13T17:13:00.0000000Z,"Transfer at Bus Stop 61580
+3 Zone UPass (N)",10:48 AM,,,,,
+Apr-13-2023 10:13 AM,Tap in at Bus Stop 60163,3 Zone UPass (N),,$0.00,$1.00,2023-04-13T17:13:00.0000000Z,"Tap in at Bus Stop 60163
+3 Zone UPass (N)",10:13 AM,,,,,
+Apr-12-2023 04:26 PM,Transfer at Bus Stop 51593,3 Zone UPass (N),,$0.00,$1.00,2023-04-12T22:57:00.0000000Z,"Transfer at Bus Stop 51593
+3 Zone UPass (N)",04:26 PM,,,,,
+Apr-12-2023 03:57 PM,Tap in at Bus Stop 51480,3 Zone UPass (N),,$0.00,$1.00,2023-04-12T22:57:00.0000000Z,"Tap in at Bus Stop 51480
+3 Zone UPass (N)",03:57 PM,,,,,
+Apr-12-2023 12:08 AM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-04-12T07:08:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",12:08 AM,,,,,
+Apr-11-2023 02:00 PM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$1.00,2023-04-11T21:00:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",02:00 PM,,,,,
+Apr-10-2023 04:49 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-04-10T23:49:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",04:49 PM,,,,,
+Apr-10-2023 11:24 AM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$1.00,2023-04-10T17:41:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",11:24 AM,,,,,
+Apr-10-2023 10:49 AM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-04-10T17:41:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",10:49 AM,,,,,
+Apr-10-2023 10:41 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-04-10T17:41:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",10:41 AM,,,,,
+Apr-09-2023 01:03 PM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-04-09T20:03:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",01:03 PM,,,,,
+Apr-08-2023 01:04 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-04-08T20:04:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",01:04 PM,,,,,
+Apr-05-2023 08:33 PM,Transfer at Bus Stop 61580,3 Zone UPass (N),,$0.00,$1.00,2023-04-06T02:54:00.0000000Z,"Transfer at Bus Stop 61580
+3 Zone UPass (N)",08:33 PM,,,,,
+Apr-05-2023 07:54 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-04-06T02:54:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",07:54 PM,,,,,
+Apr-05-2023 12:20 AM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-04-05T07:20:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",12:20 AM,,,,,
+Apr-04-2023 02:11 PM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$1.00,2023-04-04T21:11:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",02:11 PM,,,,,
+Apr-02-2023 06:31 PM,Transfer at Bus Stop 50924,3 Zone UPass (N),,$0.00,$1.00,2023-04-03T00:55:00.0000000Z,"Transfer at Bus Stop 50924
+3 Zone UPass (N)",06:31 PM,,,,,
+Apr-02-2023 06:04 PM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-04-03T00:55:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",06:04 PM,,,,,
+Apr-02-2023 05:55 PM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-04-03T00:55:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",05:55 PM,,,,,
+Apr-02-2023 11:01 AM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-04-02T18:01:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",11:01 AM,,,,,
+Mar-29-2023 12:08 AM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-03-29T07:08:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",12:08 AM,,,,,
+Mar-28-2023 01:50 PM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-03-28T20:50:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",01:50 PM,,,,,
+Mar-26-2023 05:08 PM,Tap in at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-03-27T00:08:00.0000000Z,"Tap in at Bus Stop 51574
+3 Zone UPass (N)",05:08 PM,,,,,
+Mar-25-2023 05:32 PM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-03-26T00:32:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",05:32 PM,,,,,
+Mar-25-2023 05:32 PM,Loaded at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,,"Loaded at Bus Stop 60162
+3 Zone UPass (N)",05:32 PM,,,,,
+Mar-24-2023 09:52 PM,Tap in at Bus Stop 60385,3 Zone UPass (N),,$0.00,$1.00,2023-03-25T04:52:00.0000000Z,"Tap in at Bus Stop 60385
+3 Zone UPass (N)",09:52 PM,,,,,
+Mar-24-2023 08:06 PM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-03-25T03:06:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",08:06 PM,,,,,
+Mar-22-2023 12:50 AM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-03-22T07:50:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",12:50 AM,,,,,
+Mar-21-2023 02:12 PM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$1.00,2023-03-21T21:12:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",02:12 PM,,,,,
+Mar-19-2023 05:08 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-03-20T00:08:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",05:08 PM,,,,,
+Mar-15-2023 01:58 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-03-15T20:58:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",01:58 PM,,,,,
+Mar-15-2023 12:20 AM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-03-15T07:20:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",12:20 AM,,,,,
+Mar-14-2023 02:01 PM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$1.00,2023-03-14T21:01:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",02:01 PM,,,,,
+Mar-12-2023 05:28 PM,Tap in at Bus Stop 61281,3 Zone UPass (N),,$0.00,$1.00,2023-03-13T00:28:00.0000000Z,"Tap in at Bus Stop 61281
+3 Zone UPass (N)",05:28 PM,,,,,
+Mar-11-2023 07:58 PM,Transfer at Bus Stop 61337,3 Zone UPass (N),,$0.00,$1.00,2023-03-12T03:30:00.0000000Z,"Transfer at Bus Stop 61337
+3 Zone UPass (N)",07:58 PM,,,,,
+Mar-11-2023 07:54 PM,Tap out at Marine Drive Stn,3 Zone UPass (N),,$0.00,$1.00,2023-03-12T03:30:00.0000000Z,"Tap out at Marine Drive Stn
+3 Zone UPass (N)",07:54 PM,,,,,
+Mar-11-2023 07:52 PM,Transfer at Marine Drive Stn,3 Zone UPass (N),,$0.00,$1.00,2023-03-12T03:30:00.0000000Z,"Transfer at Marine Drive Stn
+3 Zone UPass (N)",07:52 PM,,,,,
+Mar-11-2023 07:30 PM,Tap in at Bus Stop 50981,3 Zone UPass (N),,$0.00,$1.00,2023-03-12T03:30:00.0000000Z,"Tap in at Bus Stop 50981
+3 Zone UPass (N)",07:30 PM,,,,,
+Mar-11-2023 03:35 PM,Tap in at Bus Stop 60383,3 Zone UPass (N),,$0.00,$1.00,2023-03-11T23:35:00.0000000Z,"Tap in at Bus Stop 60383
+3 Zone UPass (N)",03:35 PM,,,,,
+Mar-08-2023 01:28 AM,Transfer at Bus Stop 58613,3 Zone UPass (N),,$0.00,$1.00,2023-03-08T08:19:00.0000000Z,"Transfer at Bus Stop 58613
+3 Zone UPass (N)",01:28 AM,,,,,
+Mar-08-2023 12:19 AM,Tap in at Bus Stop 60494,3 Zone UPass (N),,$0.00,$1.00,2023-03-08T08:19:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (N)",12:19 AM,,,,,
+Mar-07-2023 01:53 PM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$1.00,2023-03-07T21:53:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",01:53 PM,,,,,
+Mar-05-2023 08:49 PM,Transfer at Bus Stop 60385,3 Zone UPass (N),,$0.00,$1.00,2023-03-06T04:32:00.0000000Z,"Transfer at Bus Stop 60385
+3 Zone UPass (N)",08:49 PM,,,,,
+Mar-05-2023 08:32 PM,Tap in at Bus Stop 51014,3 Zone UPass (N),,$0.00,$1.00,2023-03-06T04:32:00.0000000Z,"Tap in at Bus Stop 51014
+3 Zone UPass (N)",08:32 PM,,,,,
+Mar-05-2023 06:16 PM,Transfer at Bus Stop 51099,3 Zone UPass (N),,$0.00,$1.00,2023-03-06T01:51:00.0000000Z,"Transfer at Bus Stop 51099
+3 Zone UPass (N)",06:16 PM,,,,,
+Mar-05-2023 05:51 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-03-06T01:51:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",05:51 PM,,,,,
+Mar-04-2023 02:33 PM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-03-04T22:33:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",02:33 PM,,,,,
+Mar-03-2023 10:05 PM,Tap in at Bus Stop 52095,3 Zone UPass (N),,$0.00,$1.00,2023-03-04T06:05:00.0000000Z,"Tap in at Bus Stop 52095
+3 Zone UPass (N)",10:05 PM,,,,,
+Mar-03-2023 07:49 PM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$1.00,2023-03-04T03:49:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",07:49 PM,,,,,
+Mar-02-2023 05:39 PM,Transfer at Bus Stop 51592,3 Zone UPass (N),,$0.00,$1.00,2023-03-03T00:46:00.0000000Z,"Transfer at Bus Stop 51592
+3 Zone UPass (N)",05:39 PM,,,,,
+Mar-02-2023 05:24 PM,Transfer at Bus Stop 60575,3 Zone UPass (N),,$0.00,$1.00,2023-03-03T00:46:00.0000000Z,"Transfer at Bus Stop 60575
+3 Zone UPass (N)",05:24 PM,,,,,
+Mar-02-2023 05:06 PM,Transfer at Bus Stop 58501,3 Zone UPass (N),,$0.00,$1.00,2023-03-03T00:46:00.0000000Z,"Transfer at Bus Stop 58501
+3 Zone UPass (N)",05:06 PM,,,,,
+Mar-02-2023 05:03 PM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-03-03T00:46:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",05:03 PM,,,,,
+Mar-02-2023 04:46 PM,Tap in at Templeton Stn,3 Zone UPass (N),,$0.00,$1.00,2023-03-03T00:46:00.0000000Z,"Tap in at Templeton Stn
+3 Zone UPass (N)",04:46 PM,,,,,
+Mar-02-2023 04:06 PM,Tap out at Templeton Stn,3 Zone UPass (N),,$0.00,$1.00,2023-03-02T23:10:00.0000000Z,"Tap out at Templeton Stn
+3 Zone UPass (N)",04:06 PM,,,,,
+Mar-02-2023 03:54 PM,Transfer at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-03-02T23:10:00.0000000Z,"Transfer at Oakridge-41st Stn
+3 Zone UPass (N)",03:54 PM,,,,,
+Mar-02-2023 03:10 PM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-03-02T23:10:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",03:10 PM,,,,,
+Mar-01-2023 12:34 AM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-03-01T08:34:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",12:34 AM,,,,,
+Feb-28-2023 02:18 PM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$1.00,2023-02-28T22:18:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",02:18 PM,,,,,
+Feb-26-2023 05:13 PM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-02-27T01:04:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",05:13 PM,,,,,
+Feb-26-2023 05:04 PM,Tap in at Bus Stop 50471,3 Zone UPass (N),,$0.00,$1.00,2023-02-27T01:04:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (N)",05:04 PM,,,,,
+Feb-26-2023 11:18 AM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-02-26T19:18:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",11:18 AM,,,,,
+Feb-26-2023 11:18 AM,Loaded at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,,"Loaded at Bus Stop 60162
+3 Zone UPass (N)",11:18 AM,,,,,
+Feb-24-2023 07:56 AM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-02-24T15:49:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",07:56 AM,,,,,
+Feb-24-2023 07:54 AM,Tap out at King Edward Stn,3 Zone UPass (N),,$0.00,$1.00,2023-02-24T15:49:00.0000000Z,"Tap out at King Edward Stn
+3 Zone UPass (N)",07:54 AM,,,,,
+Feb-24-2023 07:49 AM,Tap in at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-02-24T15:49:00.0000000Z,"Tap in at Oakridge-41st Stn
+3 Zone UPass (N)",07:49 AM,,,,,
+Feb-23-2023 01:54 PM,Transfer at Bus Stop 51882,3 Zone UPass (N),,$0.00,$1.00,2023-02-23T21:15:00.0000000Z,"Transfer at Bus Stop 51882
+3 Zone UPass (N)",01:54 PM,,,,,
+Feb-23-2023 01:15 PM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-02-23T21:15:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",01:15 PM,,,,,
+Feb-21-2023 11:49 PM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-02-22T07:49:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",11:49 PM,,,,,
+Feb-20-2023 03:18 PM,Transfer at Bus Stop 50412,3 Zone UPass (N),,$0.00,$1.00,2023-02-20T22:26:00.0000000Z,"Transfer at Bus Stop 50412
+3 Zone UPass (N)",03:18 PM,,,,,
+Feb-20-2023 02:32 PM,Tap out at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-02-20T22:26:00.0000000Z,"Tap out at Broadway-City Hall Stn
+3 Zone UPass (N)",02:32 PM,,,,,
+Feb-20-2023 02:26 PM,Tap in at Yaletown-Roundhouse Stn,3 Zone UPass (N),,$0.00,$1.00,2023-02-20T22:26:00.0000000Z,"Tap in at Yaletown-Roundhouse Stn
+3 Zone UPass (N)",02:26 PM,,,,,
+Feb-20-2023 12:18 PM,Tap in at Bus Stop 50308,3 Zone UPass (N),,$0.00,$1.00,2023-02-20T20:18:00.0000000Z,"Tap in at Bus Stop 50308
+3 Zone UPass (N)",12:18 PM,,,,,
+Feb-20-2023 08:44 AM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-02-20T16:44:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",08:44 AM,,,,,
+Feb-17-2023 04:55 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-02-18T00:55:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",04:55 PM,,,,,
+Feb-15-2023 06:54 PM,Transfer at Bus Stop 61043,3 Zone UPass (N),,$0.00,$1.00,2023-02-16T02:03:00.0000000Z,"Transfer at Bus Stop 61043
+3 Zone UPass (N)",06:54 PM,,,,,
+Feb-15-2023 06:03 PM,Tap in at Bus Stop 60163,3 Zone UPass (N),,$0.00,$1.00,2023-02-16T02:03:00.0000000Z,"Tap in at Bus Stop 60163
+3 Zone UPass (N)",06:03 PM,,,,,
+Feb-15-2023 01:04 AM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-02-15T09:04:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",01:04 AM,,,,,
+Feb-14-2023 02:20 PM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$1.00,2023-02-14T22:20:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",02:20 PM,,,,,
+Feb-13-2023 03:47 PM,Transfer at Bus Stop 59942,3 Zone UPass (N),,$0.00,$1.00,2023-02-13T23:03:00.0000000Z,"Transfer at Bus Stop 59942
+3 Zone UPass (N)",03:47 PM,,,,,
+Feb-13-2023 03:03 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-02-13T23:03:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",03:03 PM,,,,,
+Feb-13-2023 01:15 PM,Transfer at Bus Stop 61580,3 Zone UPass (N),,$0.00,$1.00,2023-02-13T21:02:00.0000000Z,"Transfer at Bus Stop 61580
+3 Zone UPass (N)",01:15 PM,,,,,
+Feb-13-2023 01:02 PM,Tap in at Bus Stop 60383,3 Zone UPass (N),,$0.00,$1.00,2023-02-13T21:02:00.0000000Z,"Tap in at Bus Stop 60383
+3 Zone UPass (N)",01:02 PM,,,,,
+Feb-13-2023 09:04 AM,Tap in at Bus Stop 60574,3 Zone UPass (N),,$0.00,$1.00,2023-02-13T17:04:00.0000000Z,"Tap in at Bus Stop 60574
+3 Zone UPass (N)",09:04 AM,,,,,
+Feb-13-2023 07:28 AM,Tap in at Bus Stop 60159,3 Zone UPass (N),,$0.00,$1.00,2023-02-13T15:28:00.0000000Z,"Tap in at Bus Stop 60159
+3 Zone UPass (N)",07:28 AM,,,,,
+Feb-12-2023 05:20 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-02-13T01:20:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",05:20 PM,,,,,
+Feb-08-2023 04:36 PM,Transfer at Bus Stop 61580,3 Zone UPass (N),,$0.00,$1.00,2023-02-09T00:09:00.0000000Z,"Transfer at Bus Stop 61580
+3 Zone UPass (N)",04:36 PM,,,,,
+Feb-08-2023 04:09 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-02-09T00:09:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",04:09 PM,,,,,
+Feb-08-2023 12:48 AM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-02-08T08:48:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",12:48 AM,,,,,
+Feb-07-2023 02:12 PM,Tap in at Bus Stop 50268,3 Zone UPass (N),,$0.00,$1.00,2023-02-07T22:12:00.0000000Z,"Tap in at Bus Stop 50268
+3 Zone UPass (N)",02:12 PM,,,,,
+Feb-06-2023 10:50 AM,Tap in at Bus Stop 61281,3 Zone UPass (N),,$0.00,$1.00,2023-02-06T18:50:00.0000000Z,"Tap in at Bus Stop 61281
+3 Zone UPass (N)",10:50 AM,,,,,
+Feb-05-2023 04:13 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-02-05T23:26:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",04:13 PM,,,,,
+Feb-05-2023 04:06 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-02-05T23:26:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",04:06 PM,,,,,
+Feb-05-2023 03:26 PM,Tap in at Bus Stop 50469,3 Zone UPass (N),,$0.00,$1.00,2023-02-05T23:26:00.0000000Z,"Tap in at Bus Stop 50469
+3 Zone UPass (N)",03:26 PM,,,,,
+Feb-04-2023 06:39 PM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-02-05T02:39:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",06:39 PM,,,,,
+Feb-01-2023 12:50 AM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-02-01T08:50:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",12:50 AM,,,,,
+Jan-31-2023 03:05 PM,Transfer at Bus Stop 58037,3 Zone UPass (N),,$0.00,$1.00,2023-01-31T22:00:00.0000000Z,"Transfer at Bus Stop 58037
+3 Zone UPass (N)",03:05 PM,,,,,
+Jan-31-2023 02:00 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-01-31T22:00:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",02:00 PM,,,,,
+Jan-30-2023 10:10 AM,Tap in at Bus Stop 61281,3 Zone UPass (N),,$0.00,$1.00,2023-01-30T18:10:00.0000000Z,"Tap in at Bus Stop 61281
+3 Zone UPass (N)",10:10 AM,,,,,
+Jan-29-2023 10:17 PM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-01-30T06:17:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",10:17 PM,,,,,
+Jan-28-2023 09:27 PM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-01-29T05:27:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",09:27 PM,,,,,
+Jan-28-2023 10:00 AM,Tap in at Bus Stop 61281,3 Zone UPass (N),,$0.00,$1.00,2023-01-28T18:00:00.0000000Z,"Tap in at Bus Stop 61281
+3 Zone UPass (N)",10:00 AM,,,,,
+Jan-25-2023 06:34 PM,Transfer at Bus Stop 61042,3 Zone UPass (N),,$0.00,$1.00,2023-01-26T01:53:00.0000000Z,"Transfer at Bus Stop 61042
+3 Zone UPass (N)",06:34 PM,,,,,
+Jan-25-2023 05:53 PM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-01-26T01:53:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",05:53 PM,,,,,
+Jan-25-2023 05:53 PM,Loaded at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,,"Loaded at Bus Stop 60162
+3 Zone UPass (N)",05:53 PM,,,,,
+Jan-24-2023 02:26 PM,Tap in at Bus Stop 50268,3 Zone UPass (N),,$0.00,$1.00,2023-01-24T22:26:00.0000000Z,"Tap in at Bus Stop 50268
+3 Zone UPass (N)",02:26 PM,,,,,
+Jan-23-2023 04:49 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-01-24T00:49:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",04:49 PM,,,,,
+Jan-23-2023 09:25 AM,Tap in at Bus Stop 61281,3 Zone UPass (N),,$0.00,$1.00,2023-01-23T17:25:00.0000000Z,"Tap in at Bus Stop 61281
+3 Zone UPass (N)",09:25 AM,,,,,
+Jan-22-2023 04:02 PM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-01-23T00:02:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",04:02 PM,,,,,
+Jan-22-2023 02:42 PM,Transfer at Bus Stop 61281,3 Zone UPass (N),,$0.00,$1.00,2023-01-22T21:38:00.0000000Z,"Transfer at Bus Stop 61281
+3 Zone UPass (N)",02:42 PM,,,,,
+Jan-22-2023 01:46 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-01-22T21:38:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",01:46 PM,,,,,
+Jan-22-2023 01:38 PM,Tap in at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-01-22T21:38:00.0000000Z,"Tap in at Broadway-City Hall Stn
+3 Zone UPass (N)",01:38 PM,,,,,
+Jan-21-2023 06:07 PM,Transfer at Bus Stop 58145,3 Zone UPass (N),,$0.00,$1.00,2023-01-22T01:31:00.0000000Z,"Transfer at Bus Stop 58145
+3 Zone UPass (N)",06:07 PM,,,,,
+Jan-21-2023 05:31 PM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$1.00,2023-01-22T01:31:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",05:31 PM,,,,,
+Jan-20-2023 10:59 PM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-01-21T06:59:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",10:59 PM,,,,,
+Jan-20-2023 08:39 PM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$1.00,2023-01-21T04:39:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",08:39 PM,,,,,
+Jan-20-2023 11:42 AM,Transfer at Bus Stop 50357,3 Zone UPass (N),,$0.00,$1.00,2023-01-20T19:06:00.0000000Z,"Transfer at Bus Stop 50357
+3 Zone UPass (N)",11:42 AM,,,,,
+Jan-20-2023 11:06 AM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$1.00,2023-01-20T19:06:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",11:06 AM,,,,,
+Jan-18-2023 01:25 PM,Transfer at Bus Stop 61580,3 Zone UPass (N),,$0.00,$1.00,2023-01-18T21:04:00.0000000Z,"Transfer at Bus Stop 61580
+3 Zone UPass (N)",01:25 PM,,,,,
+Jan-18-2023 01:04 PM,Tap in at Bus Stop 51479,3 Zone UPass (N),,$0.00,$1.00,2023-01-18T21:04:00.0000000Z,"Tap in at Bus Stop 51479
+3 Zone UPass (N)",01:04 PM,,,,,
+Jan-18-2023 12:48 AM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-01-18T08:48:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",12:48 AM,,,,,
+Jan-17-2023 01:58 PM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$1.00,2023-01-17T21:58:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",01:58 PM,,,,,
+Jan-16-2023 05:47 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-01-17T01:47:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",05:47 PM,,,,,
+Jan-16-2023 10:09 AM,Tap in at Bus Stop 61281,3 Zone UPass (N),,$0.00,$1.00,2023-01-16T18:09:00.0000000Z,"Tap in at Bus Stop 61281
+3 Zone UPass (N)",10:09 AM,,,,,
+Jan-15-2023 06:03 PM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-01-16T02:03:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",06:03 PM,,,,,
+Jan-14-2023 01:11 PM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-01-14T21:11:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",01:11 PM,,,,,
+Jan-13-2023 04:52 PM,Transfer at Bus Stop 61580,3 Zone UPass (N),,$0.00,$1.00,2023-01-14T00:12:00.0000000Z,"Transfer at Bus Stop 61580
+3 Zone UPass (N)",04:52 PM,,,,,
+Jan-13-2023 04:36 PM,Transfer at Bus Stop 51480,3 Zone UPass (N),,$0.00,$1.00,2023-01-14T00:12:00.0000000Z,"Transfer at Bus Stop 51480
+3 Zone UPass (N)",04:36 PM,,,,,
+Jan-13-2023 04:12 PM,Tap in at Bus Stop 61281,3 Zone UPass (N),,$0.00,$1.00,2023-01-14T00:12:00.0000000Z,"Tap in at Bus Stop 61281
+3 Zone UPass (N)",04:12 PM,,,,,
+Jan-13-2023 12:50 PM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-01-13T20:50:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",12:50 PM,,,,,
+Jan-11-2023 02:11 PM,Transfer at Bus Stop 61580,3 Zone UPass (N),,$0.00,$1.00,2023-01-11T21:34:00.0000000Z,"Transfer at Bus Stop 61580
+3 Zone UPass (N)",02:11 PM,,,,,
+Jan-11-2023 01:34 PM,Tap in at Bus Stop 60164,3 Zone UPass (N),,$0.00,$1.00,2023-01-11T21:34:00.0000000Z,"Tap in at Bus Stop 60164
+3 Zone UPass (N)",01:34 PM,,,,,
+Jan-11-2023 12:49 AM,Tap in at Bus Stop 50540,3 Zone UPass (N),,$0.00,$1.00,2023-01-11T08:49:00.0000000Z,"Tap in at Bus Stop 50540
+3 Zone UPass (N)",12:49 AM,,,,,
+Jan-10-2023 02:10 PM,Tap in at Bus Stop 61935,3 Zone UPass (N),,$0.00,$1.00,2023-01-10T22:10:00.0000000Z,"Tap in at Bus Stop 61935
+3 Zone UPass (N)",02:10 PM,,,,,
+Jan-08-2023 08:12 PM,Transfer at Bus Stop 51560,3 Zone UPass (N),,$0.00,$1.00,2023-01-09T03:08:00.0000000Z,"Transfer at Bus Stop 51560
+3 Zone UPass (N)",08:12 PM,,,,,
+Jan-08-2023 08:01 PM,Tap out at Nanaimo Stn,3 Zone UPass (N),,$0.00,$1.00,2023-01-09T03:08:00.0000000Z,"Tap out at Nanaimo Stn
+3 Zone UPass (N)",08:01 PM,,,,,
+Jan-08-2023 07:31 PM,Transfer at Lougheed Stn,3 Zone UPass (N),,$0.00,$1.00,2023-01-09T03:08:00.0000000Z,"Transfer at Lougheed Stn
+3 Zone UPass (N)",07:31 PM,,,,,
+Jan-08-2023 07:08 PM,Tap in at Bus Stop 61717,3 Zone UPass (N),,$0.00,$1.00,2023-01-09T03:08:00.0000000Z,"Tap in at Bus Stop 61717
+3 Zone UPass (N)",07:08 PM,,,,,
+Jan-08-2023 12:33 PM,Transfer at Bus Stop 58432,3 Zone UPass (N),,$0.00,$1.00,2023-01-08T19:13:00.0000000Z,"Transfer at Bus Stop 58432
+3 Zone UPass (N)",12:33 PM,,,,,
+Jan-08-2023 12:19 PM,Tap out at Lougheed Stn,3 Zone UPass (N),,$0.00,$1.00,2023-01-08T19:13:00.0000000Z,"Tap out at Lougheed Stn
+3 Zone UPass (N)",12:19 PM,,,,,
+Jan-08-2023 11:51 AM,Transfer at Joyce Stn,3 Zone UPass (N),,$0.00,$1.00,2023-01-08T19:13:00.0000000Z,"Transfer at Joyce Stn
+3 Zone UPass (N)",11:51 AM,,,,,
+Jan-08-2023 11:13 AM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-01-08T19:13:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",11:13 AM,,,,,
+Jan-07-2023 12:28 PM,Tap in at Bus Stop 61281,3 Zone UPass (N),,$0.00,$1.00,2023-01-07T20:28:00.0000000Z,"Tap in at Bus Stop 61281
+3 Zone UPass (N)",12:28 PM,,,,,
+Jan-06-2023 05:57 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-01-07T01:10:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",05:57 PM,,,,,
+Jan-06-2023 05:49 PM,Transfer at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-01-07T01:10:00.0000000Z,"Transfer at Broadway-City Hall Stn
+3 Zone UPass (N)",05:49 PM,,,,,
+Jan-06-2023 05:10 PM,Tap in at Bus Stop 50469,3 Zone UPass (N),,$0.00,$1.00,2023-01-07T01:10:00.0000000Z,"Tap in at Bus Stop 50469
+3 Zone UPass (N)",05:10 PM,,,,,
+Jan-06-2023 12:56 PM,Tap out at Oakridge-41st Stn,3 Zone UPass (N),,$0.00,$1.00,2023-01-06T20:50:00.0000000Z,"Tap out at Oakridge-41st Stn
+3 Zone UPass (N)",12:56 PM,,,,,
+Jan-06-2023 12:50 PM,Tap in at Broadway-City Hall Stn,3 Zone UPass (N),,$0.00,$1.00,2023-01-06T20:50:00.0000000Z,"Tap in at Broadway-City Hall Stn
+3 Zone UPass (N)",12:50 PM,,,,,
+Jan-06-2023 11:13 AM,Tap in at Bus Stop 50469,3 Zone UPass (N),,$0.00,$1.00,2023-01-06T19:13:00.0000000Z,"Tap in at Bus Stop 50469
+3 Zone UPass (N)",11:13 AM,,,,,
+Jan-05-2023 10:51 PM,Tap in at Bus Stop 60162,3 Zone UPass (N),,$0.00,$1.00,2023-01-06T06:51:00.0000000Z,"Tap in at Bus Stop 60162
+3 Zone UPass (N)",10:51 PM,,,,,
+Jan-05-2023 12:10 PM,Transfer at Bus Stop 50403,3 Zone UPass (N),,$0.00,$1.00,2023-01-05T19:37:00.0000000Z,"Transfer at Bus Stop 50403
+3 Zone UPass (N)",12:10 PM,,,,,
+Jan-05-2023 11:37 AM,Tap in at Bus Stop 50308,3 Zone UPass (N),,$0.00,$1.00,2023-01-05T19:37:00.0000000Z,"Tap in at Bus Stop 50308
+3 Zone UPass (N)",11:37 AM,,,,,
+Jan-04-2023 12:38 PM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-01-04T20:28:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",12:38 PM,,,,,
+Jan-04-2023 12:28 PM,Tap in at Bus Stop 50471,3 Zone UPass (N),,$0.00,$1.00,2023-01-04T20:28:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (N)",12:28 PM,,,,,
+Jan-04-2023 01:03 AM,Transfer at Bus Stop 60307,3 Zone UPass (N),,$0.00,$1.00,2023-01-04T08:48:00.0000000Z,"Transfer at Bus Stop 60307
+3 Zone UPass (N)",01:03 AM,,,,,
+Jan-04-2023 12:48 AM,Tap in at Bus Stop 60494,3 Zone UPass (N),,$0.00,$1.00,2023-01-04T08:48:00.0000000Z,"Tap in at Bus Stop 60494
+3 Zone UPass (N)",12:48 AM,,,,,
+Jan-03-2023 03:33 PM,Tap in at Bus Stop 60980,3 Zone UPass (N),,$0.00,$1.00,2023-01-03T23:33:00.0000000Z,"Tap in at Bus Stop 60980
+3 Zone UPass (N)",03:33 PM,,,,,
+Jan-03-2023 11:28 AM,Tap in at Bus Stop 50308,3 Zone UPass (N),,$0.00,$1.00,2023-01-03T19:28:00.0000000Z,"Tap in at Bus Stop 50308
+3 Zone UPass (N)",11:28 AM,,,,,
+Jan-02-2023 12:16 PM,Transfer at Bus Stop 51574,3 Zone UPass (N),,$0.00,$1.00,2023-01-02T20:02:00.0000000Z,"Transfer at Bus Stop 51574
+3 Zone UPass (N)",12:16 PM,,,,,
+Jan-02-2023 12:02 PM,Tap in at Bus Stop 50471,3 Zone UPass (N),,$0.00,$1.00,2023-01-02T20:02:00.0000000Z,"Tap in at Bus Stop 50471
+3 Zone UPass (N)",12:02 PM,,,,,

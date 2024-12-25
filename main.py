@@ -1,10 +1,15 @@
 import pandas as pd
 import folium
 
-compass_card_history = pd.read_csv('Data/CompassCardHistory.csv')
-translink_transit_stops = pd.read_csv('Data/TranslinkTransitStops.csv')
+compass_card_history_path = 'Data/CompassCardHistoryBig.csv'
+translink_transit_stops_path = 'Data/TranslinkTransitStops.csv'
+
+compass_card_history = pd.read_csv(compass_card_history_path)
+translink_transit_stops = pd.read_csv(translink_transit_stops_path)
 
 def extract_location(transaction):
+    if pd.isna(transaction):
+        return None
     if "Bus Stop" in transaction:
         return transaction.split("Bus Stop ")[1]
     elif "Stn" in transaction:
@@ -13,10 +18,10 @@ def extract_location(transaction):
 
 compass_card_history['location'] = compass_card_history['Transaction'].apply(extract_location)
 
-bus_stops = compass_card_history[compass_card_history['location'].str.isdigit()]
-train_stations = compass_card_history[~compass_card_history['location'].str.isdigit()]
+bus_stops = compass_card_history[compass_card_history['location'].str.isdigit().fillna(False)].copy()
+train_stations = compass_card_history[~compass_card_history['location'].str.isdigit().fillna(False)].copy()
 
-compass_card_history['location'] = compass_card_history['location'].astype(str)
+bus_stops['location'] = bus_stops['location'].astype(str)
 translink_transit_stops['stop_code'] = translink_transit_stops['stop_code'].fillna(0).astype(int).astype(str)
 
 bus_stops = bus_stops.merge(
@@ -27,7 +32,7 @@ bus_stops = bus_stops.merge(
 )
 
 train_stations = train_stations.merge(
-    translink_transit_stops[translink_transit_stops['stop_code'] == 99999],
+    translink_transit_stops[translink_transit_stops['stop_code'] == "99999"],
     left_on='location',
     right_on='stop_name',
     how='inner'
@@ -51,5 +56,4 @@ for _, row in visited_locations.iterrows():
     ).add_to(m)
 
 m.save('Data/visited_locations_heatmap.html')
-
 print("Heatmap saved as 'visited_locations_heatmap.html'.")
